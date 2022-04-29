@@ -1,0 +1,35 @@
+#EXTM3U 
+
+
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/7837/CH_LOGO/60/40/0/0/45676872071383.png" group-title="URUGUAY", Canal 4 HD
+https://edge3-hr.cvattv.com.ar/live/c4eds/Canal4_URU/SA_SAGEMCOM/Canal4_URU.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1501613620299456522/Q4XvaiNM_400x400.jpg" group-title="URUGUAY", Canal 10 URUGUAY
+https://edge3-hr.cvattv.com.ar/live/c4eds/Canal10_URU/SA_SAGEMCOM/Canal10_URU.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1273250322950078464/b4h1aJgs_400x400.jpg" group-title="URUGUAY",TELEDOCE
+http://190.210.221.119/Processor3_11_chunklist_b1300000.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1382698919474380800/ZQ-bfjHp_400x400.jpg" group-title="URUGUAY", UCL TV
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1186616342490861569/1W-i3XmN_400x400.jpg" group-title="URUGUAY", La Red URUGUAY
+https://stmv1.srvif.com/laredtv/laredtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1162587675217551360/Ot_b3vTB_400x400.png" group-title="URUGUAY", Canal 9 Telerocha 
+https://stmv1.srvif.com/canal9/canal9/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1446152329745555462/_BdjkCz2_400x400.png" group-title="URUGUAY", CANAL 77
+https://stmv1.srvif.com/canal77/canal77/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1178750142335393800/ZRG8-qD8_400x400.jpg" group-title="URUGUAY", TV CHARRUA
+https://stmv.video.gmpro.top/tvcharrua/tvcharrua/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1335010852181860352/wV_lHG2W_400x400.jpg" group-title="DEPORTE", DIRECTV SPORTS
+http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-WWo-wPrp9c0/X9agAAWUkMI/AAAAAAAA7p0/BfYCqVVBNdE2SGSUP2VtGJoEHCqV1jB4gCLcBGAsYHQ/s639/cine-ar.png" group-title="CINE", CINEAR  22.4
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo_TVE-24h.svg" group-title="NOTICIAS", 24h
+https://rtvelivestreamv3.akamaized.net/24h/24h_main_dvr_720.m3u8
