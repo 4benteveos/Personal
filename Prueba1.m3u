@@ -43,7 +43,7 @@ https://cdn.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_Live_dash_enc_2A/Teve_Ciudad
 https://vxlive.cdn.antel.net.uy/auth_V_Veramas,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfVmVyYW1hcyUyRnZ4Zm10JTNEaGxzJTJGJTJBJmV4cGlyeT0xNjUxMjYyNzEwJnJhbmRvbT1aMUl5RjlnTURBJmMtaXA9MTc5LjI4LjIxNS45NyZpZF9yZWZlcmVuY2lhPUZMSUhNUlZGWlJVWlNaQ0NRSkxGRERLMThFU1RBUlRHVk5IRlhOTE44ODVNTENPV0pBSFROWUpLV0FNR1g5RzhWRFg2WllFQlI0NVlTUk9YS0U4VFhJSE5YWDZIRFMzTUdEWFRFTE5TMFhLWCZpZF9kaXNwb3NpdGl2bz0xMjU5NTEzNTEmaWRfZnJvbnRlbmQ9MTE5NiZwdWJsaWNfaWQ9MnN0MHYsNmQwNmM3ZDBlZmQwOTI5MGFmNzg2YmE5MjM1NDRiZjJmNjk5OTA2YTE4OGZlNmU1NjdkNTY1MDMyNWEwMTMwMQ==/vxfmt=hls/h_95abd1325d9ce9cf3d66d50543f417d2/var5000000/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://sp-ao.shortpixel.ai/client/q_glossy,ret_img,w_417/https://charruasdelfutbol.com/wp-content/uploads/2020/10/mascotas-que-ha-tenido-la-aeleccion-uruguaya-de-futbol-1-charonito-charona.png" group-title="URUGUAY", EVENTOS
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-distro/3e505667-321f-4d20-ae67-4c4cb9b0acf0/5.m3u8
+https://dtvott-abc.akamaized.net/dash_live_1061/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Canal_5_Uruguay_2021.png/revision/latest/scale-to-width-down/100?cb=20210725005410&path-prefix=es" group-title="URUGUAY", Canal 5
 #KODIPROP:inputstream.adaptive.license_type=widevine
