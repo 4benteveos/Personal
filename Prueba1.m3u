@@ -35,7 +35,9 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 https://rtvelivestreamv3.akamaized.net/24h/24h_main_dvr_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TVCiudad_logo_2020.png" group-title="URUGUAY", TV Ciudad
-https://vxlive.cdn.antel.net.uy/auth_livesignal_474,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfNDc0JTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2NTEyNjg3MTgmcmFuZG9tPWZTMzBUbnE2WUMmYy1pcD0xNzkuMjguMjE1Ljk3LDgwYTk0Y2JiOTc0YzAwYWU3YjMzNzYwMGE0OGYxM2I3ODk0MjlkMWQxYjBhM2FkOThlMDVlYjhjMmM2M2Y2YzQ=/vxfmt=hls/h_4e87ba91e00e1eff7a40be8574baa630/var3000000/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api2/
+https://cdn.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_Live_dash_enc_2A/Teve_Ciudad.mpd
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/vera.png" group-title="URUGUAY", Vera+
 https://vxlive.cdn.antel.net.uy/auth_V_Veramas,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfVmVyYW1hcyUyRnZ4Zm10JTNEaGxzJTJGJTJBJmV4cGlyeT0xNjUxMjYyNzEwJnJhbmRvbT1aMUl5RjlnTURBJmMtaXA9MTc5LjI4LjIxNS45NyZpZF9yZWZlcmVuY2lhPUZMSUhNUlZGWlJVWlNaQ0NRSkxGRERLMThFU1RBUlRHVk5IRlhOTE44ODVNTENPV0pBSFROWUpLV0FNR1g5RzhWRFg2WllFQlI0NVlTUk9YS0U4VFhJSE5YWDZIRFMzTUdEWFRFTE5TMFhLWCZpZF9kaXNwb3NpdGl2bz0xMjU5NTEzNTEmaWRfZnJvbnRlbmQ9MTE5NiZwdWJsaWNfaWQ9MnN0MHYsNmQwNmM3ZDBlZmQwOTI5MGFmNzg2YmE5MjM1NDRiZjJmNjk5OTA2YTE4OGZlNmU1NjdkNTY1MDMyNWEwMTMwMQ==/vxfmt=hls/h_95abd1325d9ce9cf3d66d50543f417d2/var5000000/playlist.m3u8
@@ -44,7 +46,9 @@ https://vxlive.cdn.antel.net.uy/auth_V_Veramas,vxttoken=cGF0aFVSST0lMkZhdXRoX1Zf
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-distro/3e505667-321f-4d20-ae67-4c4cb9b0acf0/5.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Canal_5_Uruguay_2021.png/revision/latest/scale-to-width-down/100?cb=20210725005410&path-prefix=es" group-title="URUGUAY", Canal 5
-https://livedelta2.cdn.antel.net.uy/out,vxttoken=cGF0aFVSST0lMkZvdXQlMkZ1JTJGYXV0aF9EX0NhbmFsNSUyRmhscyUyRiUyQSZleHBpcnk9MTY1MTI3MzIxOSZyYW5kb209SjloNWdrSHFHbiZjLWlwPTE3OS4yOC4yMTUuOTcmaWRfcmVmZXJlbmNpYT1GTElITVJWRlpSVVpTWkNDUUpMRkRESzE4RVNUQVJUR1ZOSEZYTkxOODg1TUxDT1dKQUhUTllKS1dBTUdYOUc4VkRYNlpZRUJSNDVZU1JPWEtFOFRYSUhOWFg2SERTM01HRFhURUxOUzBYS1gmaWRfZGlzcG9zaXRpdm89MTI1OTUxMzUxJmlkX2Zyb250ZW5kPTExOTYmcHVibGljX2lkPTJzNm5kLDE3NDk1ZDQ1MTg4MTkwOTdlZmIzOWY4ZGMzZDg0NTcyMWE5MDRhZjI0NWM4NjcxYjI0Y2MyOTU0NmJkOTJhYWY=/u/auth_D_Canal5/hls/auth_D_Canal5_HLSDEF13699_4.m3u8?m=1649441174
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api2/
+https://cdn.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/SA_Live_dash_enc_2A/TV_Nacional_Uy.mpd
 
 
 
