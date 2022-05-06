@@ -25,8 +25,6 @@ https://stmv1.srvif.com/canal77/canal77/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/0c/7a/8f/0c7a8f36c7fd42169570b07d4871f75d--uruguay-om.jpg" group-title="URUGUAY", TV CHARRUA
 https://stmv.video.gmpro.top/tvcharrua/tvcharrua/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/DirecTV_Sports_2018.svg/revision/latest/scale-to-width-down/250?cb=20200706223451&path-prefix=es" group-title="DEPORTE", DIRECTV SPORTS
-http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/CINEAR2017_%281%29.svg/revision/latest/scale-to-width-down/300?cb=20210527002752&path-prefix=es" group-title="CINE", CINEAR  22.4
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
@@ -129,7 +127,7 @@ http://51.222.241.122:8000/play/a03q
 #EXTINF:-1 tvg-id="directvsports2.ec", tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/revision/latest/scale-to-width-down/288?cb=20191025185617" group-title="DEPORTES", DIRECTV Sports 2 MX
 http://51.222.241.122:8000/play/a03s
 
-#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest/scale-to-width-down/185?cb=20180301233804" group-title="DEPORTES", DirecTV Sports MX
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest/scale-to-width-down/185?cb=20180301233804" group-title="DEPORTES", DirecTV Sports MX
 http://51.222.241.122:8000/play/a03r
 
 #EXTINF:-1 tvg-id="Dep|| beIN LA Liga FHD ES", tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/BeinSportsLaLiga.png/revision/latest/scale-to-width-down/220?cb=20161025122032" group-title="DEPORTES", Bein Sports La Liga HD
@@ -147,7 +145,7 @@ http://51.222.241.122:8000/play/a05o
 #EXTINF:-1 tvg-id="directtvsportplus.ar", tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/revision/latest/scale-to-width-down/240?cb=20191025185801" group-title="DEPORTES", DirecTV Sports + HD
 http://51.222.241.122:8000/play/a050
 
-#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest/scale-to-width-down/185?cb=20180301233804" group-title="DEPORTES", DirecTV Sports 1 HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest/scale-to-width-down/185?cb=20180301233804" group-title="DEPORTES", DirecTV Sports 1 HD
 http://51.222.241.122:8000/play/a04y
 
 #EXTINF:-1 tvg-id="directvsports2.ec", tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/revision/latest/scale-to-width-down/288?cb=20191025185617" group-title="DEPORTES", DirecTV Sports 2 HD
