@@ -135,7 +135,7 @@ http://51.222.241.122:8000/play/a03r
 #EXTINF:-1 tvg-id="Dep|| beIN LA Liga FHD ES", tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/BeinSportsLaLiga.png/revision/latest/scale-to-width-down/220?cb=20161025122032" group-title="DEPORTES", Bein Sports La Liga HD
 http://51.222.241.122:8000/play/a05p
 
-#EXTINF:-1 tvg-id="beinsports.my", tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/Bein_sports_%C3%B1.jpg/revision/latest/scale-to-width-down/220?cb=20170226193336" group-tile="DEPORTES", Bein Sports Ñ (opc.2)
+#EXTINF:-1 tvg-id="beinsports.my", tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/Bein_sports_%C3%B1.jpg/revision/latest/scale-to-width-down/220?cb=20170226193336" group-title="DEPORTES", Bein Sports Ñ (opc.2)
 http://51.222.241.122:8000/play/a04e
 
 #EXTINF:-1 tvg-id="beinsportespanol.us", tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/Bein_sports_%C3%B1.jpg/revision/latest/scale-to-width-down/220?cb=20170226193336" group-title="DEPORTES", Bein Sports Ñ OPC 3 HD
