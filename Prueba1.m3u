@@ -123,11 +123,6 @@ https://cdn.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_Live_dash_enc_2A/VTV_Plus_HD
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HFQPz8Z/co-vh1-mega-hits-m.png" group-title="MUSICA", VH1 MEGAHITS
-https://cdn.cvattv.com.ar/live/c6eds/VH1_Megahits/SA_Live_dash_enc_2A/VH1_Megahits.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pvRzWwv/ODAm-Os-LN-400x400.jpg" group-title="MUSICA", MTV HITS
 https://cdn.cvattv.com.ar/live/c6eds/MTV_Hits/SA_Live_dash_enc_2A/MTV_Hits.mpd
 
@@ -151,10 +146,6 @@ https://cdn.cvattv.com.ar/live/c6eds/Vorterix/SA_Live_dash_enc_2A/Vorterix.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pQfM5V8/Qmusica-TV-Logo.jpg" group-title="MUSICA", QUIERO
 https://cdn.cvattv.com.ar/live/c6eds/Quiero_HD/SA_Live_dash_enc_2A/Quiero_HD.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Q8Kfkym/vh1.png" group-title="MUSICA", VH1
-https://cdn.cvattv.com.ar/live/c7eds/VH1/SA_Live_dash_enc_2A/VH1.mpd
 
 
 
