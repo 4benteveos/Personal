@@ -81,12 +81,12 @@ https://cdn.cvattv.com.ar/live/c6eds/ISAT/SA_Live_dash_enc_2A/ISAT.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WsBhsDZ/ar-paramount-channel-m.png" group-title="CINE", PARAMOUNT
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Paramount_Network_%28Gradient%29.svg/revision/latest/scale-to-width-down/200?cb=20191226173409" group-title="CINE", PARAMOUNT
 https://cdn.cvattv.com.ar/live/c7eds/Paramount/SA_Live_dash_enc_2A/Paramount.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9bJ3cxp/ar-film-arts-m.png" group-title="CINE", FILM & ARTS
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/31/Film_%26_Arts.svg/revision/latest/scale-to-width-down/300?cb=20191030181426" group-title="CINE", FILM & ARTS
 https://cdn.cvattv.com.ar/live/c6eds/Film_Arts/SA_Live_dash_enc_2A/Film_Arts.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
@@ -113,12 +113,7 @@ https://cdn.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc_2A/History_2.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SRpHdzc/240px-VTV-Uruguay-svg.png" group-title="DEPORTES", VTV PLUS
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api2/
-https://cdn.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_Live_dash_enc_2A/VTV_Plus_HD.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SRpHdzc/240px-VTV-Uruguay-svg.png" group-title="- URUGUAY", VTV PLUS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SRpHdzc/240px-VTV-Uruguay-svg.png" group-title="DEPORTE", VTV PLUS
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api2/
 https://cdn.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_Live_dash_enc_2A/VTV_Plus_HD.mpd
