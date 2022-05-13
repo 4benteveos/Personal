@@ -164,14 +164,13 @@ http://51.222.241.122:8000/play/a05n
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pvRzWwv/ODAm-Os-LN-400x400.jpg" group-title="MUSICA", MTV HITS
-http://51.222.241.122:8000/play/a07y
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/MTV_Hits/SA_SAGEMCOM/MTV_Hits.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RQH8BtH/logo.png" group-title="MUSICA", MUCH MUSIC
 http://51.222.241.122:8000/play/a087
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M88NzqH/Xly8mKUw.jpg" group-title="MUSICA", HTV
-http://51.222.241.122:8000/play/a07w
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HTV/SA_SAGEMCOM/HTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ysT1qZ1/mjdzpnrjlzsjzp8l9ukg.png" group-title="MUSICA", VORTERIX
 https://cdn.cvattv.com.ar/live/c6eds/Vorterix/SA_Live_dash_enc_2A/Vorterix.mpd
