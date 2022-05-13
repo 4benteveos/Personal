@@ -11,7 +11,7 @@ https://edge3-hr.cvattv.com.ar/live/c4eds/Canal10_URU/SA_SAGEMCOM/Canal10_URU.m3
 http://190.210.221.119/Processor3_11_chunklist_b1300000.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/UCLLatam.png/revision/latest/scale-to-width-down/250?cb=20210308024753&path-prefix=es" group-title="URUGUAY", UCL TV
-https://livedelta2.cdn.antel.net.uy/out,vxttoken=cGF0aFVSST0lMkZvdXQlMkZ1JTJGYXV0aF9EX1VDTCUyRmhscyUyRiUyQSZleHBpcnk9MTY1MTI2MzQ0NCZyYW5kb209c3RFMU9nN0l3byZjLWlwPTE3OS4yOC4yMTUuOTcmaWRfcmVmZXJlbmNpYT1GTElITVJWRlpSVVpTWkNDUUpMRkRESzE4RVNUQVJUR1ZOSEZYTkxOODg1TUxDT1dKQUhUTllKS1dBTUdYOUc4VkRYNlpZRUJSNDVZU1JPWEtFOFRYSUhOWFg2SERTM01HRFhURUxOUzBYS1gmaWRfZGlzcG9zaXRpdm89MTI1OTUxMzUxJmlkX2Zyb250ZW5kPTExOTYmcHVibGljX2lkPTJzNnA3LDE2Yjk4ZWNhYTdhMGU5OGMzNTAwOTVmZDdhYjAxMTRhMzU4NDhlMTY1NjM3YzVhZDcwMjNhZjI0MWJhOTVhNWI=/u/auth_D_UCL/hls/auth_D_UCL_HLSDEF13689_4.m3u8?m=1650982508
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/La_Red_Uruguay_2018.png/revision/latest/scale-to-width-down/200?cb=20200825011821&path-prefix=es" group-title="URUGUAY", La Red
 https://d268yhgc98lzal.cloudfront.net/sdredtv/sdredtv.m3u8
