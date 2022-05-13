@@ -38,7 +38,7 @@ https://rtvelivestreamv3.akamaized.net/24h/24h_main_dvr_720.m3u8
 https://cdn.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_Live_dash_enc_2A/Teve_Ciudad.mpd
 
 #EXTINF:-1 tvg-logo="https://sp-ao.shortpixel.ai/client/q_glossy,ret_img,w_417/https://charruasdelfutbol.com/wp-content/uploads/2020/10/mascotas-que-ha-tenido-la-aeleccion-uruguaya-de-futbol-1-charonito-charona.png" group-title="URUGUAY", EVENTOS
-https://dtvott-abc.akamaized.net/dash_live_1061/manifest.mpd
+http://51.222.241.122:8000/play/a05o
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Canal_5_Uruguay_2021.png/revision/latest/scale-to-width-down/100?cb=20210725005410&path-prefix=es" group-title="URUGUAY", Canal 5
 #KODIPROP:inputstream.adaptive.license_type=widevine
