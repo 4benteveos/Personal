@@ -36,6 +36,9 @@ http://51.222.241.122:8000/play/a05o
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Canal_5_Uruguay_2021.png/revision/latest/scale-to-width-down/100?cb=20210725005410&path-prefix=es" group-title="URUGUAY", Canal 5
 http://190.210.221.119/Processor3_2_chunklist_b1300000.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/VTV_Logo_2021.png/revision/latest/scale-to-width-down/275?cb=20210429025515&path-prefix=es" group-title="URUGUAY", VTV
+http://51.222.241.122:8000/play/a049
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="NOTICIAS", 24h
@@ -43,6 +46,9 @@ https://rtvelivestreamv3.akamaized.net/24h/24h_main_dvr_720.m3u8
 
 #EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Euronews_2016_Stacked.svg/revision/latest/scale-to-width-down/150?cb=20210623155442&path-prefix=es" group-title="NOTICIAS", Euronews Español (M)
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/LaSexta_2016.svg/revision/latest/scale-to-width-down/150?cb=20160411194138" group-title="NOTICIAS", La SEXTA
+http://185.79.153.9:6500/play/a00u
 
 
 
@@ -84,7 +90,7 @@ http://51.222.241.122:8000/play/a03l
 http://51.222.241.122:8000/play/a070
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HPXHSQp/europa.png" group-title="CINE", EUROPA EUROPA
-https://edge9-hr.cvattv.com.ar/live/c6eds/Europa_Europa/SA_SAGEMCOM/Europa_Europa.m3u8
+http://51.222.241.122:8000/play/a01i
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/SundanceTV_2014.svg/revision/latest/scale-to-width-down/250?cb=20210424042805&path-prefix=es" group-title="CINE", SUNDANCE
 http://51.222.241.122:8000/play/a071
@@ -108,17 +114,14 @@ https://cdn.cvattv.com.ar/live/c7eds/WarnerHD/SA_Live_dash_enc_2A/WarnerHD.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="CIENCIA Y CULTURA", HISTORY
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="CULTURA", HISTORY
 http://51.222.241.122:8000/play/a06i
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/National_Geographic_Wild_2018.svg/revision/latest/scale-to-width-down/250?cb=20200126120742&path-prefix=es" group-title="CIENCIA Y CULTURA", NatGeo WILD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/National_Geographic_Wild_2018.svg/revision/latest/scale-to-width-down/250?cb=20200126120742&path-prefix=es" group-title="CULTURA", NatGeo WILD
 http://51.222.241.122:8000/play/a06m
 
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/VTV_Logo_2021.png/revision/latest/scale-to-width-down/275?cb=20210429025515&path-prefix=es" group-title="DEPORTES", VTV
-http://51.222.241.122:8000/play/a049
-
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/TVE2_logo_2008.png/revision/latest/scale-to-width-down/185?cb=20190108003232" group-title="CULTURA", LA2
+http://185.79.153.9:6500/play/a032
 
 
 
