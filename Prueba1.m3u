@@ -111,10 +111,8 @@ https://cdn.cvattv.com.ar/live/c7eds/WarnerHD/SA_Live_dash_enc_2A/WarnerHD.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="CIENCIA Y CULTURA", HISTORY
 http://51.222.241.122:8000/play/a06i
 
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DDxrqKz/h2.png" group-title="CIENCIA Y CULTURA", H2
-https://cdn.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc_2A/History_2.mpd
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/National_Geographic_Wild_2018.svg/revision/latest/scale-to-width-down/250?cb=20200126120742&path-prefix=es" group-title="CIENCIA Y CULTURA", NatGeo WILD
+http://51.222.241.122:8000/play/a06m
 
 
 
