@@ -42,13 +42,28 @@ http://51.222.241.122:8000/play/a049
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="NOTICIAS", 24h
-https://rtvelivestreamv3.akamaized.net/24h/24h_main_dvr_720.m3u8
+https://rtvelivestreamv3.akamaized.net/rtvesec/24h_bkp_dvr.m3u8
 
 #EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Euronews_2016_Stacked.svg/revision/latest/scale-to-width-down/150?cb=20210623155442&path-prefix=es" group-title="NOTICIAS", Euronews Español (M)
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/LaSexta_2016.svg/revision/latest/scale-to-width-down/150?cb=20160411194138" group-title="NOTICIAS", La SEXTA
 http://185.79.153.9:6500/play/a00u
+
+#EXTINF:-1 tvg-id="C5N.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1506356427228655625/Vym1HGRy_400x400.jpg" group-title="NOTICIAS", C5N  25.2
+https://edge-live12-sl.cvattv.com.ar/live/c7eds/C5N/SA_SAGEMCOM/C5N.m3u8
+
+#EXTINF:-1 tvg-id="A24.ar" tvg-country="AR" tvg-logo="https://1.bp.blogspot.com/-DlQDYNOlyNw/X0Q1JOpHe3I/AAAAAAAA6Jk/WkwbRbCiSiQ7oEUVEpLIx2UFYmM3zs3iACLcBGAsYHQ/s0/a24-logo2019.png" group-title="NOTICIAS", A24  36.3
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
+
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1344843564535132160/xT96d8Zv_400x400.jpg" group-title="NOTICIAS", CANAL 13
+https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://pbs.twimg.com/profile_images/875649264826724352/7ZsxO5yi_400x400.jpg" group-title="NOTICIAS", FRANCE 24 ESPAÑOL
+http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/900335405580550144/EpLMIlFW_400x400.jpg" group-title="NOTICIAS", DW ESPAÑOL
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 
 
 
@@ -107,21 +122,25 @@ http://51.222.241.122:8000/play/a03f
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Encore_Classic.png/800px-Encore_Classic.png" group-title="CINE", Starz Encore Classic (M)
 http://51.222.241.122:8000/play/a02m
 
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T0jMb06/warner.png" group-title="CINE", WARNER
-https://cdn.cvattv.com.ar/live/c7eds/WarnerHD/SA_Live_dash_enc_2A/WarnerHD.mpd
+http://190.83.119.67:8000/play/a0tk/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="CULTURA", HISTORY
-http://51.222.241.122:8000/play/a06i
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png/revision/latest/scale-to-width-down/175?cb=20211213232008&path-prefix=es" group-title="CULTURA", HISTORY
+https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/HistoryHD/SA_SAGEMCOM/HistoryHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/History_2_2022.png/revision/latest/scale-to-width-down/200?cb=20220130002026&path-prefix=es" group-title="CULTURA", HISTORY2
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/National_Geographic_Wild_2018.svg/revision/latest/scale-to-width-down/250?cb=20200126120742&path-prefix=es" group-title="CULTURA", NatGeo WILD
 http://51.222.241.122:8000/play/a06m
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/TVE2_logo_2008.png/revision/latest/scale-to-width-down/185?cb=20190108003232" group-title="CULTURA", LA2
 http://185.79.153.9:6500/play/a032
+
+#EXTINF:-1 tvg-id="Encuentro.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1333395540478996480/oaQIEz2x_400x400.jpg" group-title="CULTURA", CANAL ENCUENTRO 22.1
+https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8  
 
 
 
