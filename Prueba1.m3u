@@ -26,9 +26,7 @@ https://stmv1.srvif.com/canal77/canal77/playlist.m3u8
 https://stmv.video.gmpro.top/tvcharrua/tvcharrua/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TVCiudad_logo_2020.png" group-title="URUGUAY", TV Ciudad
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api2/
-https://cdn.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_Live_dash_enc_2A/Teve_Ciudad.mpd
+http://ac.ntvlatino.com:8080/pope/2022/19352
 
 #EXTINF:-1 tvg-logo="https://sp-ao.shortpixel.ai/client/q_glossy,ret_img,w_417/https://charruasdelfutbol.com/wp-content/uploads/2020/10/mascotas-que-ha-tenido-la-aeleccion-uruguaya-de-futbol-1-charonito-charona.png" group-title="URUGUAY", EVENTOS
 http://51.222.241.122:8000/play/a05o
@@ -162,7 +160,10 @@ http://51.222.241.122:8000/play/a03q
 http://mains.services:2086/live/lorre/3Jy14gb2kR/92606.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest/scale-to-width-down/185?cb=20180301233804" group-title="DEPORTES", DirecTV Sports 
-http://51.222.241.122:8000/play/a03r
+http://mains.services:2086/live/lorre/3Jy14gb2kR/92607.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest/scale-to-width-down/185?cb=20180301233804" group-title="DEPORTES", DirecTV Sports UY 
+http://ac.ntvlatino.com:8080/pope/2022/2041
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/BeinSportsLaLiga.png/revision/latest/scale-to-width-down/220?cb=20161025122032" group-title="DEPORTES", Bein Sports La Liga
 http://51.222.241.122:8000/play/a05p
