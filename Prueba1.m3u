@@ -117,6 +117,9 @@ http://51.222.241.122:8000/play/a071
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Eurochannel_%282015%29.svg/revision/latest/scale-to-width-down/250?cb=20210514180237&path-prefix=es" group-title="CINE", Euro Channel
 http://45.226.67.3:58001/play/a01l/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Eurochannel_%282015%29.svg/revision/latest/scale-to-width-down/250?cb=20210514180237&path-prefix=es" group-title="CINE", Euro Channel HD
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Eurochannel/SA_SAGEMCOM/Eurochannel.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Sony_Channel_2019.svg/revision/latest/scale-to-width-down/200?cb=20200117013250&path-prefix=es" group-title="CINE", SONY (M)
 http://51.222.241.122:8000/play/a035
 
@@ -157,7 +160,7 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Bein_sports_%C3%B1_new.jpg/revision/latest/scale-to-width-down/220?cb=20170226193831" group-title="DEPORTES", Bein Sports Ñ
-http://51.222.241.122:8000/play/a03o
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/3707
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/ClaroSports.png/revision/latest/scale-to-width-down/300?cb=20140409052254" group-title="DEPORTES", Claro Sports
 http://51.222.241.122:8000/play/a03q
@@ -169,16 +172,10 @@ http://mains.services:2086/live/lorre/3Jy14gb2kR/92606.m3u8
 http://ac.ntvlatino.com:8080/pope/2022/2041
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/BeinSportsLaLiga.png/revision/latest/scale-to-width-down/220?cb=20161025122032" group-title="DEPORTES", Bein Sports La Liga
-http://51.222.241.122:8000/play/a05p
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/Bein_sports_%C3%B1.jpg/revision/latest/scale-to-width-down/220?cb=20170226193336" group-title="DEPORTES", Bein Sports Ñ (opc.2)
-http://51.222.241.122:8000/play/a04e
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/Bein_sports_%C3%B1.jpg/revision/latest/scale-to-width-down/220?cb=20170226193336" group-title="DEPORTES", Bein Sports Ñ OPC 3 HD
-http://51.222.241.122:8000/play/a04f
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/5314
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/ClaroSports.png/revision/latest/scale-to-width-down/300?cb=20140409052254" group-title="DEPORTES", Claro Sports (Opc.2)
-http://201.108.227.250:8000/play/a01n/index.m3u8
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/5314
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/revision/latest/scale-to-width-down/240?cb=20191025185801" group-title="DEPORTES", DirecTV Sports+
 http://mains.services:2086/live/lorre/3Jy14gb2kR/92608.m3u8
