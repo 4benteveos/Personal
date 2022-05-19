@@ -8,7 +8,7 @@ https://edge3-hr.cvattv.com.ar/live/c4eds/Canal4_URU/SA_SAGEMCOM/Canal4_URU.m3u8
 https://edge3-hr.cvattv.com.ar/live/c4eds/Canal10_URU/SA_SAGEMCOM/Canal10_URU.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Teledoce_2019.svg/revision/latest/scale-to-width-down/188?cb=20210511212615&path-prefix=es" group-title="URUGUAY",TELEDOCE
-http://ac.ntvlatino.com:8080/pope/2022/18731
+http://ac.ntvlatino.com:8080/pope/2022/3620
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/UCLLatam.png/revision/latest/scale-to-width-down/250?cb=20210308024753&path-prefix=es" group-title="URUGUAY", UCL TV
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
@@ -132,7 +132,7 @@ http://190.83.119.67:8000/play/a0tk/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eQKFgpa.png" group-title="CINE", RAKUTEN COMEDIA    
 https://b1e945c80353459a8dca16651625ad2e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenComedyMovies/playlist.m3u8?ads.wurl_channel%3D428%26ads.wurl_name%3DRakutenComedyMovies%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0%26ads.consent%3D%7BTC_STRING%7D
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Atrescine.svg/revision/latest?cb=20200629153338&path-prefix=es" group-title="CINE", A3CINE
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Atrescine.svg/revision/latest/scale-to-width-down/300?cb=20200629153338&path-prefix=es" group-title="CINE", A3CINE
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="CINE", RUNTIME
