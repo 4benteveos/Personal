@@ -197,8 +197,11 @@ http://ac.ntvlatino.com:8080/pope/2022/19354
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pvRzWwv/ODAm-Os-LN-400x400.jpg" group-title="MUSICA", MTV HITS
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/MTV_Hits/SA_SAGEMCOM/MTV_Hits.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_quiero_m.png" group-title="MUSICA", QUIERO
+https://edge-vod02-hr.cvattv.com.ar/live/c6eds/Quiero_HD/SA_SAGEMCOM/Quiero_HD.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RQH8BtH/logo.png" group-title="MUSICA", MUCH MUSIC
-http://51.222.241.122:8000/play/a087
+https://edge-vod02-hr.cvattv.com.ar/live/c6eds/Much_Music/SA_SAGEMCOM/Much_Music.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M88NzqH/Xly8mKUw.jpg" group-title="MUSICA", HTV
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HTV/SA_SAGEMCOM/HTV.m3u8
