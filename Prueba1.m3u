@@ -148,7 +148,7 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/HistoryHD/SA_SAGEMCOM/HistoryHD.
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1200px-History2_logo_%282022%29.svg.png" group-title="CULTURA", HISTORY 2
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/National_Geographic_Wild_2018.svg/revision/latest/scale-to-width-down/250?cb=20200126120742&path-prefix=es" group-title="CULTURA", NATGEO WILD
+#EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/ational-geographic-is-set-to-premier-a-new-docu-reality-nat-geo-wild-11563039388rsxo6xwdqu.png" group-title="CULTURA", NATGEO WILD
 http://51.222.241.122:8000/play/a06m
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/TVE2_logo_2008.png/revision/latest/scale-to-width-down/185?cb=20190108003232" group-title="CULTURA", LA2
