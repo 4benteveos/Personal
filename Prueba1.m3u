@@ -160,10 +160,10 @@ http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/3707
 http://51.222.241.122:8000/play/a03q
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/revision/latest/scale-to-width-down/288?cb=20191025185617" group-title="DEPORTES", DIRECTV Sports 2
-http://mains.services:2086/live/lorre/3Jy14gb2kR/92606.m3u8
+http://tv.plusme1.xyz:28000/live/israelmantilla/pkooSNPDWH/59797.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/DirecTV_Sports_2018.svg/revision/latest/scale-to-width-down/250?cb=20200706223451&path-prefix=es" group-title="DEPORTES", DIRECTV Sports
-http://tv.plusme1.xyz:28000/live/israelmantilla/pkooSNPDWH/59797.m3u8
+http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/DirecTV_Sports_2018.svg/revision/latest/scale-to-width-down/250?cb=20200706223451&path-prefix=es" group-title="DEPORTES", DIRECTV Sports UY 
@@ -186,6 +186,13 @@ http://ac.ntvlatino.com:8080/pope/2022/3146
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/Movistar_Deportes.svg/revision/latest/scale-to-width-down/250?cb=20180910204157" group-title="DEPORTES", Movistar Deportes (opc.2)
 http://190.42.44.125:8000/play/a01c/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/WinSports2018.png/revision/latest/scale-to-width-down/250?cb=20181103010207" group-title="DEPORTES", WIN Sports
+http://tv.plusme1.xyz:28000/live/israelmantilla/pkooSNPDWH/3419.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png/revision/latest/scale-to-width-down/350?cb=20200225220524&path-prefix=es" group-title="DEPORTES", WIN Sports+
+http://tv.plusme1.xyz:28000/live/israelmantilla/pkooSNPDWH/23129.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/VTV_Plus_2021.png/revision/latest/scale-to-width-down/275?cb=20210605021216&path-prefix=es" group-title="DEPORTES", VTV Plus
 http://ac.ntvlatino.com:8080/pope/2022/19354
