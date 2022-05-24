@@ -29,7 +29,7 @@ https://stmv.video.gmpro.top/tvcharrua/tvcharrua/playlist.m3u8
 http://ac.ntvlatino.com:8080/pope/2022/19352
 
 #EXTINF:-1 tvg-logo="https://sp-ao.shortpixel.ai/client/q_glossy,ret_img,w_417/https://charruasdelfutbol.com/wp-content/uploads/2020/10/mascotas-que-ha-tenido-la-aeleccion-uruguaya-de-futbol-1-charonito-charona.png" group-title="URUGUAY", EVENTOS
-https://directvsports-live.akamaized.net/hls/live/2026717/DTVSAR/master.m3u8?hdnts=exp=1653413647~acl=*~hmac=c8c675ffcd55f81f8b666d1b2bc00d01534c0063a136bd0bd9fbbd807b51090e
+https://directvsports-live.akamaized.net/hls/live/2026717/DTVSAR/stream04/hdntl=exp=1653500024~acl=%2f*~data=hdntl~hmac=aaeb97d8f359d2ba912ca7e1e80f2e8e512cd454a41be5223b2cd770671a0fe5/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Canal_5_Uruguay_2021.png/revision/latest/scale-to-width-down/100?cb=20210725005410&path-prefix=es" group-title="URUGUAY", CANAL 5
 http://190.210.221.119/Processor3_2_chunklist_b1300000.m3u8
