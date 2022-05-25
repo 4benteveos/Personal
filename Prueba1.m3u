@@ -203,6 +203,21 @@ http://tv.plusme1.xyz:28000/live/israelmantilla/pkooSNPDWH/3419.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png/revision/latest/scale-to-width-down/350?cb=20200225220524&path-prefix=es" group-title="DEPORTES", WIN Sports+
 http://tv.plusme1.xyz:28000/live/israelmantilla/pkooSNPDWH/23129.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest/scale-to-width-down/250?cb=20210102195101&path-prefix=es" group-title="DEPORTES", ESPN
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest/scale-to-width-down/250?cb=20210102195101&path-prefix=es" group-title="DEPORTES", ESPN
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/ESPN2_2006.svg/revision/latest/scale-to-width-down/300?cb=20200105155601&path-prefix=es" group-title="DEPORTES", ESPN 2
+https://edge-live12-sl.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Espn3.png/revision/latest/scale-to-width-down/300?cb=20151012185318&path-prefix=es" group-title="DEPORTES", ESPN 3
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/ESPN_4.svg/revision/latest/scale-to-width-down/350?cb=20211129170304&path-prefix=es" group-title="DEPORTES", ESPN 4
+https://edge-vod02-hr.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/VTV_Plus_2021.png/revision/latest/scale-to-width-down/275?cb=20210605021216&path-prefix=es" group-title="DEPORTES", VTV Plus
 http://ac.ntvlatino.com:8080/pope/2022/19354
 
