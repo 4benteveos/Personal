@@ -69,6 +69,9 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Antena_3_2017.svg/revision/latest/scale-to-width-down/200?cb=20200307025520&path-prefix=es" group-title="NOTICIAS", ANTENA 3
 http://ac.ntvlatino.com:8080/pope/2022/4108
 
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60089d97f682a3002c34829d" tvg-id="5e20b730f2f8d5003d739db7-60089d97f682a3002c34829d" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/euronewsespanol_logo_dark2.png" group-title="NOTICIAS",Euronews Español
+https://2e0d18116bec40e088c0723dc56accf5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_EuronewsSpanish/playlist.m3u8?ads.wurl_channel=671&ads.wurl_name=EuronewsSpanish&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=yBjzr_yRsN3hWwc9B6Di&ads.plex_id=60089d97f682a3002c34829d&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+
 
 
 
@@ -150,6 +153,15 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7
 #EXTINF:-1 channel-id="pluto-609059dc63be6e0007b4eca6" tvg-id="609059dc63be6e0007b4eca6" tvg-chno="85" tvg-logo="https://images.pluto.tv/channels/609059dc63be6e0007b4eca6/colorLogoPNG.png" group-title="CINE",Pluto TV Cine Clásico
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-617afafd7ab406f93af02607" tvg-id="5e20b730f2f8d5003d739db7-617afafd7ab406f93af02607" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fe3c7159-2d42-47c3-a112-2c0cd847e4ef/horrorfy_logo.png" group-title="CINE", HORRORFY
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=yBjzr_yRsN3hWwc9B6Di&channelId=617afafd7ab406f93af02607
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-62167144ab2095ca85353ad6" tvg-id="5e20b730f2f8d5003d739db7-62167144ab2095ca85353ad6" tvg-logo="https://provider-static.plex.tv/epg/cms/production/bec0159a-d07c-4284-9aa2-0f5aeaf989cb/Cinepride_logo_dark.png" group-title="CINE", CINEPRIDE
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62167144ab2095ca85353ad6.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=yBjzr_yRsN3hWwc9B6Di
+
+#EXTINF:-1 tvg-logo="https://images.samsung.com/is/image/samsung/assets/br/televisions-home-theater/CiNDLite_190x190Circle.jpg?$212_119_PNG$" group-title="CINE", CINDIE LITE
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1159&livestream=1&live=1&app_bundle=com.plexapp.desktop&did=859b265b-2016-5ff0-a94d-a1645f13a4c9&app_domain=app.plex.tv&app_name=plex&h=1080&w=1920&custom4=plex&gdpr=0&device_make=Windows&device_model=Opera&coppa=1&us_privacy=1---&custom_6=RS-rc8EwU2iK9Z9AJzEz&custom_7=6182c0c0f4e62961d9c2ccf1&is_lat=0
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png/revision/latest/scale-to-width-down/175?cb=20211213232008&path-prefix=es" group-title="CULTURA", HISTORY
 https://edge1.prepro.cvattv.com.ar/live/vod/HistoryHD/SA_Live_WebVTT_FTA/HistoryHD.m3u8
@@ -169,7 +181,17 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Love_Nature_TV.png/revision/latest/scale-to-width-down/300?cb=20151125134652" group-title="CULTURA", LOVE NATURE
 https://bamus-spa-roku.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6018913ea15130002b284195" tvg-id="5e20b730f2f8d5003d739db7-6018913ea15130002b284195" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/sabermas_logo_light.png" group-title="CULTURA",Saber Mas
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-sabermas-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=yBjzr_yRsN3hWwc9B6Di&channelId=6018913ea15130002b284195
 
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-61e86022307b907b95d63302" tvg-id="5e20b730f2f8d5003d739db7-61e86022307b907b95d63302" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b0b7c360-994d-4a53-9172-a8b501f015db/todo_life_750x500_v2_-_Kam_Jey.png" group-title="CULTURA",Todo LIFE
+https://9e42b0e4e5b1434db9278d1414d887bf.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_TodoLIFE/playlist.m3u8?ads.wurl_channel=1060&ads.wurl_name=TodoLIFE&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=yBjzr_yRsN3hWwc9B6Di&ads.plex_id=61e86022307b907b95d63302&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/NBA_TV_2017.svg/revision/latest/scale-to-width-down/200?cb=20210715160314" group-title="DEPORTES", NBA TV
+http://edge2-ccast-sl.cvattv.com.ar/live/c6eds/NBA_TV/SA_SAGEMCOM/NBA_TV.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Bein_sports_%C3%B1_new.jpg/revision/latest/scale-to-width-down/220?cb=20170226193831" group-title="DEPORTES", BEIN SPORTS Ñ
 http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/3707
@@ -280,6 +302,17 @@ https://sv.spliktv.xyz/live/caster/VEVO/COUNTRY.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/Rock_FM_%282010%29.svg/revision/latest/scale-to-width-down/300?cb=20210507190729" group-title="MUSICA", ROCK Fm (ROMANIA)
 https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/playlist.m3u8?publisher=83
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-61aaa0cc784a2161d3caf7ff" tvg-id="5e20b730f2f8d5003d739db7-61aaa0cc784a2161d3caf7ff" tvg-logo="https://provider-static.plex.tv/epg/cms/staging/0079d02e-afb6-4d85-a986-441817927418/stingray-classic-rock_logo_dark.png" group-title="MUSICA", Classic Rock
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1389&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=yBjzr_yRsN3hWwc9B6Di&custom_7=61aaa0cc784a2161d3caf7ff&is_lat=0
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6196c8c01d310bf925e02615" tvg-id="5e20b730f2f8d5003d739db7-6196c8c01d310bf925e02615" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dc08f4b8-91c3-4b3a-9007-4330f03a0103/ClassicRock_logo_light.png" group-title="MUSICA", Classic Rock Network
+https://cdn17.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee82013e157021/ClassicRock-Channel-Plex/index.m3u8?ads.X-PLEX-TOKEN=yBjzr_yRsN3hWwc9B6Di&ads.CHANNEL=6196c8c01d310bf925e02615&ads.DEVICE_ID=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.DNT=0
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-61bb9a63e0b39cfe304c9a8a" tvg-id="5e20b730f2f8d5003d739db7-61bb9a63e0b39cfe304c9a8a" tvg-logo="https://provider-static.plex.tv/epg/cms/production/74efde69-4b42-43c4-a8f0-a4068fdd4862/vivaldi_logo.png" group-title="MUSICA", Vivaldi
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01297-themahqfranceme-vivalditv-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=yBjzr_yRsN3hWwc9B6Di&channelId=61bb9a63e0b39cfe304c9a8a
+
+
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60142258a54aeb0007751c15/colorLogoPNG.png" group-title="INFANTIL", Retro Cartoons
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
