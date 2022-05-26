@@ -42,37 +42,32 @@ http://ac.ntvlatino.com:8080/pope/2022/3802
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="NOTICIAS", 24H
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="INTERNACIONAL", 24H
 https://rtvelivestreamv3.akamaized.net/rtvesec/24h_bkp_dvr.m3u8
 
-#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Euronews_2016_Stacked.svg/revision/latest/scale-to-width-down/150?cb=20210623155442&path-prefix=es" group-title="NOTICIAS", Euronews Español
+#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Euronews_2016_Stacked.svg/revision/latest/scale-to-width-down/150?cb=20210623155442&path-prefix=es" group-title="INTERNACIONAL", Euronews Español
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/LaSexta_2016.svg/revision/latest/scale-to-width-down/150?cb=20160411194138" group-title="NOTICIAS", La SEXTA
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/LaSexta_2016.svg/revision/latest/scale-to-width-down/150?cb=20160411194138" group-title="INTERNACIONAL", La SEXTA
 http://185.79.153.9:6500/play/a00u
 
-#EXTINF:-1 tvg-id="C5N.ar" tvg-country="AR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/C5N_2018.svg/revision/latest/scale-to-width-down/252?cb=20210526223002&path-prefix=es" group-title="NOTICIAS", C5N
+#EXTINF:-1 tvg-id="C5N.ar" tvg-country="AR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/C5N_2018.svg/revision/latest/scale-to-width-down/252?cb=20210526223002&path-prefix=es" group-title="INTERNACIONAL", C5N
 https://edge-live12-sl.cvattv.com.ar/live/c7eds/C5N/SA_SAGEMCOM/C5N.m3u8
 
-#EXTINF:-1 tvg-id="A24.ar" tvg-country="AR" tvg-logo="https://1.bp.blogspot.com/-DlQDYNOlyNw/X0Q1JOpHe3I/AAAAAAAA6Jk/WkwbRbCiSiQ7oEUVEpLIx2UFYmM3zs3iACLcBGAsYHQ/s0/a24-logo2019.png" group-title="NOTICIAS", A24
+#EXTINF:-1 tvg-id="A24.ar" tvg-country="AR" tvg-logo="https://1.bp.blogspot.com/-DlQDYNOlyNw/X0Q1JOpHe3I/AAAAAAAA6Jk/WkwbRbCiSiQ7oEUVEpLIx2UFYmM3zs3iACLcBGAsYHQ/s0/a24-logo2019.png" group-title="INTERNACIONAL", A24
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
 
-#EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Canal_13_2016.svg/revision/latest/scale-to-width-down/200?cb=20200305011850&path-prefix=es" group-title="NOTICIAS", EL 13
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Canal_13_2016.svg/revision/latest/scale-to-width-down/200?cb=20200305011850&path-prefix=es" group-title="INTERNACIONAL", EL 13
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/FRANCE_24_ESPA%C3%91OL_2018.png/revision/latest/scale-to-width-down/113?cb=20210513022734&path-prefix=es" group-title="NOTICIAS", FRANCE 24 ESPAÑOL
+#EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/FRANCE_24_ESPA%C3%91OL_2018.png/revision/latest/scale-to-width-down/113?cb=20210513022734&path-prefix=es" group-title="INTERNACIONAL", FRANCE 24 ESPAÑOL
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Deutsche_Welle_symbol_2012.svg/revision/latest/scale-to-width-down/250?cb=20210624152344&path-prefix=es" group-title="NOTICIAS", DW ESPAÑOL
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Deutsche_Welle_symbol_2012.svg/revision/latest/scale-to-width-down/250?cb=20210624152344&path-prefix=es" group-title="INTERNACIONAL", DW ESPAÑOL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Antena_3_2017.svg/revision/latest/scale-to-width-down/200?cb=20200307025520&path-prefix=es" group-title="NOTICIAS", ANTENA 3
-http://ac.ntvlatino.com:8080/pope/2022/4108
-
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60089d97f682a3002c34829d" tvg-id="5e20b730f2f8d5003d739db7-60089d97f682a3002c34829d" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/euronewsespanol_logo_dark2.png" group-title="NOTICIAS",Euronews Español
-https://2e0d18116bec40e088c0723dc56accf5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_EuronewsSpanish/playlist.m3u8?ads.wurl_channel=671&ads.wurl_name=EuronewsSpanish&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=yBjzr_yRsN3hWwc9B6Di&ads.plex_id=60089d97f682a3002c34829d&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
-
-
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Antena_3_2017.svg/revision/latest/scale-to-width-down/200?cb=20200307025520&path-prefix=es" group-title="INTERNACIONAL", ANTENA 3
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/67.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/CINEAR2017_%281%29.svg/revision/latest/scale-to-width-down/300?cb=20210527002752&path-prefix=es" group-title="CINE", CINEAR
