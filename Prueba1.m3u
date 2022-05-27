@@ -67,7 +67,7 @@ http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Antena_3_2017.svg/revision/latest/scale-to-width-down/200?cb=20200307025520&path-prefix=es" group-title="INTERNACIONAL", ANTENA 3
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/67.m3u8
+http://190.83.119.67:8000/play/a0nv/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/CINEAR2017_%281%29.svg/revision/latest/scale-to-width-down/300?cb=20210527002752&path-prefix=es" group-title="CINE", CINEAR
@@ -101,7 +101,7 @@ http://38.123.205.70:8000/play/a0b2/index.m3u8
 https://edge-vod02-hr.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/31/Film_%26_Arts.svg/revision/latest/scale-to-width-down/300?cb=20191030181426" group-title="CINE", FILM & ARTS
-http://168.197.196.98:8000/play/a02f/index.m3u8
+http://190.83.119.67:8000/play/a0q6/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HPXHSQp/europa.png" group-title="CINE", EUROPA EUROPA
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Europa_Europa/SA_SAGEMCOM/Europa_Europa.m3u8
@@ -156,6 +156,19 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62167144ab20
 
 #EXTINF:-1 tvg-logo="https://images.samsung.com/is/image/samsung/assets/br/televisions-home-theater/CiNDLite_190x190Circle.jpg?$212_119_PNG$" group-title="CINE", CINDIE LITE
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1159&livestream=1&live=1&app_bundle=com.plexapp.desktop&did=859b265b-2016-5ff0-a94d-a1645f13a4c9&app_domain=app.plex.tv&app_name=plex&h=1080&w=1920&custom4=plex&gdpr=0&device_make=Windows&device_model=Opera&coppa=1&us_privacy=1---&custom_6=RS-rc8EwU2iK9Z9AJzEz&custom_7=6182c0c0f4e62961d9c2ccf1&is_lat=0
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/320px-Canal_DHE_logo.svg.png" group-title="CINE", DHE
+http://181.176.148.142:8000/play/a027
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Universal_Cinema.svg/revision/latest/scale-to-width-down/250?cb=20220311031932" group-title="CINE", UNIVERSAL CINEMA
+http://190.83.119.67:8000/play/a0v2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Universal_Comedy.svg/revision/latest/scale-to-width-down/250?cb=20220311032038" group-title="CINE", UNIVERSAL COMEDY
+http://190.83.119.67:8000/play/a0t1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Universal_Premiere.svg/revision/latest/scale-to-width-down/250?cb=20220311031855" group-title="CINE", UNIVERSAL PREMIER
+http://190.83.119.67:8000/play/a0ui/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png/revision/latest/scale-to-width-down/175?cb=20211213232008&path-prefix=es" group-title="CULTURA", HISTORY
@@ -281,7 +294,7 @@ https://stream.mediawork.cz/retrotv/retrotv2.smil/.m3u8
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Concert2015.png/revision/latest/scale-to-width-down/142?cb=20210423194157&path-prefix=es" group-title="MUSICA", CONCERT CHANNEL 
-http://45.153.165.13:8081/play/a0ce/index.m3u8
+http://190.83.119.67:8000/play/a0oq/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/Vevo2016.svg/revision/latest/scale-to-width-down/300?cb=20160715061126" group-title="MUSICA", VEVO POP
 https://sv.spliktv.xyz/live/caster/VEVO/POP.m3u8
@@ -315,6 +328,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609e7e423e9173000706a681/colorLogoPNG.png" group-title="INFANTIL", Toons Clásico
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 tvg-logo="https://mpng.subpng.com/20180706/fah/kisspng-logo-cartoon-network-animated-cartoon-brand-cartoon-logo-5b3f797153f7c9.935716261530886513344.jpg" group-title="INFANTIL", CARTOONS
+http://181.176.148.142:8000/play/a021
 
 
 
