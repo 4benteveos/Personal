@@ -256,11 +256,17 @@ http://edge-live14-hr.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/ESPN_4.svg/revision/latest/scale-to-width-down/350?cb=20211129170304&path-prefix=es" group-title="DEPORTES", ESPN 4
 https://edge-vod02-hr.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/ESPN_Extra_2015.png/revision/latest/scale-to-width-down/400?cb=20200726021701&path-prefix=es" group-title="DEPORTES", ESPN EXTRA
+https://edge7-ccast-hr.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/VTV_Plus_2021.png/revision/latest/scale-to-width-down/275?cb=20210605021216&path-prefix=es" group-title="DEPORTES", VTV Plus
 http://tv.wolkplay.com:8880/Paul2021/Paul2021/24671
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/TNT_Sports_2021.png/revision/latest/scale-to-width-down/350?cb=20210117160858&path-prefix=es" group-title="DEPORTES", TNT Sports 
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Red_Bull_TV.svg/revision/latest?cb=20180423100712" group-title="DEPORTES", REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 
 
