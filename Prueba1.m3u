@@ -68,7 +68,7 @@ http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Antena_3_2017.svg/revision/latest/scale-to-width-down/200?cb=20200307025520&path-prefix=es" group-title="INTERNACIONAL", ANTENA 3
-http://tv.wolkplay.com:8880/Paul2021/Paul2021/24837
+http://78.201.98.110:8000/play/a07o
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/CINEAR2017_%281%29.svg/revision/latest/scale-to-width-down/300?cb=20210527002752&path-prefix=es" group-title="CINE", CINEAR
@@ -169,6 +169,12 @@ http://190.83.119.67:8000/play/a0t1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Universal_Premiere.svg/revision/latest/scale-to-width-down/250?cb=20220311031855" group-title="CINE", UNIVERSAL PREMIER
 http://190.83.119.67:8000/play/a0ui/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://styles.redditmedia.com/t5_2rcaf/styles/communityIcon_7m7qanulu3r51.jpg?width=256&format=pjpg&s=5c16e011b35a1c44c5ca08f0814f81dae085d297" group-title="CINE", MOVIES CLUB
+http://181.176.148.142:8000/play/a02s
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/121.-_RTRO.png/revision/latest/scale-to-width-down/250?cb=20210114204110&path-prefix=es" group-title="CINE", RETRO 
+http://181.176.148.142:8000/play/a02x
 
 
 
