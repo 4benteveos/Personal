@@ -71,6 +71,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 http://78.201.98.110:8000/play/a07o
 
 
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/CINEAR2017_%281%29.svg/revision/latest/scale-to-width-down/300?cb=20210527002752&path-prefix=es" group-title="CINE", CINEAR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 
@@ -102,19 +103,16 @@ http://168.90.221.3:8000/play/a00g/index.m3u8
 https://edge-vod02-hr.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/31/Film_%26_Arts.svg/revision/latest/scale-to-width-down/300?cb=20191030181426" group-title="CINE", FILM & ARTS
-http://190.83.119.67:8000/play/a0q6/index.m3u8
+http://bgapp.live/play/futvall-559.php?id=filmarts&token=blackgghost&dos=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HPXHSQp/europa.png" group-title="CINE", EUROPA EUROPA
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Europa_Europa/SA_SAGEMCOM/Europa_Europa.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HPXHSQp/europa.png" group-title="CINE", EUROPA EUROPA (opc.2)
-http://201.108.227.250:8000/play/a00k/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Eurochannel_%282015%29.svg/revision/latest/scale-to-width-down/250?cb=20210514180237&path-prefix=es" group-title="CINE", Euro Channel
 http://45.226.67.3:58001/play/a01l/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Eurochannel_%282015%29.svg/revision/latest/scale-to-width-down/250?cb=20210514180237&path-prefix=es" group-title="CINE", Euro Channel HD
-https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Eurochannel/SA_SAGEMCOM/Eurochannel.m3u8
+http://bgapp.live/play/bud-559.php?c=53040.m3u8&blck
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Sony_Channel_2019.svg/revision/latest/scale-to-width-down/200?cb=20200117013250&path-prefix=es" group-title="CINE", SONY
 http://51.222.241.122:8000/play/a035
