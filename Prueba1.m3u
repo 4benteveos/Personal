@@ -194,8 +194,7 @@ http://bgapp.live/play/bud-559.php?c=37968.m3u8&blck
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png/revision/latest/scale-to-width-down/310?cb=20210512164553&path-prefix=es" group-title="CINE", GOLDEN+
 http://bgapp.live/play/bud-559.php?c=38455.m3u8&blck
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fUQEubL.png" group-title="CINE", RETRO PLUS
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
+
 
 
 
@@ -363,6 +362,10 @@ https://cdn17.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee82013e157021
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-61bb9a63e0b39cfe304c9a8a" tvg-id="5e20b730f2f8d5003d739db7-61bb9a63e0b39cfe304c9a8a" tvg-logo="https://provider-static.plex.tv/epg/cms/production/74efde69-4b42-43c4-a8f0-a4068fdd4862/vivaldi_logo.png" group-title="MUSICA", Vivaldi
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01297-themahqfranceme-vivalditv-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=yBjzr_yRsN3hWwc9B6Di&channelId=61bb9a63e0b39cfe304c9a8a
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fUQEubL.png" group-title="MUSICA", RETRO PLUS
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
+
 
 
 
