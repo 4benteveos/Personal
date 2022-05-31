@@ -227,10 +227,10 @@ http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 http://dx.pscptv.xyz:8081/DEP/BEIN_SPORTS_HD546546/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMS8yMDIyIDE6NDA6MTkgQU0maGFzaF92YWx1ZT1XWTBBNE9NcDM3R1pqNVNhVVpYL1pRPT0mdmFsaWRtaW51dGVzPTIyMA==
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/LaLiga_por_Movistar_Plus%2B.svg/revision/latest/scale-to-width-down/266?cb=20220123152625&path-prefix=es" group-title="DEPORTES", La Liga Movistar+
-http://78.201.98.110:8000/play/a0q3
+https://sv.spliktv.xyz/live/caster/BE/84/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/Movistar_Deportes.svg/revision/latest/scale-to-width-down/250?cb=20180910204157" group-title="DEPORTES", Movistar Deportes
-http://clientsportals.tv:2095/amd1PT4h/tRHJ8Ajy/48920
+https://sv.spliktv.xyz/live/caster/BE/436/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/WinSports2018.png/revision/latest/scale-to-width-down/250?cb=20181103010207" group-title="DEPORTES", WIN Sports
 http://tv.plusme1.xyz:28000/live/israelmantilla/pkooSNPDWH/3419.m3u8
