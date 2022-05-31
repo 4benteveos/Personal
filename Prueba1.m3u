@@ -268,7 +268,7 @@ https://edge-vod02-hr.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8
 https://edge7-ccast-hr.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/VTV_Plus_2021.png/revision/latest/scale-to-width-down/275?cb=20210605021216&path-prefix=es" group-title="DEPORTES", VTV Plus
-http://dx.pscptv.xyz:8081/DEP/VTV_PLUS/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMS8yMDIyIDI6NDE6NTEgQU0maGFzaF92YWx1ZT1mSWpTbzJTbVE3VlVIY1ZTdHF5RExRPT0mdmFsaWRtaW51dGVzPTIyMA==
+http://dx.pscptv.xyz:8081/DEP/VTV_PLUS/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMS8yMDIyIDI6MTA6MDcgUE0maGFzaF92YWx1ZT1FZll2dy94bmhMbjJoV09GOG9HNGxBPT0mdmFsaWRtaW51dGVzPTIyMA==
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/TNT_Sports_2021.png/revision/latest/scale-to-width-down/350?cb=20210117160858&path-prefix=es" group-title="DEPORTES", TNT Sports 
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
