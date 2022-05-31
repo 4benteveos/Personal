@@ -37,12 +37,6 @@ http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eep
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Canal_5_Uruguay_2021.png/revision/latest/scale-to-width-down/100?cb=20210725005410&path-prefix=es" group-title="URUGUAY", CANAL 5
 https://sv.spliktv.xyz/live/caster/UY/c3eds/TV_Nacional_Uy/ab.m3u8
 
-#EXTINF:-1 tvg-logo="https://rematesenuruguay.com/wp-content/uploads/2019/08/remates-impo-1.png" group-title="URUGUAY", IMPO
-http://clientsportals.tv:2095/amd1PT4h/tRHJ8Ajy/35487
-
-#EXTINF:-1 tvg-logo="http://www.descubriendouruguay.com/plantillas/temas2014/canalm/imagenes/logo-movil.png" group-title="URUGUAY", CANAL M
-http://clientsportals.tv:2095/amd1PT4h/tRHJ8Ajy/24407
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/VTV_Logo_2021.png/revision/latest/scale-to-width-down/275?cb=20210429025515&path-prefix=es" group-title="URUGUAY", VTV
 https://edge2-hr.cvattv.com.ar/live/c3eds/VTV_HD/SA_SAGEMCOM/VTV_HD.m3u8
 
@@ -126,15 +120,6 @@ http://45.226.67.3:58001/play/a01l/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Eurochannel_%282015%29.svg/revision/latest/scale-to-width-down/250?cb=20210514180237&path-prefix=es" group-title="CINE", Euro Channel HD
 http://bgapp.live/play/bud-559.php?c=53040.m3u8&blck
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Sony_Channel_2019.svg/revision/latest/scale-to-width-down/200?cb=20200117013250&path-prefix=es" group-title="CINE", SONY
-http://51.222.241.122:8000/play/a035
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Encore_Westerns.png/800px-Encore_Westerns.png?20150428130818" group-title="CINE", Starz Encore Western
-http://wickediptv.xyz:25461/Michael/Thomas/56525
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Encore_Classic.png/800px-Encore_Classic.png" group-title="CINE", Starz Encore Classic
-http://wickediptv.xyz:25461/Michael/Thomas/56521
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T0jMb06/warner.png" group-title="CINE", WARNER
 http://190.83.119.67:8000/play/a0tk/index.m3u8
 
@@ -194,6 +179,9 @@ http://bgapp.live/play/bud-559.php?c=37968.m3u8&blck
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png/revision/latest/scale-to-width-down/310?cb=20210512164553&path-prefix=es" group-title="CINE", GOLDEN+
 http://bgapp.live/play/bud-559.php?c=38455.m3u8&blck
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="CINE", SONY
+https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/SonyHD/SA_SAGEMCOM/SonyHD.m3u8
 
 
 
