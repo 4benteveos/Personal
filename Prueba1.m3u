@@ -109,7 +109,7 @@ http://168.90.221.3:8000/play/a00g/index.m3u8
 https://edge-vod02-hr.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/31/Film_%26_Arts.svg/revision/latest/scale-to-width-down/300?cb=20191030181426" group-title="CINE", FILM & ARTS
-http://181.189.254.33:8083/play/a01a/index.m3u8
+http://181.189.254.33:8083/play/a01a/index.m3u
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HPXHSQp/europa.png" group-title="CINE", EUROPA EUROPA
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Europa_Europa/SA_SAGEMCOM/Europa_Europa.m3u8
@@ -171,27 +171,19 @@ http://181.176.148.142:8000/play/a02s
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/121.-_RTRO.png/revision/latest/scale-to-width-down/250?cb=20210114204110&path-prefix=es" group-title="CINE", RETRO 
 http://181.176.148.142:8000/play/a02x
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/Golden_2020.png/revision/latest?cb=20210512164426&path-prefix=es" group-title="CINE", GOLDEN
-http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=67&f=.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Golden_Premier_logo_2020.png/revision/latest/scale-to-width-down/350?cb=20201202010915&path-prefix=es" group-title="CINE", GOLDEN PREMIER
-http://bgapp.live/play/bud-559.php?c=37968.m3u8&blck
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png/revision/latest/scale-to-width-down/310?cb=20210512164553&path-prefix=es" group-title="CINE", GOLDEN+
-http://bgapp.live/play/bud-559.php?c=38455.m3u8&blck
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="CINE", SONY
 https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/SonyHD/SA_SAGEMCOM/SonyHD.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/Golden_2020.png/revision/latest?cb=20210512164426&path-prefix=es" group-title="CINE", GOLDEN
+http://181.189.254.33:8083/play/a02x/index.m3u
 
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png/revision/latest/scale-to-width-down/175?cb=20211213232008&path-prefix=es" group-title="CULTURA", HISTORY
-https://edge1.prepro.cvattv.com.ar/live/vod/HistoryHD/SA_Live_WebVTT_FTA/HistoryHD.m3u8
+https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/HistoryHD/SA_SAGEMCOM/HistoryHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1200px-History2_logo_%282022%29.svg.png" group-title="CULTURA", HISTORY 2
-http://bgapp.live/play/bud-559.php?c=30352.m3u8&blck
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2.m3u8
 
 #EXTINF:-1 channel-id="pluto-5dd85eac039bba0009e86d1d" tvg-id="5dd85eac039bba0009e86d1d" tvg-chno="271" tvg-logo="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/colorLogoPNG.png" group-title="CULTURA",Pluto TV Naturaleza
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -223,11 +215,8 @@ https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/DirecTV_Sports_2013.png/revision/latest/scale-to-width-down/200?cb=20200706222755&path-prefix=es" group-title="DEPORTES", DTV Respaldo
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Bein_sports_%C3%B1_new.jpg/revision/latest/scale-to-width-down/220?cb=20170226193831" group-title="DEPORTES", BEIN SPORTS Ñ FHD
-http://apphd.net:25461/auth/vsbTZNDRA_AGrbss91OZ_q_HCYEPjhZZ-xzAQQ5l7sr_yUTxrGYn49MOsDKiVqtvByYlVM2me5EjJ1sohUbUMNZib7jtNE1w7MEfej411rkhnFIAACGGTjVOZV3SCRQZ57FLiVp23htjlxONBgFV49COvsh9swcN9xrFPWhvVJj97ZtqitPP411wxEFWV-LKHA8FV3HsiavvZnzE3AqpRyXuyj1w0Oz9pBe8yLkEOJienUhniqkG-e9lB_wSNsfd-1eWUCxNEF4n8XzziefVuhkOv1-cUE5vmdUu8PXcYOhzbCqOU7TI5eBm8Qld42dlVbxlHKV4fTw7XiMcF2IFBapMDwGnBEuzzaaJN0m0nj0jTLHxB20twDm83h2ZHU-NvkvTRxg1AouCgtHIT6RhYr3KWm-POU296K2lgvszvB-ohbKzxpXCTQ6dOuX_m8gzIzNnzv8nOIiHX3_spVW27olDUk6j9CsOcSf-ep8E2ly_dRe_pUnPbcHp0TIQTKwlMVU-ihg1iE9jaqPgS_HK0Wy_XuDuiZuTJOWHicwbm4NT8bUz3YRU5QqVfOXdXFKPz8TcdoXIuYSHXfVA1G5SzNl73sSPw1V3zrtY0olukjo6RKBnTSsXHPT9d34LenSrgHqrwzxOKqtsGaKQC33y-qikk5QbWf5vNc_fTS6XmWmLsQqGN6pJ7j7CI_x2RN4M
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/LaLiga_por_Movistar_Plus%2B.svg/revision/latest/scale-to-width-down/266?cb=20220123152625&path-prefix=es" group-title="DEPORTES", La Liga Movistar+
-http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=343&f=.m3u8
+https://sv.spliktv.xyz/live/caster/BE/84/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/Movistar_Deportes.svg/revision/latest/scale-to-width-down/250?cb=20180910204157" group-title="DEPORTES", Movistar Deportes
 https://sv.spliktv.xyz/live/caster/BE/436/chunks.m3u8
@@ -280,14 +269,7 @@ http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eep
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/DAZN_F1.svg/revision/latest/scale-to-width-down/250?cb=20220119163405" group-title="DEPORTES", DAZN F1
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/1672
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/revision/latest/scale-to-width-down/288?cb=20191025185617" group-title="DEPORTES", DIRECTV Sports 2
-http://bgapp.live/play/bud-559.php?c=37838.m3u8&blck
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/DirecTV_Sports_2018.svg/revision/latest/scale-to-width-down/250?cb=20200706223451&path-prefix=es" group-title="DEPORTES", DIRECTV Sports
-http://bgapp.live/play/bud-559.php?c=37843.m3u8&blck
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/revision/latest/scale-to-width-down/240?cb=20191025185801" group-title="DEPORTES", DIRECTV Sports+
-http://bgapp.live/play/bud-559.php?c=37837.m3u8&blck
 
 
 
