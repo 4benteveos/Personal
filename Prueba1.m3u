@@ -224,10 +224,7 @@ https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Bein_sports_%C3%B1_new.jpg/revision/latest/scale-to-width-down/220?cb=20170226193831" group-title="DEPORTES", BEIN SPORTS Ñ FHD
-http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=343&f=.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Bein_sports_%C3%B1_new.jpg/revision/latest/scale-to-width-down/220?cb=20170226193831" group-title="DEPORTES", BEIN SPORTS Ñ Opc. 2
-http://bgapp.live/play/bud-559.php?c=50423.m3u8&blck
+http://apphd.net:25461/auth/vsbTZNDRA_AGrbss91OZ_q_HCYEPjhZZ-xzAQQ5l7sr_yUTxrGYn49MOsDKiVqtvByYlVM2me5EjJ1sohUbUMNZib7jtNE1w7MEfej411rkhnFIAACGGTjVOZV3SCRQZ57FLiVp23htjlxONBgFV49COvsh9swcN9xrFPWhvVJj97ZtqitPP411wxEFWV-LKHA8FV3HsiavvZnzE3AqpRyXuyj1w0Oz9pBe8yLkEOJienUhniqkG-e9lB_wSNsfd-1eWUCxNEF4n8XzziefVuhkOv1-cUE5vmdUu8PXcYOhzbCqOU7TI5eBm8Qld42dlVbxlHKV4fTw7XiMcF2IFBapMDwGnBEuzzaaJN0m0nj0jTLHxB20twDm83h2ZHU-NvkvTRxg1AouCgtHIT6RhYr3KWm-POU296K2lgvszvB-ohbKzxpXCTQ6dOuX_m8gzIzNnzv8nOIiHX3_spVW27olDUk6j9CsOcSf-ep8E2ly_dRe_pUnPbcHp0TIQTKwlMVU-ihg1iE9jaqPgS_HK0Wy_XuDuiZuTJOWHicwbm4NT8bUz3YRU5QqVfOXdXFKPz8TcdoXIuYSHXfVA1G5SzNl73sSPw1V3zrtY0olukjo6RKBnTSsXHPT9d34LenSrgHqrwzxOKqtsGaKQC33y-qikk5QbWf5vNc_fTS6XmWmLsQqGN6pJ7j7CI_x2RN4M
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/LaLiga_por_Movistar_Plus%2B.svg/revision/latest/scale-to-width-down/266?cb=20220123152625&path-prefix=es" group-title="DEPORTES", La Liga Movistar+
 http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=343&f=.m3u8
