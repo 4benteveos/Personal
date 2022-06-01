@@ -118,7 +118,7 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Europa_Europa/SA_SAGEMCOM/Europa
 http://45.226.67.3:58001/play/a01l/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Eurochannel_%282015%29.svg/revision/latest/scale-to-width-down/250?cb=20210514180237&path-prefix=es" group-title="CINE", Euro Channel HD
-http://bgapp.live/play/bud-559.php?c=53040.m3u8&blck
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Eurochannel/SA_SAGEMCOM/Eurochannel.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T0jMb06/warner.png" group-title="CINE", WARNER
 http://190.83.119.67:8000/play/a0tk/index.m3u8
@@ -154,7 +154,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62167144ab20
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1159&livestream=1&live=1&app_bundle=com.plexapp.desktop&did=859b265b-2016-5ff0-a94d-a1645f13a4c9&app_domain=app.plex.tv&app_name=plex&h=1080&w=1920&custom4=plex&gdpr=0&device_make=Windows&device_model=Opera&coppa=1&us_privacy=1---&custom_6=RS-rc8EwU2iK9Z9AJzEz&custom_7=6182c0c0f4e62961d9c2ccf1&is_lat=0
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/320px-Canal_DHE_logo.svg.png" group-title="CINE", DHE
-http://181.189.254.33:8083/play/a01b/index.m3u8
+http://181.189.254.33:8083/play/a01b/index.m3u
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Universal_Cinema.svg/revision/latest/scale-to-width-down/250?cb=20220311031932" group-title="CINE", UNIVERSAL CINEMA
 http://190.83.119.67:8000/play/a0v2/index.m3u8
@@ -223,11 +223,14 @@ https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/DirecTV_Sports_2013.png/revision/latest/scale-to-width-down/200?cb=20200706222755&path-prefix=es" group-title="DEPORTES", DTV Respaldo
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Bein_sports_%C3%B1_new.jpg/revision/latest/scale-to-width-down/220?cb=20170226193831" group-title="DEPORTES", BEIN SPORTS Ñ
-http://dx.pscptv.xyz:8081/DEP/BEIN_SPORTS_HD546546/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMS8yMDIyIDE6NDA6MTkgQU0maGFzaF92YWx1ZT1XWTBBNE9NcDM3R1pqNVNhVVpYL1pRPT0mdmFsaWRtaW51dGVzPTIyMA==
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Bein_sports_%C3%B1_new.jpg/revision/latest/scale-to-width-down/220?cb=20170226193831" group-title="DEPORTES", BEIN SPORTS Ñ FHD
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=343&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Bein_sports_%C3%B1_new.jpg/revision/latest/scale-to-width-down/220?cb=20170226193831" group-title="DEPORTES", BEIN SPORTS Ñ Opc. 2
+http://bgapp.live/play/bud-559.php?c=50423.m3u8&blck
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/LaLiga_por_Movistar_Plus%2B.svg/revision/latest/scale-to-width-down/266?cb=20220123152625&path-prefix=es" group-title="DEPORTES", La Liga Movistar+
-https://sv.spliktv.xyz/live/caster/BE/84/chunks.m3u8
+http://bgapp.live/play/ultim-559.php?tokeen=blackgghost&c=343&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/Movistar_Deportes.svg/revision/latest/scale-to-width-down/250?cb=20180910204157" group-title="DEPORTES", Movistar Deportes
 https://sv.spliktv.xyz/live/caster/BE/436/chunks.m3u8
@@ -280,6 +283,14 @@ http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eep
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/DAZN_F1.svg/revision/latest/scale-to-width-down/250?cb=20220119163405" group-title="DEPORTES", DAZN F1
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/1672
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/revision/latest/scale-to-width-down/288?cb=20191025185617" group-title="DEPORTES", DIRECTV Sports 2
+http://bgapp.live/play/bud-559.php?c=37838.m3u8&blck
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/DirecTV_Sports_2018.svg/revision/latest/scale-to-width-down/250?cb=20200706223451&path-prefix=es" group-title="DEPORTES", DIRECTV Sports
+http://bgapp.live/play/bud-559.php?c=37843.m3u8&blck
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/revision/latest/scale-to-width-down/240?cb=20191025185801" group-title="DEPORTES", DIRECTV Sports+
+http://bgapp.live/play/bud-559.php?c=37837.m3u8&blck
 
 
 
