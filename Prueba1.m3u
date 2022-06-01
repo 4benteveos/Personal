@@ -76,6 +76,9 @@ https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/LN_.png/revision/latest/scale-to-width-down/250?cb=20210527214720&path-prefix=es" group-title="INTERNACIONAL", LN+ Argentina
 https://sv.spliktv.xyz/live/caster/CA/c7eds/La_Nacion/ab.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/TN_2016.png/revision/latest/scale-to-width-down/330?cb=20200121023240&path-prefix=es" group-title="INTERNACIONAL", TN Argentina
+http://cdn.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/CINEAR2017_%281%29.svg/revision/latest/scale-to-width-down/300?cb=20210527002752&path-prefix=es" group-title="CINE", CINEAR
