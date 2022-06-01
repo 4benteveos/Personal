@@ -218,6 +218,9 @@ https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/DirecTV_Sports_2013.png/revision/latest/scale-to-width-down/200?cb=20200706222755&path-prefix=es" group-title="DEPORTES", DTV Respaldo
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Bein_sports_%C3%B1_new.jpg/revision/latest/scale-to-width-down/220?cb=20170226193831" group-title="DEPORTES", BEIN SPORTS Ñ (Fallas)
+http://190.83.119.67:8000/play/a0v6/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/LaLiga_por_Movistar_Plus%2B.svg/revision/latest/scale-to-width-down/266?cb=20220123152625&path-prefix=es" group-title="DEPORTES", La Liga Movistar+
 https://sv.spliktv.xyz/live/caster/BE/84/chunks.m3u8
 
