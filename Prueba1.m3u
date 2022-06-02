@@ -191,7 +191,7 @@ http://bgapp.live/play/bud-600.php?c=38455.m3u8&blck
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png/revision/latest/scale-to-width-down/175?cb=20211213232008&path-prefix=es" group-title="CULTURA", HISTORY
-https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/HistoryHD/SA_SAGEMCOM/HistoryHD.m3u8
+https://cdn.cvattv.com.ar/live/c7eds/HistoryHD/SA_SAGEMCOM/HistoryHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1200px-History2_logo_%282022%29.svg.png" group-title="CULTURA", HISTORY 2
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2.m3u8
