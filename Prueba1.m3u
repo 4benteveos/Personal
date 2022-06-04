@@ -211,6 +211,10 @@ https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-sabermas-plex/CDN/pla
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-61e86022307b907b95d63302" tvg-id="5e20b730f2f8d5003d739db7-61e86022307b907b95d63302" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b0b7c360-994d-4a53-9172-a8b501f015db/todo_life_750x500_v2_-_Kam_Jey.png" group-title="CULTURA",Todo LIFE
 https://9e42b0e4e5b1434db9278d1414d887bf.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_TodoLIFE/playlist.m3u8?ads.wurl_channel=1060&ads.wurl_name=TodoLIFE&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=yBjzr_yRsN3hWwc9B6Di&ads.plex_id=61e86022307b907b95d63302&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/280px-NASA_logo.svg.png" group-title="CULTURA", NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+
+
 
 
 
