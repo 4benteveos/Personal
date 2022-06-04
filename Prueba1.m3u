@@ -79,7 +79,7 @@ https://sv.spliktv.xyz/live/caster/CA/c7eds/La_Nacion/ab.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/TN_2016.png/revision/latest/scale-to-width-down/330?cb=20200121023240&path-prefix=es" group-title="INTERNACIONAL", TN Argentina
 http://cdn.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias.m3u8
 
-#EXTINF:-1 group-title="Bolivia" tvg-logo="https://1.bp.blogspot.com/-jtEW1DzeL6k/XagIpOTPiwI/AAAAAAAAAeU/tUWSLZXkXLIch45s-tLX_mbg3h92DfkzgCLcBGAsYHQ/s1600/boliviatv.png", BOLIVIA TV
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-logo="https://1.bp.blogspot.com/-jtEW1DzeL6k/XagIpOTPiwI/AAAAAAAAAeU/tUWSLZXkXLIch45s-tLX_mbg3h92DfkzgCLcBGAsYHQ/s1600/boliviatv.png", BOLIVIA TV
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 
 
@@ -362,6 +362,9 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01297-themahqfranceme-vivalditv-ple
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fUQEubL.png" group-title="MUSICA", RETRO PLUS
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fUQEubL.png" group-title="MUSICA", RETROPLUS 2
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
 
 
 
