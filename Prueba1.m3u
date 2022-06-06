@@ -248,7 +248,7 @@ https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/DirecTV_Sports_2013.png/revision/latest/scale-to-width-down/200?cb=20200706222755&path-prefix=es" group-title="DEPORTES", DTV Respaldo
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/Bein_sports_%C3%B1.jpg/revision/latest?cb=20170226193336" group-title="DEPORTES", BEIN SPORTS Ñ 
+#EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2022/05/beIN-Sports-en-Espanol.png" group-title="DEPORTES", BEIN SPORTS Ñ 
 http://bgapp.live/play/bud-600.php?c=50421.m3u8&blck
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/LaLiga_por_Movistar_Plus%2B.svg/revision/latest/scale-to-width-down/266?cb=20220123152625&path-prefix=es" group-title="DEPORTES", La Liga Movistar+
@@ -314,7 +314,7 @@ http://bgapp.live/play/ultim-606.php?tokeen=blackgghost&c=187&f=.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/revision/latest/scale-to-width-down/240?cb=20191025185801" group-title="DEPORTES", DIRECTV Sports+
 http://bgapp.live/play/ultim-606.php?tokeen=blackgghost&c=186&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/BeIN_Sports_NBA_2017.svg" group-title="DEPORTES", BEING SPORTS NBA
+#EXTINF:-1 tvg-logo="http://hadarasport.com/wp-content/uploads/2018/05/bein-NBA.gif" group-title="DEPORTES", BEING SPORTS NBA
 http://195.154.242.24:8001/play/a00o/index.m3u8
 
 
