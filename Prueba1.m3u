@@ -88,6 +88,10 @@ https://siloh-latam-aka.plutotv.net/lilo/production/Chilevision/master.m3u8?Play
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png" group-title="INTERNACIONAL", CARACOL (Colombia)
 http://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg" group-title="INTERNACIONAL", CNN en español
+https://cdn.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_SAGEMCOM/CNN_en_Espanol.m3u8
+
+
 
 
 
@@ -402,8 +406,14 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a6
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Cartoon-designstyle-cartoon-m.png" group-title="INFANTIL", CARTOONS
 http://181.176.148.142:8000/play/a021
 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/kanadetv.net/wp-content/uploads/2021/09/cropped-cropped-Branded-Logo-Icon-Plus-Text-And-Outline-0-00-00-00.png" group-title="INFANTIL", KANADE
+https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
 
 
+
+
+#EXTINF:-1 tvg-logo="https://www.cinesargentinos.com.ar/poster/9038-la-medium_168.jpg?1649946634" group-title="VOD", La Medium
+http://192.168.1.100:30001/thumbnail/2160/https://lahousetrialgameplayonlinetomax.xyz/repro2.php?id=bHJMRW1oTVhldDJJZnZnUE10V3NBQmx5b2ZqemljRFk1RmUybGphTUI2ZFhTWTNzZkUwOXAza0NTSktMWW9vQ1pWSXViY2JaOEdPazE4bjBVS2NMUXhlRWUwWWhxU0ZjdGNIT0dBWFI5U2R2eERJTUdtK1JpZlBEQldxL1E1dDZQU2ZQQkE0bDFmeWFzQTVDSEM2SUR0VjYvaUZHa0dpRldDbWw2UDRJL1VVb1plNXB0YWd4M0NwMU1TWmZ2aDJMZ2luY3dPV2haamFFREdpcnBvZUg4QUtOQVdrMmJMcWNuSEFXVFliYzMrOUhkSG5qQ1dGRGVOeStXbjdDckpocUJQMENxcnNyazZGdTB6VGxLUFBhMS9iaUNueTVKVzlicERacmt3NjBvZU9OVnQySklFeVlLR0xzS3hXQWNpYWg1Mll4RnBLUGRlYWxrZ2xhNFR3bTB3PT0&type=1
 
 
 
