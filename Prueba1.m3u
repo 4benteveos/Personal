@@ -282,7 +282,7 @@ http://bgapp.live/play/bud-600.php?c=50421.m3u8&blck
 http://190.83.119.67:8000/play/a0tj/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/Movistar_Deportes.svg/revision/latest/scale-to-width-down/250?cb=20180910204157" group-title="DEPORTES", Movistar Deportes
-https://sv.spliktv.xyz/live/caster/BE/436/chunks.m3u8
+http://192.168.1.100:30001/proxy/S0mCR5yP/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/WinSports2018.png/revision/latest/scale-to-width-down/250?cb=20181103010207" group-title="DEPORTES", WIN Sports
 http://tv.plusme1.xyz:28000/live/israelmantilla/pkooSNPDWH/3419.m3u8
@@ -307,6 +307,15 @@ https://edge-vod02-hr.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/ESPN_Extra_2015.png/revision/latest/scale-to-width-down/400?cb=20200726021701&path-prefix=es" group-title="DEPORTES", ESPN EXTRA
 https://edge7-ccast-hr.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/387px-DAZN_1_Logo.svg.png?20210827134204" group-title="DEPORTES", DAZN 1
+http://192.168.1.100:30001/proxy/aN7mcLHl/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/DAZN_2.svg/revision/latest/scale-to-width-down/250?cb=20220423095302" group-title="DEPORTES", DAZN 2 
+http://192.168.1.100:30001/proxy/jSpbnKbr/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/DAZN_3.svg/revision/latest/scale-to-width-down/250?cb=20220119161736" group-title="DEPORTES", DAZN 3
+http://192.168.1.100:30001/proxy/uzlsaQe6/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/VTV_Plus_2021.png/revision/latest/scale-to-width-down/275?cb=20210605021216&path-prefix=es" group-title="DEPORTES", VTV Plus
 http://edge5-sl.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_SAGEMCOM/VTV_Plus_HD.m3u8
