@@ -128,6 +128,8 @@ https://edge-vod02-hr.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.m
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/31/Film_%26_Arts.svg/revision/latest/scale-to-width-down/300?cb=20191030181426" group-title="CINE", FILM & ARTS
 http://168.232.168.242:8001/play/a0cf/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/31/Film_%26_Arts.svg/revision/latest/scale-to-width-down/300?cb=20191030181426" group-title="CINE", FILM & ARTS (Opc.2)
+http://190.83.119.67:8000/play/a0q6/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HPXHSQp/europa.png" group-title="CINE", EUROPA EUROPA
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Europa_Europa/SA_SAGEMCOM/Europa_Europa.m3u8
@@ -172,7 +174,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62167144ab20
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1159&livestream=1&live=1&app_bundle=com.plexapp.desktop&did=859b265b-2016-5ff0-a94d-a1645f13a4c9&app_domain=app.plex.tv&app_name=plex&h=1080&w=1920&custom4=plex&gdpr=0&device_make=Windows&device_model=Opera&coppa=1&us_privacy=1---&custom_6=RS-rc8EwU2iK9Z9AJzEz&custom_7=6182c0c0f4e62961d9c2ccf1&is_lat=0
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/320px-Canal_DHE_logo.svg.png" group-title="CINE", DHE
-http://168.232.168.242:8001/play/a05u/index.m3u8
+http://190.83.119.67:8000/play/a0qd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Universal_Cinema.svg/revision/latest/scale-to-width-down/250?cb=20220311031932" group-title="CINE", UNIVERSAL CINEMA
 http://190.83.119.67:8000/play/a0v2/index.m3u8
@@ -206,6 +208,22 @@ https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8
 
 #EXTINF:-1 channel-id="pluto-60cc807324d60a0007708dc8" tvg-id="60cc807324d60a0007708dc8" tvg-chno="150" tvg-logo="https://images.pluto.tv/channels/60cc807324d60a0007708dc8/colorLogoPNG.png" group-title="CINE",Pluto TV Indies
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60cc807324d60a0007708dc8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinepremium.png" group-title="CINE", CINE PREMIUM
+http://181.176.148.142:8000/play/a025
+
+#EXTINF:-1 tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinehispano.png" group-title="CINE", CINE HISPANO
+http://181.176.148.142:8000/play/a024
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/471_Cine_Club.png" group-title="CINE", CINE CLUB
+https://servilive.com:3176/live/cineclublive.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23008/cine-real-latam/thumbh_20211206_225151.jpg" group-title="CINE", CINE REAL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-distro/c2ad726d-bf69-4f75-8e5f-1007ef768eb8/4.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23008/tu-cine-latam/thumbh_20211206_224154.jpg" group-title="CINE", TU CINE
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-distro/25f414bc-75d2-4b01-b340-576f49ba41b4/4.m3u8
+
 
 
 
@@ -261,7 +279,7 @@ http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 http://bgapp.live/play/bud-600.php?c=50421.m3u8&blck
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/LaLiga_por_Movistar_Plus%2B.svg/revision/latest/scale-to-width-down/266?cb=20220123152625&path-prefix=es" group-title="DEPORTES", La Liga Movistar+
-https://sv.spliktv.xyz/live/caster/BE/84/chunks.m3u8
+http://190.83.119.67:8000/play/a0tj/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/Movistar_Deportes.svg/revision/latest/scale-to-width-down/250?cb=20180910204157" group-title="DEPORTES", Movistar Deportes
 https://sv.spliktv.xyz/live/caster/BE/436/chunks.m3u8
@@ -393,6 +411,10 @@ http://181.176.148.142:8000/play/a021
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/kanadetv.net/wp-content/uploads/2021/09/cropped-cropped-Branded-Logo-Icon-Plus-Text-And-Outline-0-00-00-00.png" group-title="INFANTIL", KANADE
 https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://planetatv.online/intro/wp-content/uploads/2022/04/planetatvlogo.png"INFANTIL", PLANETA TV KIDS
+https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8
+
 
 
 
