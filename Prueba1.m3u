@@ -224,6 +224,9 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-distr
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23008/tu-cine-latam/thumbh_20211206_224154.jpg" group-title="CINE", TU CINE
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-distro/25f414bc-75d2-4b01-b340-576f49ba41b4/4.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.volver.com.ar/img/logo.png" group-title="CINE", VOLVER
+http://192.168.1.100:30001/proxy/ArfKmCNf/Volver-mp4a_144800_spa=20000.m3u8
+
 
 
 
