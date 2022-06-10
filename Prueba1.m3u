@@ -206,7 +206,7 @@ http://181.189.254.33:8083/play/a02x/index.m3u
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nW3oOJqNFACe6hVQJpD5YRboVxgtqJM1RUvQBgKD8F-wm-VnMctbFSVXKOANev3-etc" group-title="CINE", BUTACA TV
 https://veranda-butacatv-2-mx.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6587750_preview.png" group-title="CINE", MOVES CENTRAl (By tv player)
+#EXTINF:-1 tvg-logo="https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/1/7/9/1339179_moviescentraltvplayer_830443.jpg" group-title="CINE", MOVIES CENTRAl (By tv player)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentrales-samsungspain/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://planetatv.online/intro/wp-content/uploads/2022/04/cropped-planetatvlogo.png" group-title="CINE", PLANETA TV MOVIES
@@ -227,7 +227,7 @@ http://181.176.148.142:8000/play/a025
 #EXTINF:-1 tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinehispano.png" group-title="CINE", CINE HISPANO
 http://181.176.148.142:8000/play/a024
 
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/471_Cine_Club.png" group-title="CINE", CINE CLUB
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6587750_preview.png" group-title="CINE", CINE CLUB
 https://servilive.com:3176/live/cineclublive.m3u8
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23008/cine-real-latam/thumbh_20211206_225151.jpg" group-title="CINE", CINE REAL
