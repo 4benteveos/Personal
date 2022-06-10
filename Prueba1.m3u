@@ -62,7 +62,7 @@ https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-10005
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/FRANCE_24_ESPA%C3%91OL_2018.png/revision/latest/scale-to-width-down/113?cb=20210513022734&path-prefix=es" group-title="INTERNACIONAL", FRANCE 24 ESPAÑOL
-http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
+https://pstrem.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=XDJPzMznAjU
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Deutsche_Welle_symbol_2012.svg/revision/latest/scale-to-width-down/250?cb=20210624152344&path-prefix=es" group-title="INTERNACIONAL", DW ESPAÑOL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
