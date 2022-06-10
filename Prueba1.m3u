@@ -91,6 +91,12 @@ http://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
 #EXTINF:-1 tvg-logo="https://tercoachingeuropa.com/wp-content/uploads/2016/11/Cnn1.png" group-title="INTERNACIONAL", CNN en español
 https://cdn.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_SAGEMCOM/CNN_en_Espanol.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Logo_rcn_television_2004-2013.png" group-title="INTERNACIONAL", RCN
+http://200.41.79.165:8000/play/a006/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/900px-Logo_TVE-Internacional.svg.png" group-title="INTERNACIONAL", TVE
+http://200.41.79.165:8000/play/a04e/index.m3u8
+
 
 
 
@@ -200,11 +206,17 @@ http://181.189.254.33:8083/play/a02x/index.m3u
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nW3oOJqNFACe6hVQJpD5YRboVxgtqJM1RUvQBgKD8F-wm-VnMctbFSVXKOANev3-etc" group-title="CINE", BUTACA TV
 https://veranda-butacatv-2-mx.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2021/01/moviescentral_rouge.png?fit=1200%2C716&ssl=1&w=640" group-title="CINE", MOVES CENTRAl (By tv player)
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6587750_preview.png" group-title="CINE", MOVES CENTRAl (By tv player)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentrales-samsungspain/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://planetatv.online/intro/wp-content/uploads/2022/04/cropped-planetatvlogo.png" group-title="CINE", PLANETA TV MOVIES
 https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6587750_preview.png" group-title="CINE", MOVIES MOTION
+http://181.176.148.142:8000/play/a02r
+
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6587750_preview.png" group-title="CINE", OLD CITY
+http://181.176.148.142:8000/play/a02u
 
 #EXTINF:-1 channel-id="pluto-60cc807324d60a0007708dc8" tvg-id="60cc807324d60a0007708dc8" tvg-chno="150" tvg-logo="https://images.pluto.tv/channels/60cc807324d60a0007708dc8/colorLogoPNG.png" group-title="CINE",Pluto TV Indies
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60cc807324d60a0007708dc8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
