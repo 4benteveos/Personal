@@ -504,16 +504,16 @@ https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/DirecTV_Sports_2018.svg/revision/latest/scale-to-width-down/250?cb=20200706223451&path-prefix=es" group-title="CABLELATINO", DIRECTV Sports (Cablelatino)
-http://tv.cablelatino.xyz/live/ABRIL_01/DIRECTV/index.m3u8
+https://tv.cablelatino.xyz/live/ABRIL_01/DIRECTV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/revision/latest/scale-to-width-down/288?cb=20191025185617" group-title="CABLELATINO", DIRECTV Sports 2 (Cablelatino)
-http://tv.cablelatino.xyz/live/ABRIL_01/DIRECTV_2/index.m3u8
+https://tv.cablelatino.xyz/live/ABRIL_01/DIRECTV_2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/revision/latest/scale-to-width-down/240?cb=20191025185801" group-title="CABLELATINO", DIRECTV Sports+ (Cablelatino)
-http://tv.cablelatino.xyz/live/ABRIL_01/DIRECTV_PLUS/index.m3u8
+https://tv.cablelatino.xyz/live/ABRIL_01/DIRECTV_PLUS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1200px-History2_logo_%282022%29.svg.png" group-title="CABLELATINO", History (Cablelatino)
-http://tv.cablelatino.xyz/live/ABRIL_01/HISTORY/index.m3u8
+https://tv.cablelatino.xyz/live/ABRIL_01/HISTORY/index.m3u8
 
 
 
