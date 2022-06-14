@@ -68,7 +68,7 @@ https://pstrem.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/wat
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Antena_3_2017.svg/revision/latest/scale-to-width-down/200?cb=20200307025520&path-prefix=es" group-title="INTERNACIONAL", ANTENA 3 España
-http://78.201.98.110:8000/play/a07o
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/37090
 
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-country="AR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Nueve2017.png/revision/latest/scale-to-width-down/150?cb=20210526032354&path-prefix=es" group-title="INTERNACIONAL", CANAL 9 Bs. A.s
 https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/0df6d88d-304a-4d15-9cf8-eab1bc9b5e45/3.m3u8
@@ -108,6 +108,9 @@ https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
 
 #EXTINF:-1 tvg-id="ETB2.TV" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200" group-title="INTERNACIONAL" tvg-name="ETB 2", ETB 2 Euskalerria
 https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/2097px-Telecinco.svg.png" group-title="INTERNACIONAL", TELECINCO España
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/37094
 
 
 
@@ -252,6 +255,12 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-distro/
 #EXTINF:-1 tvg-logo="https://www.volver.com.ar/img/logo.png" group-title="CINE", VOLVER
 http://192.168.1.100:30001/proxy/ArfKmCNf/Volver-mp4a_144800_spa=20000.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/SUNDANCE_CHANNEL_HD_2014.png" group-title="CINE", SUNDANCE
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/37161
+
+#EXTINF:-1 tvg-logo="https://findlogovector.com/wp-content/uploads/2019/08/canal-hollywood-logo-vector.png" group-title="CINE", HOLLYWOOD
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/37211
+
 
 
 
@@ -284,11 +293,14 @@ http://181.176.148.142:8000/play/a02m
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1200px-History2_logo_%282022%29.svg.png" group-title="CULTURA", HISTORY 2
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1200px-History2_logo_%282022%29.svg.png" group-title="CULTURA", HISTORY 2 Opc. 2
+http://sunshine.watch:25461/jwhitaker/8SHbZ4tkjO/3467
+
 #EXTINF:-1 channel-id="pluto-5dd85eac039bba0009e86d1d" tvg-id="5dd85eac039bba0009e86d1d" tvg-chno="271" tvg-logo="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/colorLogoPNG.png" group-title="CULTURA",Pluto TV Naturaleza
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/TVE2_logo_2008.png/revision/latest/scale-to-width-down/185?cb=20190108003232" group-title="CULTURA", LA2
-https://ztnr.rtve.es/ztnr/1688885.m3u8
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/37085
 
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1333395540478996480/oaQIEz2x_400x400.jpg" group-title="CULTURA", CANAL ENCUENTRO
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
@@ -337,7 +349,7 @@ https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2022/05/beIN-Sports-en-Espanol.png" group-title="DEPORTES", BEIN SPORTS Ñ 
-http://bgapp.live/play/bud-676.php?c=50422.m3u8&blck
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/37110
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/BeinSportsLaLiga.png/revision/latest/scale-to-width-down/220?cb=20161025122032" group-title="DEPORTES", BEIN SPORTS La Liga
 http://bgapp.live/play/bud-676.php?c=23711.m3u8&blck
@@ -346,7 +358,7 @@ http://bgapp.live/play/bud-676.php?c=23711.m3u8&blck
 http://190.83.119.67:8000/play/a0tj/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/Movistar_Deportes.svg/revision/latest/scale-to-width-down/250?cb=20180910204157" group-title="DEPORTES", Movistar Deportes
-http://192.168.1.100:30001/proxy/cvgcmCeA/chunks.m3u8
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/37124
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/WinSports2018.png/revision/latest/scale-to-width-down/250?cb=20181103010207" group-title="DEPORTES", WIN Sports
 http://tv.plusme1.xyz:28000/live/israelmantilla/pkooSNPDWH/3419.m3u8
@@ -385,7 +397,7 @@ http://bgapp.live/play/bud-676.php?c=39071.m3u8&blck
 http://bgapp.live/play/bud-676.php?c=11778.m3u8&blck
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/DAZN_F1.svg/revision/latest/scale-to-width-down/250?cb=20220119163405" group-title="DEPORTES", DAZN F1
-http://bgapp.live/play/bud-676.php?c=39067.m3u8&blck
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/37131
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/VTV_Plus_2021.png/revision/latest/scale-to-width-down/275?cb=20210605021216&path-prefix=es" group-title="DEPORTES", VTV Plus
 http://edge5-sl.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_SAGEMCOM/VTV_Plus_HD.m3u8
@@ -397,19 +409,19 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sp
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/revision/latest/scale-to-width-down/288?cb=20191025185617" group-title="DEPORTES", DIRECTV Sports 2
-http://bgapp.live/play/ultim-676.php?tokeen=blackgghost&c=188&f=.m3u8
+http://bgapp.live/play/futvall-626.php?id=directv&token=blackgghost&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/DirecTV_Sports_2018.svg/revision/latest/scale-to-width-down/250?cb=20200706223451&path-prefix=es" group-title="DEPORTES", DIRECTV Sports
-http://bgapp.live/play/bud-676.php?c=37839.m3u8&blck
+http://bgapp.live/play/tvhd-626.php?id=21&k=blackghoooossst&file=.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/revision/latest/scale-to-width-down/240?cb=20191025185801" group-title="DEPORTES", DIRECTV Sports+
 http://bgapp.live/play/bud-676.php?c=37837.m3u8&blck
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Eurosport_1_Logo_2015.png" group-title="DEPORTES", EUROSPORTS 1
-http://srb-iptv-munja.com:80/iptvrestreamvolkan/3URuTxSWK5/2271
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/37141
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/Eurosport_2-logo-069CDF80FA-seeklogo.com.png" group-title="DEPORTES", EUROSPRTS 2
-http://srb-iptv-munja.com:80/iptvrestreamvolkan/3URuTxSWK5/2272
+http://server1.shasho.net:8000/yosri2021/z0605cGMMp/37142
 
 
 
