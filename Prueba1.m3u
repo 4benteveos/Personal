@@ -28,6 +28,12 @@ https://stmv.video.gmpro.top/tvcharrua/tvcharrua/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TVCiudad_logo_2020.png" group-title="URUGUAY", TV CIUDAD
 https://sv.spliktv.xyz/live/caster/UY/c3eds/Teve_Ciudad/ab.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TVCiudad_logo_2020.png" group-title="URUGUAY", TV CIUDAD (Vera)
+https://livedelta2.cdn.antel.net.uy/out,vxttoken=cGF0aFVSST0lMkZvdXQlMkZ1JTJGYXV0aF9EMl9UdkNpdWRhZCUyRmhscyUyRiUyQSZleHBpcnk9MTY1NTc1NTIzNiZyYW5kb209encwSHdJeEV3QiZjLWlwPTE5MC4xMzIuODEuMjQxJmlkX3JlZmVyZW5jaWE9JmlkX2Rpc3Bvc2l0aXZvPTAmaWRfZnJvbnRlbmQ9MTE5NiZwdWJsaWNfaWQ9MnM2cjIsNGExYjA2OTMwYjU3NjM2ZWQ1NGMzMjcyY2ExZDU5NzMzYzhjYzViODAyMTcyZWFlMzYyYTFiOWQ1MzI1YjhmMA==/u/auth_D2_TvCiudad/hls/auth_D2_TvCiudad_HLSDEF13695.m3u8
+
+#EXTINF:-1 tvg-logo="https://cds-assets.cdn.antel.net.uy/imagenes/recursos/SmijzyqOB0BbGPOsc2LwXKkZlLxGyMPFxwDaYwhz.jpeg" group-title="URUGUAY", IMPO (Vera)
+https://vxlive.cdn.antel.net.uy/auth_V_IMPO,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfSU1QTyUyRnZ4Zm10JTNEaGxzJTJGJTJBJmV4cGlyeT0xNjU1NzU1NzUyJnJhbmRvbT1kQlMxSXVUbHB2JmMtaXA9MTkwLjEzMi44MS4yNDEmaWRfcmVmZXJlbmNpYT0maWRfZGlzcG9zaXRpdm89MCZpZF9mcm9udGVuZD0xMTk2JnB1YmxpY19pZD0yczZyOSw4ZjZkNjFkNDIxNzBiM2RlZjllY2E3YjAwM2NjMTVjYWVkMThlMWQzZTk0MmYzYmE1Zjc3MTYzYWQwYTdhNGY4/vxfmt=hls/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://sp-ao.shortpixel.ai/client/q_glossy,ret_img,w_417/https://charruasdelfutbol.com/wp-content/uploads/2020/10/mascotas-que-ha-tenido-la-aeleccion-uruguaya-de-futbol-1-charonito-charona.png" group-title="URUGUAY", EVENTOS
 https://adeltalive.cdn.antel.net.uy/out,vxttoken=cGF0aFVSST0lMkZvdXQlMkZ1JTJGYXV0aF9BVUZUVl9ITFMlMkZobHMlMkZhdXRoX0FVRlRWX0hMUyUyQSZjLWlwPTE3OS4yOS43MS4xOTQmZXhwaXJ5PTE2NTQ0NzAzNTEsNWViZWY1ZjgyZmM3NzJhOGI0M2M1MDMwNTYyNzU5NmVlYzNkMWJmNTk3MWQ3MGIxZmY3MmJlMjlmNTU2MmE1Ng==/u/auth_AUFTV_HLS/hls/auth_AUFTV_HLS.m3u8
 
