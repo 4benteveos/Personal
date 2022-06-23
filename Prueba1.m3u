@@ -261,29 +261,10 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-distro/
 #EXTINF:-1 tvg-logo="https://www.volver.com.ar/img/logo.png" group-title="CINE", VOLVER
 http://192.168.1.100:30001/proxy/ArfKmCNf/Volver-mp4a_144800_spa=20000.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/SUNDANCE_CHANNEL_HD_2014.png" group-title="CINE", SUNDANCE
-http://server1.shasho.net:8000/yosri2021/z0605cGMMp/37161
-
-#EXTINF:-1 tvg-logo="https://findlogovector.com/wp-content/uploads/2019/08/canal-hollywood-logo-vector.png" group-title="CINE", HOLLYWOOD
-http://server1.shasho.net:8000/yosri2021/z0605cGMMp/37211
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png" group-title="SERIES", A3 Series
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png" group-title="CINE", A3 Series
 https://edge-live11-sl.cvattv.com.ar/live/c7eds/A3_Series/SA_SAGEMCOM/A3_Series.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1024px-A%26E_Network_logo.svg.png" group-title="SERIES", A&E
-http://bgapp.live/play/bud-676.php?c=30300.m3u8&blck
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="SERIES", AXN
-https://cdn.cvattv.com.ar/live/c7eds/AXNHD/SA_SAGEMCOM/AXNHD.m3u8
-
-#EXTINF:-1 tvg-logo="https://amcla.s3.amazonaws.com/assets/channel_logo/light/wpx7o63kh8_AMC_logo.png" group-title="SERIES", AMC
-http://bgapp.live/play/bud-676.php?c=30303.m3u8&blck
-
-#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6587750_preview.png" group-title="SERIES", SERIES CLUB
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6587750_preview.png" group-title="CINE", SERIES CLUB
 http://181.176.148.142:8000/play/a02y
 
 
@@ -306,7 +287,7 @@ http://sunshine.watch:25461/jwhitaker/8SHbZ4tkjO/3467
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/TVE2_logo_2008.png/revision/latest/scale-to-width-down/185?cb=20190108003232" group-title="CULTURA", LA2
-http://server1.shasho.net:8000/yosri2021/z0605cGMMp/37085
+http://86.127.241.115:8888/play/a05g
 
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1333395540478996480/oaQIEz2x_400x400.jpg" group-title="CULTURA", CANAL ENCUENTRO
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
@@ -345,9 +326,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f610042272f6800086768
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/NBA_TV_2017.svg/revision/latest/scale-to-width-down/200?cb=20210715160314" group-title="DEPORTES", NBA TV
 http://edge2-ccast-sl.cvattv.com.ar/live/c6eds/NBA_TV/SA_SAGEMCOM/NBA_TV.m3u8
 
-#EXTINF:-1 tvg-logo="https://descuentos.abc.es/static/shop/36948/logo/C%C3%B3digo_promocional_NBA_League_Pass_-_Logo.png" group-title="DEPORTES", NBA LEAGUE PASS
-http://bgapp.live/play/bud-676.php?c=39082.m3u8&blck
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/ClaroSports.png/revision/latest/scale-to-width-down/300?cb=20140409052254" group-title="DEPORTES", CLARO SPORTS
 https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
 
@@ -365,12 +343,6 @@ http://190.83.119.67:8000/play/a0q6/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/Movistar_Deportes.svg/revision/latest/scale-to-width-down/250?cb=20180910204157" group-title="DEPORTES", Movistar Deportes
 http://server1.shasho.net:8000/yosri2021/z0605cGMMp/37124
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/WinSports2018.png/revision/latest/scale-to-width-down/250?cb=20181103010207" group-title="DEPORTES", WIN Sports
-http://quality-restream.com:8080/Fullitalia/52806fdf/8345
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png/revision/latest/scale-to-width-down/350?cb=20200225220524&path-prefix=es" group-title="DEPORTES", WIN Sports+
-http://quality-restream.com:8080/Fullitalia/52806fdf/294455
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest/scale-to-width-down/250?cb=20210102195101&path-prefix=es" group-title="DEPORTES", ESPN
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
@@ -393,18 +365,6 @@ https://edge7-ccast-hr.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/387px-DAZN_1_Logo.svg.png?20210827134204" group-title="DEPORTES", DAZN 1
 http://srb-iptv-munja.com:80/iptvrestreamvolkan/3URuTxSWK5/1856
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/DAZN_2.svg/revision/latest/scale-to-width-down/250?cb=20220423095302" group-title="DEPORTES", DAZN 2 
-http://srb-iptv-munja.com:80/iptvrestreamvolkan/3URuTxSWK5/1857
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/DAZN_3.svg/revision/latest/scale-to-width-down/250?cb=20220119161736" group-title="DEPORTES", DAZN 3
-http://bgapp.live/play/bud-676.php?c=39071.m3u8&blck
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/DAZN_4.svg/revision/latest/scale-to-width-down/250?cb=20220119162341" group-title="DEPORTES", DAZN 4
-http://bgapp.live/play/bud-676.php?c=11778.m3u8&blck
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/DAZN_F1.svg/revision/latest/scale-to-width-down/250?cb=20220119163405" group-title="DEPORTES", DAZN F1
-http://server1.shasho.net:8000/yosri2021/z0605cGMMp/37131
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/VTV_Plus_2021.png/revision/latest/scale-to-width-down/275?cb=20210605021216&path-prefix=es" group-title="DEPORTES", VTV Plus
 http://edge5-sl.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_SAGEMCOM/VTV_Plus_HD.m3u8
 
@@ -415,19 +375,19 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sp
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/revision/latest/scale-to-width-down/288?cb=20191025185617" group-title="DEPORTES", DIRECTV Sports 2
-http://bgapp.live/play/bud-626.php?c=157274&blck
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/DirecTV_Sports_2018.svg/revision/latest/scale-to-width-down/250?cb=20200706223451&path-prefix=es" group-title="DEPORTES", DIRECTV Sports
-http://bgapp.live/play/bud-626.php?c=157268&blck
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/revision/latest/scale-to-width-down/240?cb=20191025185801" group-title="DEPORTES", DIRECTV Sports+
-http://bgapp.live/play/bud-626.php?c=157271&blck
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Eurosport_1_Logo_2015.png" group-title="DEPORTES", EUROSPORTS 1
-https://networkbest.ru.com/cdn/premium41/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/Eurosport_2-logo-069CDF80FA-seeklogo.com.png" group-title="DEPORTES", EUROSPRTS 2
-http://server1.shasho.net:8000/yosri2021/z0605cGMMp/37142
+
 
 
 
@@ -534,20 +494,5 @@ http://tv.cablelatino.xyz/live/ABRIL_01/DIRECTV_PLUS/index.m3u8
 http://tv.cablelatino.xyz/live/ABRIL_01/HISTORY/index.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://www.colonia.gub.uy/uploads/eventos/n_portadaEvento57fc51ad7863d2c0a931591936028d5d91fb9ca2.jpg" group-title="PELÍCULAS", MATEÍNA
-https://lahousetrialgameplayonlinetomax.xyz/repro2.php?id=bHJMRW1oTVhldDJJZnZnUE10V3NBQmx5b2ZqemljRFk1RmUybGphTUI2ZFhTWTNzZkUwOXAza0NTSktMWW9vQ1pWSXViY2JaOEdPazE4bjBVS2NMUXhlRWUwWWhxU0ZjdGNIT0dBWFI5U2ZaK3U3TWtBbkdDdEozUjJVUjJLOG94bFpFOGlQU1c0RTVPTXBpblRnbDVURVM4ak8yWE00V295MEdJVHA4Qk5STC83cWpYVHB0NlVoWG5LVzhpcHhnS0U0MDVEZzFDT1lUSHJkbVhlcENMZkZ6TFBYZWhuY01VcjFJQWluSHFYdGlsWXI3UU9lS2YrcWdDNkNJaC9GY0ROOUZLTk10N2tTU3VGVllRZlkrcVBnVTBZSU5ZTjlCY1JZYTZLQWlCNWRBUzJvdHlhTjFNVDV1TFdodWRRMmx0bjBVNnVIa1M2dEdkd2NmK2p5a3pBPT0&type=1
-
-#EXTINF:-1 tvg-logo="https://www.museosdetenerife.org/wp-content/uploads/2021/07/LODLG_POSTER-WEB.jpg" group-title="PELÍCULAS", LA ODISEA DE LOS GILES
-https://lahousetrialgameplayonlinetomax.xyz/repro2.php?id=cHdlSGU2VjczUUVPODNNUXI0UWVpTEk3SGFLbjZaWUNQdStvVGEzUGc4NUQwbzgvTW44U1d5eXUrNzZGelFqVWI0RzhZMjI2KzYvdk9ERDRyWlJjdS9RVUU0ejR6LzIwMGpVa0xsWEJqUkYvVlczbDlNOXAxYVdsWlJBNTJLeDJGUmMxWlcycjBoUVJGVER3ZjRZUG9BPT0
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/tcYJFzRSTfpAFa6t5baTXdCX9qn.jpg" group-title="PELÍCULAS", Viaje a alguna parte
-https://o01ckegicymjd.jf8l2d5ks6x75ej.xyz/?s=U9Cv62zkZBniEizUjJdmZbRmDWfUK5OEfq9ltJFtl3L0mkUF3723iUpWQFQBKFf06pmz922u6N
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/nDpcuZKg6lahhqEkUrXUa3XkNeh.jpg" group-title="PELÍCULAS", LUZ, LA FLOR DEL MAL
-https://s97.upstreamcdn.co/hls/w47rzgd6vbbnx2nrozvk4wfbknyg45qsjkbake65cvwg6nuahdakhsbuzwja/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/DF8AAOSwzJ5XbFaT/s-l500.jpg" group-title="PELÍCULAS", THE CABLE GUY
-https://a-delivery11.mxdcontent.net/v/e7ecc9004e6abe7401f0f48a188efb41.mp4?s=niTi4i_CK5uZzWrEBDe3Hg&e=1655409221&_t=1655391738
 
 
