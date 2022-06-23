@@ -424,7 +424,7 @@ http://bgapp.live/play/bud-626.php?c=157268&blck
 http://bgapp.live/play/bud-626.php?c=157271&blck
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Eurosport_1_Logo_2015.png" group-title="DEPORTES", EUROSPORTS 1
-https://networkbest.ru.com/cdn/premium41/playlist.m3u8
+https://networkbest.ru.com/cdn/premium41/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/Eurosport_2-logo-069CDF80FA-seeklogo.com.png" group-title="DEPORTES", EUROSPRTS 2
 http://server1.shasho.net:8000/yosri2021/z0605cGMMp/37142
