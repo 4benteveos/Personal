@@ -44,7 +44,7 @@ http://cdn.cvattv.com.ar/live/c3eds/VTV_HD/SA_SAGEMCOM/VTV_HD.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="INTERNACIONAL", 24H España
-
+https://ztnr.rtve.es/ztnr/1694255.m3u8
 
 #EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Euronews_2016_Stacked.svg/revision/latest/scale-to-width-down/150?cb=20210623155442&path-prefix=es" group-title="INTERNACIONAL", Euronews Español
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
@@ -79,7 +79,7 @@ https://sv.spliktv.xyz/live/caster/CA/c7eds/La_Nacion/ab.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/TN_2016.png/revision/latest/scale-to-width-down/330?cb=20200121023240&path-prefix=es" group-title="INTERNACIONAL", TN Argentina
 http://cdn.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias.m3u8
 
-#EXTINF:-1 tvg-id="TVPublica.ar" tvg-country="AR" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.tvp_2021_solo.png.94443cd20174a9375ec25bca58e326ac.png" group-title="NACIONALES", TV PUBLICA Argentina
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-country="AR" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.tvp_2021_solo.png.94443cd20174a9375ec25bca58e326ac.png" group-title="INTERNACIONAL", TV PUBLICA Argentina
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/Canal7/SA_SAGEMCOM/Canal7.m3u8
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-logo="https://1.bp.blogspot.com/-jtEW1DzeL6k/XagIpOTPiwI/AAAAAAAAAeU/tUWSLZXkXLIch45s-tLX_mbg3h92DfkzgCLcBGAsYHQ/s1600/boliviatv.png", BOLIVIA TV
@@ -101,7 +101,7 @@ http://200.41.79.165:8000/play/a006/index.m3u8
 https://ztnr.rtve.es/ztnr/3293681.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/1024px-EcuadorTV_logo.png" group-title="INTERNACIONAL", ECUADOR TV 
-https://playback2.akamaized.net/streams/27228685_9764041_lsiijuduhvu1azjgibf_1/master.m3u8?dw=80&hdnts=exp=1656019308~acl=/streams/27228685_9764041_lsiijuduhvu1azjgibf_1/master.m3u8*~hmac=081ddcbe8e9d156e4cd007ec3fef8910b08353fe7a2713142fd0cbfc0dc6324b
+http://45.71.185.142:8500/play/a026
 
 #EXTINF:-1 tvg-id="TVGAL.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1200px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="INTERNACIONAL" tvg-name="TVG", TV Galicia
 https://europa-crtvg.flumotion.com/playlist.m3u8
