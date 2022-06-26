@@ -216,7 +216,7 @@ http://190.83.119.67:8000/play/a0t1/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Universal_Premiere.svg/revision/latest/scale-to-width-down/250?cb=20220311031855" group-title="CINE", UNIVERSAL PREMIER
 http://190.83.119.67:8000/play/a0ui/index.m3u8
 
-#EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6587750_preview.png" group-title="CINE", MOVIES CLUB
+#EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://icons-for-free.com/download-icon-movie+video+icon-1320087274946223173_512.png" group-title="CINE", MOVIES CLUB
 http://181.176.148.142:8000/play/a02s
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/121.-_RTRO.png/revision/latest/scale-to-width-down/250?cb=20210114204110&path-prefix=es" group-title="CINE", RETRO 
