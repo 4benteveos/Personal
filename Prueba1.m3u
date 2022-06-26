@@ -14,10 +14,10 @@ https://sv.spliktv.xyz/live/caster/UY/c4eds/Canal12URU/ab.m3u8
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/La_Red_Uruguay_2018.png/revision/latest/scale-to-width-down/200?cb=20200825011821&path-prefix=es" group-title="URUGUAY", LA RED
-https://d268yhgc98lzal.cloudfront.net/sdredtv/sdredtv.m3u8
+https://stm1.rootuy.xyz:19360/sdredtv/sdredtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1162587675217551360/Ot_b3vTB_400x400.png" group-title="URUGUAY", CANAL 9 TELEROCHA
-https://stmv1.srvif.com/canal9/canal9/playlist.m3u8
+https://stm1.rootuy.xyz:19360/canal9/canal9.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1446152329745555462/_BdjkCz2_400x400.png" group-title="URUGUAY", CANAL 77
 https://stmv1.srvif.com/canal77/canal77/playlist.m3u8
@@ -26,7 +26,7 @@ https://stmv1.srvif.com/canal77/canal77/playlist.m3u8
 https://stmv.video.gmpro.top/tvcharrua/tvcharrua/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TVCiudad_logo_2020.png" group-title="URUGUAY", TV CIUDAD
-https://sv.spliktv.xyz/live/caster/UY/c3eds/Teve_Ciudad/ab.m3u8
+http://edge4-hr.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_SAGEMCOM/Teve_Ciudad.m3u8
 
 #EXTINF:-1 tvg-logo="https://sp-ao.shortpixel.ai/client/q_glossy,ret_img,w_417/https://charruasdelfutbol.com/wp-content/uploads/2020/10/mascotas-que-ha-tenido-la-aeleccion-uruguaya-de-futbol-1-charonito-charona.png" group-title="URUGUAY", EVENTOS
 
@@ -35,10 +35,10 @@ https://sv.spliktv.xyz/live/caster/UY/c3eds/Teve_Ciudad/ab.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Canal_5_Uruguay_2021.png/revision/latest/scale-to-width-down/100?cb=20210725005410&path-prefix=es" group-title="URUGUAY", CANAL 5
-https://sv.spliktv.xyz/live/caster/UY/c3eds/TV_Nacional_Uy/ab.m3u8
+http://190.210.221.119/Processor3_2_chunklist_b1300000.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/VTV_Logo_2021.png/revision/latest/scale-to-width-down/275?cb=20210429025515&path-prefix=es" group-title="URUGUAY", VTV
-http://cdn.cvattv.com.ar/live/c3eds/VTV_HD/SA_SAGEMCOM/VTV_HD.m3u8
+https://edge-live16-hr.cvattv.com.ar/live/c3eds/VTV_HD/SA_SAGEMCOM/VTV_HD.m3u8
 
 
 
@@ -77,7 +77,7 @@ https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/
 https://sv.spliktv.xyz/live/caster/CA/c7eds/La_Nacion/ab.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/TN_2016.png/revision/latest/scale-to-width-down/330?cb=20200121023240&path-prefix=es" group-title="INTERNACIONAL", TN Argentina
-http://cdn.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias.m3u8
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias.m3u8
 
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-country="AR" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.tvp_2021_solo.png.94443cd20174a9375ec25bca58e326ac.png" group-title="INTERNACIONAL", TV PUBLICA Argentina
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/Canal7/SA_SAGEMCOM/Canal7.m3u8
@@ -160,7 +160,7 @@ https://edge-vod02-hr.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.m
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/31/Film_%26_Arts.svg/revision/latest/scale-to-width-down/300?cb=20191030181426" group-title="CINE", FILM & ARTS
 http://190.83.119.67:8000/play/a0v6/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/31/Film_%26_Arts.svg/revision/latest/scale-to-width-down/300?cb=20191030181426" group-title="CINE", FILM & ARTS (Opc.2)
-http://190.83.119.67:8000/play/a0q6/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HPXHSQp/europa.png" group-title="CINE", EUROPA EUROPA
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Europa_Europa/SA_SAGEMCOM/Europa_Europa.m3u8
@@ -270,6 +270,9 @@ https://edge-live11-sl.cvattv.com.ar/live/c7eds/A3_Series/SA_SAGEMCOM/A3_Series.
 #EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6587750_preview.png" group-title="CINE", SERIES CLUB
 http://181.176.148.142:8000/play/a02y
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/1200px-Sony_Movies_Logo.svg.png" group-title="CINE", SONY Movies
+http://190.83.119.67:8000/play/a0qc/index.m3u8
+
 
 
 
@@ -329,20 +332,20 @@ http://edge2-ccast-sl.cvattv.com.ar/live/c6eds/NBA_TV/SA_SAGEMCOM/NBA_TV.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/ClaroSports.png/revision/latest/scale-to-width-down/300?cb=20140409052254" group-title="DEPORTES", CLARO SPORTS
 https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/DirecTV_Sports_2013.png/revision/latest/scale-to-width-down/200?cb=20200706222755&path-prefix=es" group-title="DEPORTES", DTV Respaldo
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES", DirectTV Sports
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2022/05/beIN-Sports-en-Espanol.png" group-title="DEPORTES", BEIN SPORTS Ñ 
 http://190.83.119.67:8000/play/a0v6/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/BeinSportsLaLiga.png/revision/latest/scale-to-width-down/220?cb=20161025122032" group-title="DEPORTES", BEIN SPORTS La Liga
-http://bgapp.live/play/bud-676.php?c=23711.m3u8&blck
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/LaLiga_por_Movistar_Plus%2B.svg/revision/latest/scale-to-width-down/266?cb=20220123152625&path-prefix=es" group-title="DEPORTES", La Liga Movistar+
 http://190.83.119.67:8000/play/a0q6/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/Movistar_Deportes.svg/revision/latest/scale-to-width-down/250?cb=20180910204157" group-title="DEPORTES", Movistar Deportes
-http://server1.shasho.net:8000/yosri2021/z0605cGMMp/37124
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest/scale-to-width-down/250?cb=20210102195101&path-prefix=es" group-title="DEPORTES", ESPN
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
@@ -387,6 +390,13 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/Eurosport_2-logo-069CDF80FA-seeklogo.com.png" group-title="DEPORTES", EUROSPRTS 2
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="DEPORTES", WIN Sports
+http://moontools.me:8080/live/Degalvis78/KbeNUk4K2T/1131114.ts
+
+#EXTINF:-1 tvg-logo="https://www.cualeselprecio.com/wp-content/uploads/2020/12/1200px-Win_Sports_logo.svg.png" group-title="DEPORTES", WIN Sports+
+http://moontools.me:8080/live/Degalvis78/KbeNUk4K2T/1127715.ts
 
 
 
@@ -478,21 +488,6 @@ https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://planetatv.online/intro/wp-content/uploads/2022/04/planetatvlogo.png" group-title="INFANTIL", PLANETA TV KIDS
 https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/DirecTV_Sports_2018.svg/revision/latest/scale-to-width-down/250?cb=20200706223451&path-prefix=es" group-title="CABLELATINO", DIRECTV Sports (Cablelatino)
-http://tv.cablelatino.xyz/live/ABRIL_01/DIRECTV/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/revision/latest/scale-to-width-down/288?cb=20191025185617" group-title="CABLELATINO", DIRECTV Sports 2 (Cablelatino)
-http://tv.cablelatino.xyz/live/ABRIL_01/DIRECTV_2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/revision/latest/scale-to-width-down/240?cb=20191025185801" group-title="CABLELATINO", DIRECTV Sports+ (Cablelatino)
-http://tv.cablelatino.xyz/live/ABRIL_01/DIRECTV_PLUS/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png" group-title="CABLELATINO", History (Cablelatino)
-http://tv.cablelatino.xyz/live/ABRIL_01/HISTORY/index.m3u8
-
 
 
 
