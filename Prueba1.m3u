@@ -32,10 +32,10 @@ http://edge4-hr.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_SAGEMCOM/Teve_Ciudad.m3u
 https://networkbest.ru.com/cdn/kImObuqxoZ/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.vexels.com/media/users/3/198032/isolated/preview/b2814d420ae111921cceea3c11766403-jugador-de-ftbol-plano.png" group-title="URUGUAY", EVENTOS 2
-https://ed3.zorrohd.nl/live/flowitc94l9.m3u8
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/20_.m3u8?token=wsTg2WYC6lfzk_FIgGdhQA&expires=1656300698&ip=179.29.4.148
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/606/606441.png" group-title="URUGUAY", EVENTOS 3
-https://ed5.zorrohd.nl/live/flowitc91zh.m3u8
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/194_.m3u8?token=_xJsUyfFeQJDLJbku6Jxhw&expires=1656300897&ip=179.29.4.148
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Canal_5_Uruguay_2021.png/revision/latest/scale-to-width-down/100?cb=20210725005410&path-prefix=es" group-title="URUGUAY", CANAL 5
 http://190.210.221.119/Processor3_2_chunklist_b1300000.m3u8
