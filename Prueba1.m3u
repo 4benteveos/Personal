@@ -208,7 +208,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62167144ab20
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1159&livestream=1&live=1&app_bundle=com.plexapp.desktop&did=859b265b-2016-5ff0-a94d-a1645f13a4c9&app_domain=app.plex.tv&app_name=plex&h=1080&w=1920&custom4=plex&gdpr=0&device_make=Windows&device_model=Opera&coppa=1&us_privacy=1---&custom_6=RS-rc8EwU2iK9Z9AJzEz&custom_7=6182c0c0f4e62961d9c2ccf1&is_lat=0
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/320px-Canal_DHE_logo.svg.png" group-title="CINE", DHE
-http://190.83.119.67:8000/play/a0qd/index.m3u8
+http://gratis.shortgod.com/noratonespppp/tv3.php?c=26410
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Universal_Cinema.svg/revision/latest/scale-to-width-down/250?cb=20220311031932" group-title="CINE", UNIVERSAL CINEMA
 http://190.83.119.67:8000/play/a0v2/index.m3u8
@@ -348,7 +348,7 @@ http://190.83.119.67:8000/play/a0v6/index.m3u8
 http://190.83.119.67:8000/play/a0q6/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/Movistar_Deportes.svg/revision/latest/scale-to-width-down/250?cb=20180910204157" group-title="DEPORTES", Movistar Deportes
-
+http://gratis.shortgod.com/noratonespppp/tv3.php?c=26465
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest/scale-to-width-down/250?cb=20210102195101&path-prefix=es" group-title="DEPORTES", ESPN
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
@@ -371,6 +371,9 @@ https://edge7-ccast-hr.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/387px-DAZN_1_Logo.svg.png?20210827134204" group-title="DEPORTES", DAZN 1
 http://srb-iptv-munja.com:80/iptvrestreamvolkan/3URuTxSWK5/1856
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/DAZN_F1.svg/revision/latest/scale-to-width-down/250?cb=20220119163405" group-title="DEPORTES", DAZN F1
+http://gratis.shortgod.com/noratonespppp/tv3.php?c=26451
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/VTV_Plus_2021.png/revision/latest/scale-to-width-down/275?cb=20210605021216&path-prefix=es" group-title="DEPORTES", VTV Plus
 http://edge5-sl.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_SAGEMCOM/VTV_Plus_HD.m3u8
 
@@ -380,20 +383,20 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sp
 #EXTINF:-1 tvg-logo="https://images.daznservices.com/di/library/DAZN_News/ca/3d/red-bull-tv_fs8fm15cu17f1m6xc86vj7w0b.png" group-title="DEPORTES", REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/revision/latest/scale-to-width-down/288?cb=20191025185617" group-title="DEPORTES", DIRECTV Sports 2
-
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/DirecTV_Sports_2018.svg/revision/latest/scale-to-width-down/250?cb=20200706223451&path-prefix=es" group-title="DEPORTES", DIRECTV Sports
+http://gratis.shortgod.com/noratonespppp/tv3.php?c=26484
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/revision/latest/scale-to-width-down/288?cb=20191025185617" group-title="DEPORTES", DIRECTV Sports 2
+http://gratis.shortgod.com/noratonespppp/tv3.php?c=26485
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/revision/latest/scale-to-width-down/240?cb=20191025185801" group-title="DEPORTES", DIRECTV Sports+
-
+http://gratis.shortgod.com/noratonespppp/tv3.php?c=26486
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Eurosport_1_Logo_2015.png" group-title="DEPORTES", EUROSPORTS 1
-
+http://gratis.shortgod.com/noratonespppp/tv3.php?c=26463
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/Eurosport_2-logo-069CDF80FA-seeklogo.com.png" group-title="DEPORTES", EUROSPRTS 2
-
+http://gratis.shortgod.com/noratonespppp/tv3.php?c=26464
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="DEPORTES", WIN Sports
 http://moontools.me:8080/live/Degalvis78/KbeNUk4K2T/1131114.ts
