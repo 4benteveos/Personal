@@ -276,6 +276,9 @@ http://181.176.148.142:8000/play/a02y
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/1200px-Sony_Movies_Logo.svg.png" group-title="CINE", SONY Movies
 http://190.83.119.67:8000/play/a0qc/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/SundanceTVlogo.png" group-title="CINE", SUNDANCE TV
+http://bgapp.live/play/zufree-654.php?c=1069.m3u8&blck
+
 
 
 
