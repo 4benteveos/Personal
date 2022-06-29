@@ -65,7 +65,7 @@ https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-10005
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/FRANCE_24_ESPA%C3%91OL_2018.png/revision/latest/scale-to-width-down/113?cb=20210513022734&path-prefix=es" group-title="INTERNACIONAL", FRANCE 24 ESPAÑOL
-https://pstrem.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=XDJPzMznAjU
+https://www.youtube.com/watch?v=XDJPzMznAjU
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Deutsche_Welle_symbol_2012.svg/revision/latest/scale-to-width-down/250?cb=20210624152344&path-prefix=es" group-title="INTERNACIONAL", DW ESPAÑOL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
@@ -165,6 +165,7 @@ https://edge-vod02-hr.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.m
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/31/Film_%26_Arts.svg/revision/latest/scale-to-width-down/300?cb=20191030181426" group-title="CINE", FILM & ARTS
 http://bgapp.live/play/14-654.php?c=149&token=blackggghost&f=.m3u8%7Cuser-agent=Dalvik/2.1.0
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/31/Film_%26_Arts.svg/revision/latest/scale-to-width-down/300?cb=20191030181426" group-title="CINE", FILM & ARTS (Opc.2)
+http://190.83.119.67:8000/play/a0q6/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HPXHSQp/europa.png" group-title="CINE", EUROPA EUROPA
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Europa_Europa/SA_SAGEMCOM/Europa_Europa.m3u8
