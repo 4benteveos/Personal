@@ -177,7 +177,7 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Eurochannel/SA_SAGEMCOM/Eurochan
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T0jMb06/warner.png" group-title="CINE", WARNER
 http://190.83.119.67:8000/play/a0tk/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eQKFgpa.png" group-title="CINE", RAKUTEN COMEDIA    
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png" group-title="CINE", RAKUTEN COMEDIA    
 https://b1e945c80353459a8dca16651625ad2e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenComedyMovies/playlist.m3u8?ads.wurl_channel%3D428%26ads.wurl_name%3DRakutenComedyMovies%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0%26ads.consent%3D%7BTC_STRING%7D
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Atrescine.svg/revision/latest/scale-to-width-down/300?cb=20200629153338&path-prefix=es" group-title="CINE", A3CINE
@@ -219,7 +219,7 @@ http://190.83.119.67:8000/play/a0t1/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Universal_Premiere.svg/revision/latest/scale-to-width-down/250?cb=20220311031855" group-title="CINE", UNIVERSAL PREMIER
 http://190.83.119.67:8000/play/a0ui/index.m3u8
 
-#EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://images.vexels.com/media/users/3/153232/isolated/preview/c3bcb676107e330558ccc68f8e1cf7d5-icono-plano-del-reproductor-de-peliculas.png" group-title="CINE", MOVIES CLUB
+#EXTINF:-1 tvg-logo="https://images.vexels.com/media/users/3/153232/isolated/preview/c3bcb676107e330558ccc68f8e1cf7d5-icono-plano-del-reproductor-de-peliculas.png" group-title="CINE", MOVIES CLUB
 http://181.176.148.142:8000/play/a02s
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/121.-_RTRO.png/revision/latest/scale-to-width-down/250?cb=20210114204110&path-prefix=es" group-title="CINE", RETRO 
@@ -234,7 +234,7 @@ http://181.189.254.33:8083/play/a02x/index.m3u
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nW3oOJqNFACe6hVQJpD5YRboVxgtqJM1RUvQBgKD8F-wm-VnMctbFSVXKOANev3-etc" group-title="CINE", BUTACA TV
 https://veranda-butacatv-2-mx.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/1/7/9/1339179_moviescentraltvplayer_830443.jpg" group-title="CINE", MOVIES CENTRAl (By tv player)
+#EXTINF:-1 tvg-logo="https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/1/7/9/1339179_moviescentraltvplayer_830443.jpg" group-title="CINE", MOVIES CENTRAL (By tv player)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentrales-samsungspain/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://planetatv.online/intro/wp-content/uploads/2022/04/cropped-planetatvlogo.png" group-title="CINE", PLANETA TV MOVIES
