@@ -224,7 +224,7 @@ http://190.83.119.67:8000/play/a0ui/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.vexels.com/media/users/3/153232/isolated/preview/c3bcb676107e330558ccc68f8e1cf7d5-icono-plano-del-reproductor-de-peliculas.png" group-title="CINE", MOVIES CLUB
 http://181.176.148.142:8000/play/a02s
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/121.-_RTRO.png/revision/latest/scale-to-width-down/250?cb=20210114204110&path-prefix=es" group-title="CINE", RETRO 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/121.-_RTRO.webp/320px-121.-_RTRO.webp.png" group-title="CINE", RETRO 
 http://181.176.148.142:8000/play/a02x
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="CINE", SONY
