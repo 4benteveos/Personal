@@ -119,6 +119,7 @@ https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
 https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/2097px-Telecinco.svg.png" group-title="INTERNACIONAL", TELECINCO España
+http://gratis.shortgod.com/noratonespppp/tves.php?c=1136
 
 #EXTINF:-1 tvg-logo="https://www.mexicoescultura.com/galerias/espacios/principal/canalonce.png" group-title="INTERNACIONAL", CANAL ONCE MX
 http://bgapp.live/play/bud-654.php?c=59&tokeen=blackggghost
@@ -301,7 +302,7 @@ http://sunshine.watch:25461/jwhitaker/8SHbZ4tkjO/3467
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/300px-Logo_TVE-2.svg.png" group-title="CULTURA", LA2
-
+http://gratis.shortgod.com/noratonespppp/tves.php?c=1128
 
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-country="AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/1200px-Logo_del_canal_Encuentro.svg.png" group-title="CULTURA", CANAL ENCUENTRO
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
@@ -398,7 +399,7 @@ http://gratis.shortgod.com/noratonespppp/tv3.php?c=26485
 http://gratis.shortgod.com/noratonespppp/tv3.php?c=26486
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Eurosport_1_Logo_2015.png" group-title="DEPORTES", EUROSPORTS 1
-http://gratis.shortgod.com/noratonespppp/tv3.php?c=26463
+http://gratis.shortgod.com/noratonespppp/tves.php?c=1163
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/Eurosport_2-logo-069CDF80FA-seeklogo.com.png" group-title="DEPORTES", EUROSPRTS 2
 http://gratis.shortgod.com/noratonespppp/tv3.php?c=26464
@@ -408,6 +409,9 @@ http://moontools.me:8080/live/Degalvis78/KbeNUk4K2T/1131114.ts
 
 #EXTINF:-1 tvg-logo="https://www.cualeselprecio.com/wp-content/uploads/2020/12/1200px-Win_Sports_logo.svg.png" group-title="DEPORTES", WIN Sports+
 http://moontools.me:8080/live/Degalvis78/KbeNUk4K2T/1127715.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png"DEPORTES", UFC Fight Pass
+http://gratis.shortgod.com/noratonespppp/tv3.php?c=26460
 
 
 
