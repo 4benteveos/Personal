@@ -29,13 +29,13 @@ https://stmv.video.gmpro.top/tvcharrua/tvcharrua/playlist.m3u8
 http://edge4-hr.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_SAGEMCOM/Teve_Ciudad.m3u8
 
 #EXTINF:-1 tvg-logo="https://sp-ao.shortpixel.ai/client/q_glossy,ret_img,w_417/https://charruasdelfutbol.com/wp-content/uploads/2020/10/mascotas-que-ha-tenido-la-aeleccion-uruguaya-de-futbol-1-charonito-charona.png" group-title="URUGUAY", EVENTOS
-https://networkbest.ru.com/cdn/kImObuqxoZ/playlist.m3u8
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99a772c54853000797bf18/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://images.vexels.com/media/users/3/198032/isolated/preview/b2814d420ae111921cceea3c11766403-jugador-de-ftbol-plano.png" group-title="URUGUAY", EVENTOS 2
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/20_.m3u8?token=wsTg2WYC6lfzk_FIgGdhQA&expires=1656300698&ip=179.29.4.148
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/606/606441.png" group-title="URUGUAY", EVENTOS 3
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/194_.m3u8?token=_xJsUyfFeQJDLJbku6Jxhw&expires=1656300897&ip=179.29.4.148
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Canal_5_Uruguay_2021.png/revision/latest/scale-to-width-down/100?cb=20210725005410&path-prefix=es" group-title="URUGUAY", CANAL 5
 http://190.210.221.119/Processor3_2_chunklist_b1300000.m3u8
@@ -418,6 +418,9 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,N
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB TV
 http://tv.nlt.wtf:24561/live/Ashley689/673175/728.ts
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de94dacb394a300099fa22a/colorLogoPNG.png" group-title="EVENTOS DEPORTIVOS",PGA TOUR
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de94dacb394a300099fa22a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
 
