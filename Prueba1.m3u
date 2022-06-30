@@ -410,10 +410,11 @@ http://moontools.me:8080/live/Degalvis78/KbeNUk4K2T/1131114.ts
 #EXTINF:-1 tvg-logo="https://www.cualeselprecio.com/wp-content/uploads/2020/12/1200px-Win_Sports_logo.svg.png" group-title="DEPORTES", WIN Sports+
 http://moontools.me:8080/live/Degalvis78/KbeNUk4K2T/1127715.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png"DEPORTES", UFC Fight Pass
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png" group-title="DEPORTES", UFC Fight Pass
 http://gratis.shortgod.com/noratonespppp/tv3.php?c=26460
 
-
+#EXTINF:-1 tvg-logo="https://static.www.nfl.com/image/upload/v1554321393/league/nvfr7ogywskqrfaiu38m.svg" group-title="DEPORTES", NFL TV 
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,NFL.m3u8
 
 
 
