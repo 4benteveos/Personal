@@ -65,7 +65,7 @@ https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-10005
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/FRANCE_24_ESPA%C3%91OL_2018.png/revision/latest/scale-to-width-down/113?cb=20210513022734&path-prefix=es" group-title="INTERNACIONAL", FRANCE 24 ESPAÑOL
-https://www.youtube.com/watch?v=XDJPzMznAjU
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24Espanol/live
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Deutsche_Welle_symbol_2012.svg/revision/latest/scale-to-width-down/250?cb=20210624152344&path-prefix=es" group-title="INTERNACIONAL", DW ESPAÑOL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
@@ -126,6 +126,10 @@ http://bgapp.live/play/bud-654.php?c=59&tokeen=blackggghost
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1200px-TeleSUR-Logo.svg.png" group-title="INTERNACIONAL", TELESUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/VTV_Venezuela_2017_vector.png/revision/latest/scale-to-width-down/250?cb=20211003003059&path-prefix=es" group-title="INTERNACIONAL", VTV Venezuela
+https://www.dailymotion.com/cdn/live/video/x828i6j.m3u8?sec=qtqHzmxevS4MQZsvVf_VtmOfpxuyIzFsKn2KhEWQIiFgiWmsaAI4HWPXqG9kkw-tdHTFaCl6zlW-ePvxiWhKwg&dmTs=560237&dmV1st=8A9E4D96115541AAC59DDBC7E9AA6319
+
 
 
 
