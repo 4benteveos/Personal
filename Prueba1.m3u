@@ -130,7 +130,11 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/VTV_Venezuela_2017_vector.png/revision/latest/scale-to-width-down/250?cb=20211003003059&path-prefix=es" group-title="INTERNACIONAL", VTV Venezuela
 https://www.dailymotion.com/cdn/live/video/x828i6j.m3u8?sec=qtqHzmxevS4MQZsvVf_VtmOfpxuyIzFsKn2KhEWQIiFgiWmsaAI4HWPXqG9kkw-tdHTFaCl6zlW-ePvxiWhKwg&dmTs=560237&dmV1st=8A9E4D96115541AAC59DDBC7E9AA6319
 
+#EXTINF:-1 tvg-logo="https://diegourcola.com//wp-content/uploads/BBC.png" group-title="INTERNACIONAL", BBC
+https://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Uno_logo.svg/1200px-Uno_logo.svg.png" group-title="INTERNACIONAL", RED UNO Bolivia
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/embed/video/x825whp
 
 
 
