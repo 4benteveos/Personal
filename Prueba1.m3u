@@ -306,9 +306,6 @@ http://gratis.shortgod.com/noratonespppp/tv3.php?c=26495
 #EXTINF:-1 channel-id="pluto-5dd85eac039bba0009e86d1d" tvg-id="5dd85eac039bba0009e86d1d" tvg-chno="271" tvg-logo="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/colorLogoPNG.png" group-title="CULTURA",Pluto TV Naturaleza
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/300px-Logo_TVE-2.svg.png" group-title="CULTURA", LA2
-http://gratis.shortgod.com/noratonespppp/tves.php?c=1128
-
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-country="AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/1200px-Logo_del_canal_Encuentro.svg.png" group-title="CULTURA", CANAL ENCUENTRO
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
 
