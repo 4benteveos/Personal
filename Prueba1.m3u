@@ -361,13 +361,13 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_SAGEMCOM/D
 https://edge-vod02-hr.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_SAGEMCOM/AnimalPlanet.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="CULTURA", Discovery H&H
-https://chromecast.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD.m3u8
+http://74.208.182.72:25461/justplay240/vCIaD0v2Gp/17
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="CULTURA", ID Discovery
 https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/ID/SA_SAGEMCOM/ID.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="CULTURA", Discovery Turbo
-https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_SAGEMCOM/DiscoveryTurbo.m3u8
+https://m3ukodi.com/servicios/budtv-ultra/budtv.php?2499-98270
 
 
 
