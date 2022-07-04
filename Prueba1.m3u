@@ -345,35 +345,28 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e67d41b93312100076f3f
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f610042272f68000867685b/colorLogoPNG.png" group-title="CULTURA", Misterios sin Resolver
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f610042272f68000867685b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://puu.sh/msJjE/f96602e474.png" group-title="CULTURA", Nat Geo
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-National-Geographic.png" group-title="CULTURA", Nat Geo
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="CULTURA",Discovery Channel 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="CULTURA", Discovery Channel 
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-hd-theater_m.png" group-title="CULTURA",Discovery Theather
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/2560px-2015_Discovery_theater_HD_logo.svg.png" group-title="CULTURA", Discovery Theater 
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Theater_HD/SA_SAGEMCOM/Theater_HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSphoHmgXFW0G0uykugugDg3kPsWLNY8ymGjiY6e8fYt2MhCEwDLSOjxUwjTg4tQr2kojo&usqp=CAU" group-title="CULTURA",Discovery World
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/discoveryworld.png" group-title="CULTURA",Discovery World
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_SAGEMCOM/Discovery_World_HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo-500x283.png" group-title="CULTURA", ANIMAL PLANET
 https://edge-vod02-hr.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_SAGEMCOM/AnimalPlanet.m3u8
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="CULTURA", History Channel
-https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/HistoryHD/SA_SAGEMCOM/HistoryHD.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDe3S-Qx3OWiHzXeTQswVw4MiZdHFdtgDSuT0MB_XsJMg-2q_UdmjhmCiY5ifYXjQMREU&usqp=CAU" group-title="CULTURA", H2
-https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2.m3u8
-
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="CULTURA", Discovery H&H
 https://chromecast.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="CULTURA", ID Discovery
 https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/ID/SA_SAGEMCOM/ID.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSX21ZTqddlO31hOYGNmWiTKy4h6rkhYafqKamAkQ=s900-c-k-c0x00ffffff-no-rj" group-title="CULTURA", Discovery Turbo
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="CULTURA", Discovery Turbo
 https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_SAGEMCOM/DiscoveryTurbo.m3u8
 
 
