@@ -8,7 +8,7 @@
 http://s846397078.mialojamiento.es/w3jy/mp.php/https://cdnw2.zetatv.com.uy/live_edge/_definst_/amlst:9/playlist.m3u8?token=dd65793b-53ad-40d3-bc10-b27455d3de34
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/L/la-tele-telemundo-canal-12-uruguay-logo-CFCB6A5FEB-seeklogo.com.png" group-title="URUGUAY", LA TELE
-
+http://190.210.221.119/Processor3_11_chunklist_b1300000.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/UCLLatam.png/revision/latest/scale-to-width-down/250?cb=20210308024753&path-prefix=es" group-title="URUGUAY", UCL TV
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
@@ -273,7 +273,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-distr
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-distro/25f414bc-75d2-4b01-b340-576f49ba41b4/4.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.volver.com.ar/img/logo.png" group-title="CINE", VOLVER
-http://192.168.1.100:30001/proxy/ArfKmCNf/Volver-mp4a_144800_spa=20000.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png" group-title="CINE", A3 Series
 
@@ -306,16 +306,16 @@ https://edge3.prepro.cvattv.com.ar/live/vod/TBS/SA_Live_WebVTT_FTA/TBS.m3u8
 https://edge3.prepro.cvattv.com.ar/live/vod/CinecanalHD/SA_Live_WebVTT_FTA/CinecanalHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/2560px-Logo_Studio_Universal.svg.png" group-title="CINE", Studio Universal
-
+http://bgapp.live/play/14-666.php?c=830&token=blackgggghost&f=.m3u8%7Cuser-agent=Dalvik/2.1.0
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1280px-FX_International_logo.svg.png" group-title="CINE", FX
 https://edge3.prepro.cvattv.com.ar/live/vod/FXHD/SA_Live_WebVTT_FTA/FXHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://mundoejecutivo.com.mx/wp-content/uploads/2021/02/star.png" group-title="CINE", Star Channel
-
+http://bgapp.live/play/14-666.php?c=489&token=blackgggghost&f=.m3u8%7Cuser-agent=Dalvik/2.1.0
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Universal_Channel_Brasil.svg/1280px-Universal_Channel_Brasil.svg.png" group-title="CINE", Universal
-https://edge-live15-sl.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_SAGEMCOM/Universal_Channel_HD.m3u8 
+http://bgapp.live/play/14-666.php?c=99&token=blackgggghost&f=.m3u8%7Cuser-agent=Dalvik/2.1.0
 
 
 
@@ -325,13 +325,13 @@ https://edge-live15-sl.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_SAGEMCOM
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png/revision/latest/scale-to-width-down/175?cb=20211213232008&path-prefix=es" group-title="CULTURA", HISTORY
-https://edge-vod02-hr.cvattv.com.ar//live/c7eds/HistoryHD/SA_SAGEMCOM/HistoryHD.m3u8
+http://bgapp.live/play/14-666.php?c=642&token=blackgggghost&f=.m3u8%7Cuser-agent=Dalvik/2.1.0
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png/revision/latest/scale-to-width-down/175?cb=20211213232008&path-prefix=es" group-title="CULTURA", HISTORY Opc. 2
-https://m3ukodi.com/servicios/budtv-ultra/budtv.php?2488-98270
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1200px-History2_logo_%282022%29.svg.png" group-title="CULTURA", HISTORY 2
-http://edge-vod06-sl.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2.m3u8
+http://bgapp.live/play/14-666.php?c=61&token=blackgggghost&f=.m3u8%7Cuser-agent=Dalvik/2.1.0
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1200px-History2_logo_%282022%29.svg.png" group-title="CULTURA", HISTORY 2 Opc. 2
 http://gratis.shortgod.com/noratonespppp/tv3.php?c=26495
@@ -421,10 +421,7 @@ http://190.83.119.67:8000/play/a0q6/index.m3u8
 http://gratis.shortgod.com/noratonespppp/tv3.php?c=26465
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest/scale-to-width-down/250?cb=20210102195101&path-prefix=es" group-title="DEPORTES", ESPN
-http://edge-live14-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest/scale-to-width-down/250?cb=20210102195101&path-prefix=es" group-title="DEPORTES", ESPN
-https://edge-live16-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
+http://bgapp.live/play/14-666.php?c=486&token=blackgggghost&f=.m3u8%7Cuser-agent=Dalvik/2.1.0
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/ESPN2_2006.svg/revision/latest/scale-to-width-down/300?cb=20200105155601&path-prefix=es" group-title="DEPORTES", ESPN 2
 https://edge-live12-sl.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8
