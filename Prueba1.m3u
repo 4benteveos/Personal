@@ -136,7 +136,8 @@ https://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/62407
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Uno_logo.svg/1200px-Uno_logo.svg.png" group-title="INTERNACIONAL", RED UNO Bolivia
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/embed/video/x825whp
 
-
+#EXTINF:-1 tvg-id="" tvg-country="AR" tvg-logo="https://img.ip.digital/sites/default/files/styles/1_1_max_364px/theme/ip_theme/media/ip_logo.png?itok=gzTn1Jjd" group-title="INTERNACIONAL", IP Argentina
+https://octubre-live.cdn.vustreams.com/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
 
 
 
@@ -387,6 +388,12 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/ID/SA_SAGEMCOM/ID.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="CULTURA", Discovery Turbo
 https://m3ukodi.com/servicios/budtv-ultra/budtv.php?2499-98270
 
+#EXTINF:-1 tvg-id="TecTV.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/8f598-tectv-2015.png/revision/latest/scale-to-width-down/180?cb=20200503150538" group-title="CULTURA", TEC
+https://g2.mc-slo.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/gcba_video3-100042_720p.m3u8
+
+
+
+
 
 
 
@@ -480,6 +487,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de94dacb394a300099fa2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" tvg-group="DEPORTES", TENNIS CHANNEL
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8 
 
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_07/1635339829_g4371-copia.png.60942d438030098e8f96bb76c5035349.png" group-title="DEPORTES", DEPORT TV
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
 
 
@@ -569,5 +578,12 @@ https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://planetatv.online/intro/wp-content/uploads/2022/04/planetatvlogo.png" group-title="INFANTIL", PLANETA TV KIDS
 https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/6/6c/LocomotionGrande.png/revision/latest/scale-to-width-down/1200?cb=20150722124646&path-prefix=es" group-title="INFANTIL", LOCOMOTION 
+http://51.222.85.85:81/hls/loco/index.m3u8
 
+#EXTINF:-1 tvg-id="Pakapaka.ar" tvg-country="AR" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Pakapaka-en-vivo-Online-1.png" group-title="INFANTIL", PAKA PAKA
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Pakapaka.ar" tvg-country="AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png" group-title="INFANTIL", CARTOON NETWORK
+https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
 
