@@ -302,7 +302,7 @@ https://edge3.prepro.cvattv.com.ar/live/vod/TCM/SA_Live_WebVTT_FTA/TCM.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c4/0c/55/c40c55e69052d230974ec9295a8121d2.png" group-title="CINE", TBS
 https://edge3.prepro.cvattv.com.ar/live/vod/TBS/SA_Live_WebVTT_FTA/TBS.m3u8
 
-#EXTINF:-1 tvg-logo="https://cablevisionflow.com.uy/assets/img/contenidos/grilla-flow/Cinecanal.png" group-title="CINE", CINECANAL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Cinecanal_2016-0.png" group-title="CINE", CINECANAL
 https://edge3.prepro.cvattv.com.ar/live/vod/CinecanalHD/SA_Live_WebVTT_FTA/CinecanalHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/2560px-Logo_Studio_Universal.svg.png" group-title="CINE", Studio Universal
