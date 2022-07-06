@@ -10,6 +10,9 @@ http://74.208.182.72:25461/justplay240/vCIaD0v2Gp/154
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/L/la-tele-telemundo-canal-12-uruguay-logo-CFCB6A5FEB-seeklogo.com.png" group-title="URUGUAY", LA TELE
 http://190.210.221.119/Processor3_11_chunklist_b1300000.m3u8
 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/L/la-tele-telemundo-canal-12-uruguay-logo-CFCB6A5FEB-seeklogo.com.png" group-title="URUGUAY", LA TELE HD
+http://svtv.xyz:8080/Latinoiptv/NNAXP/67107
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/UCLLatam.png/revision/latest/scale-to-width-down/250?cb=20210308024753&path-prefix=es" group-title="URUGUAY", UCL TV
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 
