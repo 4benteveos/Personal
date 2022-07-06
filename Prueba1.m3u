@@ -321,6 +321,9 @@ http://bgapp.live/play/14-666.php?c=489&token=blackgggghost&f=.m3u8%7Cuser-agent
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Universal_Channel_Brasil.svg/1280px-Universal_Channel_Brasil.svg.png" group-title="CINE", Universal
 http://bgapp.live/play/14-666.php?c=99&token=blackgggghost&f=.m3u8%7Cuser-agent=Dalvik/2.1.0
 
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/11/Starz-Logo.png" group-title="CINE", STARZ
+http://svtv.xyz:8080/Latinoiptv/NNAXP/187833
+
 
 
 
