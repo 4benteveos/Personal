@@ -332,10 +332,10 @@ http://svtv.xyz:8080/Latinoiptv/NNAXP/187833
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png/revision/latest/scale-to-width-down/175?cb=20211213232008&path-prefix=es" group-title="CULTURA", HISTORY
-http://74.208.182.72:25461/justplay240/vCIaD0v2Gp/76
+http://190.83.119.67:8000/play/a0px/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png/revision/latest/scale-to-width-down/175?cb=20211213232008&path-prefix=es" group-title="CULTURA", HISTORY Opc. 2
-
+http://190.83.119.67:8000/play/a0px/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1200px-History2_logo_%282022%29.svg.png" group-title="CULTURA", HISTORY 2
 http://bgapp.live/play/14-666.php?c=61&token=blackgggghost&f=.m3u8%7Cuser-agent=Dalvik/2.1.0
