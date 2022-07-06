@@ -38,7 +38,7 @@ https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 http://74.208.182.72:25461/justplay240/vCIaD0v2Gp/1088
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/606/606441.png" group-title="URUGUAY", EVENTOS 3
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/132133
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Canal_5_Uruguay_2021.png/revision/latest/scale-to-width-down/100?cb=20210725005410&path-prefix=es" group-title="URUGUAY", CANAL 5
 http://190.210.221.119/Processor3_2_chunklist_b1300000.m3u8
@@ -426,7 +426,7 @@ http://gratis.shortgod.com/noratonespppp/tv3.php?c=26465
 http://181.176.148.142:8000/play/a02d
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/ESPN2_2006.svg/revision/latest/scale-to-width-down/300?cb=20200105155601&path-prefix=es" group-title="DEPORTES", ESPN 2
-http://bgapp.live/play/14-666.php?c=486&token=blackgggghost&f=.m3u8%7Cuser-agent=Dalvik/2.1.0
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/31814
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Espn3.png/revision/latest/scale-to-width-down/300?cb=20151012185318&path-prefix=es" group-title="DEPORTES", ESPN 3
 http://gratis.shortgod.com/noratonespppp/tv3.php?c=26443
