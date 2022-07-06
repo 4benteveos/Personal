@@ -11,7 +11,7 @@ http://74.208.182.72:25461/justplay240/vCIaD0v2Gp/154
 http://190.210.221.119/Processor3_11_chunklist_b1300000.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/L/la-tele-telemundo-canal-12-uruguay-logo-CFCB6A5FEB-seeklogo.com.png" group-title="URUGUAY", LA TELE HD
-http://svtv.xyz:8080/Latinoiptv/NNAXP/67107
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/UCLLatam.png/revision/latest/scale-to-width-down/250?cb=20210308024753&path-prefix=es" group-title="URUGUAY", UCL TV
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
@@ -332,7 +332,7 @@ http://svtv.xyz:8080/Latinoiptv/NNAXP/187833
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png/revision/latest/scale-to-width-down/175?cb=20211213232008&path-prefix=es" group-title="CULTURA", HISTORY
-http://bgapp.live/play/14-666.php?c=642&token=blackgggghost&f=.m3u8%7Cuser-agent=Dalvik/2.1.0
+http://74.208.182.72:25461/justplay240/vCIaD0v2Gp/76
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png/revision/latest/scale-to-width-down/175?cb=20211213232008&path-prefix=es" group-title="CULTURA", HISTORY Opc. 2
 
