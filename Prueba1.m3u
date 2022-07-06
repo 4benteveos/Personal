@@ -103,7 +103,7 @@ http://74.208.182.72:25461/justplay240/vCIaD0v2Gp/79
 http://200.41.79.165:8000/play/a006/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/900px-Logo_TVE-Internacional.svg.png" group-title="INTERNACIONAL", TVE
-https://rtvelivestreamv3.akamaized.net/rtvesec/la1_bkp_dvr.m3u8
+http://74.208.182.72:25461/justplay240/vCIaD0v2Gp/194
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/1024px-EcuadorTV_logo.png" group-title="INTERNACIONAL", ECUADOR TV 
 http://45.71.185.142:8500/play/a026
@@ -585,5 +585,10 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Pakapaka.ar" tvg-country="AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png" group-title="INFANTIL", CARTOON NETWORK
+http://74.208.182.72:25461/justplay240/vCIaD0v2Gp/122
+
+#EXTINF:-1 tvg-logo="http://static1.squarespace.com/static/56d8b7d62b8dde62573b9dd3/t/5ec0bac242d7f07cca6e9131/1589689123088/WeWillRoam_LogoDark_Masked+Layers+4.png?format=1500w" group-title="INFANTIL", DIBUJOS ANIMADOS
 https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
+
+
 
