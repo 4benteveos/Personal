@@ -346,7 +346,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd85eac039bba0009e86d
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Love_Nature_TV.png/revision/latest/scale-to-width-down/300?cb=20151125134652" group-title="CULTURA", LOVE NATURE LAT
-http://181.176.148.142:8000/play/a02q
+https://bamus-spa-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6018913ea15130002b284195" tvg-id="5e20b730f2f8d5003d739db7-6018913ea15130002b284195" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/sabermas_logo_light.png" group-title="CULTURA",Saber Mas
 https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-sabermas-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=yBjzr_yRsN3hWwc9B6Di&channelId=6018913ea15130002b284195
