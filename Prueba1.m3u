@@ -372,7 +372,8 @@ http://gratuita.mrzutv.net:25461/FJFJHJHUIHUIHUIHUIHhdhhdhdhdioioihdUIWsssssJKNc
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1200px-AMC_logo_2019.svg.png" group-title="CINE", AMC
 https://edge3.prepro.cvattv.com.ar/live/vod/AMCHD/SA_Live_WebVTT_FTA/AMCHD.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="CINE", CINEMAX
+http://74.208.182.72:25461/justplay240/vCIaD0v2Gp/14
 
 
 
@@ -472,7 +473,7 @@ http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 http://190.83.119.67:8000/play/a0v6/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/BeinSportsLaLiga.png/revision/latest/scale-to-width-down/220?cb=20161025122032" group-title="DEPORTES", BEIN SPORTS La Liga
-
+http://74.208.182.72:25461/justplay240/vCIaD0v2Gp/177
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/LaLiga_por_Movistar_Plus%2B.svg/revision/latest/scale-to-width-down/266?cb=20220123152625&path-prefix=es" group-title="DEPORTES", La Liga Movistar+
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3061
