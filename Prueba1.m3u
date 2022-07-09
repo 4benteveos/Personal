@@ -212,6 +212,11 @@ http://190.83.119.67:8000/play/a0q6/index.m3u8
 http://190.83.119.67:8000/play/a0qb/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HPXHSQp/europa.png" group-title="CINE", EUROPA EUROPA Opc. 2
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/1002
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HPXHSQp/europa.png" group-title="CINE", EUROPA EUROPA SD
+http://clubtv.link/24jun/2727j/lista1.php?c=a0b5&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/1280px-A%26E-Network-Logo.svg.png" group-title="CINE", A&E
+https://edge1.prepro.cvattv.com.ar/live/vod/AEHD/SA_Live_WebVTT_FTA/AEHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Eurochannel_%282015%29.svg/revision/latest/scale-to-width-down/250?cb=20210514180237&path-prefix=es" group-title="CINE", Eurochannel
 http://45.226.67.3:58001/play/a01l/index.m3u8
@@ -221,8 +226,6 @@ http://45.226.67.3:58001/play/a01l/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T0jMb06/warner.png" group-title="CINE", WARNER
 http://74.208.182.72:25461/justplay240/vCIaD0v2Gp/66
-#EXTINF:-1 tvg-logo="https://i.ibb.co/T0jMb06/warner.png" group-title="CINE", WARNER Opc. 2
-http://190.83.119.67:8000/play/a0tk/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png" group-title="CINE", RAKUTEN COMEDIA    
 https://b1e945c80353459a8dca16651625ad2e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenComedyMovies/playlist.m3u8?ads.wurl_channel%3D428%26ads.wurl_name%3DRakutenComedyMovies%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0%26ads.consent%3D%7BTC_STRING%7D
@@ -482,7 +485,7 @@ https://edge1.prepro.cvattv.com.ar/live/vod/TLC/SA_Live_WebVTT_FTA/TLC.m3u8
 https://edge1.prepro.cvattv.com.ar/live/vod/DiscoveryHomeHealthHD/SA_Live_WebVTT_FTA/DiscoveryHomeHealthHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="CULTURA", Discovery Turbo
-https://m3ukodi.com/servicios/budtv-ultra/budtv.php?2499-98270
+http://74.208.182.72:25461/justplay240/vCIaD0v2Gp/49
 
 #EXTINF:-1 tvg-id="TecTV.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/8f598-tectv-2015.png/revision/latest/scale-to-width-down/180?cb=20200503150538" group-title="CULTURA", TEC
 https://g2.mc-slo.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/gcba_video3-100042_720p.m3u8
