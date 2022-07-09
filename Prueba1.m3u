@@ -129,13 +129,16 @@ https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/VTV_Venezuela_2017_vector.png/revision/latest/scale-to-width-down/250?cb=20211003003059&path-prefix=es" group-title="INTERNACIONAL", VTV Venezuela
-https://www.dailymotion.com/cdn/live/video/x828i6j.m3u8?sec=qtqHzmxevS4MQZsvVf_VtmOfpxuyIzFsKn2KhEWQIiFgiWmsaAI4HWPXqG9kkw-tdHTFaCl6zlW-ePvxiWhKwg&dmTs=560237&dmV1st=8A9E4D96115541AAC59DDBC7E9AA6319
+https://www.dailymotion.com/cdn/live/video/x828i6j.m3u8?sec=qtqHzmxevS4MQZsvVf_Vtqg1MVBXF357d7Kn1FEVwmsoLeNd9xlQKMbm7yam5e9J11dXeiHo82aKGK8gKy66sg&dmTs=560237&dmV1st=8A9E4D96115541AAC59DDBC7E9AA6319
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/04/TVES-Venezuela-en-vivo-Online.png" group-title="INTERNACIONAL", TEVES Venezuela
+https://edge1o.live.opencaster.com/caster/erCkqDzdGzpj.m3u8
 
 #EXTINF:-1 tvg-logo="https://diegourcola.com//wp-content/uploads/BBC.png" group-title="INTERNACIONAL", BBC
 https://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Uno_logo.svg/1200px-Uno_logo.svg.png" group-title="INTERNACIONAL", RED UNO Bolivia
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/embed/video/x825whp
+https://www.dailymotion.com/cdn/live/video/x825whp.m3u8?sec=U-f81IyOn8dICD2iC2mUdiw2ZOMNIX8gQcg2i7G1p2YhgNICs5nxaf1KLGz4xi-FuVTNPZd__24Hr9FGPqrRQQ&dmTs=560237&dmV1st=8A9E4D96115541AAC59DDBC7E9AA6319
 
 #EXTINF:-1 tvg-id="" tvg-country="AR" tvg-logo="https://img.ip.digital/sites/default/files/styles/1_1_max_364px/theme/ip_theme/media/ip_logo.png?itok=gzTn1Jjd" group-title="INTERNACIONAL", IP Argentina
 https://octubre-live.cdn.vustreams.com/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
