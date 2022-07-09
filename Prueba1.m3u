@@ -71,6 +71,9 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Antena_3_2017.svg/revision/latest/scale-to-width-down/200?cb=20200307025520&path-prefix=es" group-title="INTERNACIONAL", ANTENA 3 España
 http://74.208.182.72:25461/justplay240/vCIaD0v2Gp/191
 
+#EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_circular_500_-1_d4a5.png" group-title="INTERNACIONAL", CUATRO España
+https://directos.mitele.es/orilinear21/live/linear21/playlist/playlist.isml/playlist-audio101_spa=128000-video=3500000.m3u8
+
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-country="AR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Nueve2017.png/revision/latest/scale-to-width-down/150?cb=20210526032354&path-prefix=es" group-title="INTERNACIONAL", CANAL 9 Bs. A.s
 https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/0df6d88d-304a-4d15-9cf8-eab1bc9b5e45/3.m3u8
 
@@ -98,6 +101,21 @@ http://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
 #EXTINF:-1 tvg-logo="https://tercoachingeuropa.com/wp-content/uploads/2016/11/Cnn1.png" group-title="INTERNACIONAL", CNN en español
 http://74.208.182.72:25461/justplay240/vCIaD0v2Gp/79
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png" group-title="INTERNACIONAL", ATV Perú
+https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/TV-Cosmos-Per%C3%BA-en-vivo-Online.png" group-title="INTERNACIONAL", TV COSMOS Perú
+https://edge1o.live.opencaster.com/caster/tpHaqFjazqvD.m3u8
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Cubavisi%C3%B3n-Internacional-en-vivo-Online.png" group-title="INTERNACIONAL", CUBAVISIÓN
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.radiotelevisionmarti.com/Content/responsive/OCB/es-CU/img/logo.png" group-title="INTERNACIONAL", MARTÍ Cuba
+https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/TSI-Telesistema-en-vivo-Online.png" group-title="INTERNACIONAL", TVC Honduras
+https://www.dailymotion.com/cdn/live/video/x88jdft.m3u8?sec=WL3VJ6bkLpZM573NEvCQnyMGNqJZanfqAP-TUuBwZTl6qV1we3PTe39Tf3QOKu2WNUTUSZxNYdJ6eEqQPNDJJw&dmTs=560237&dmV1st=8A9E4D96115541AAC59DDBC7E9AA6319
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Logo_rcn_television_2004-2013.png" group-title="INTERNACIONAL", RCN (Colombia)
 http://200.41.79.165:8000/play/a006/index.m3u8
 
@@ -106,6 +124,9 @@ http://74.208.182.72:25461/justplay240/vCIaD0v2Gp/194
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/1024px-EcuadorTV_logo.png" group-title="INTERNACIONAL", ECUADOR TV 
 http://45.71.185.142:8500/play/a026
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/03/Televicentro-Ecuador-TVC-en-vivo-Online.png" group-title="INTERNACIONAL", TVC Ecuador
+https://d6op0qag07k4o.cloudfront.net/hls/tvc_480.m3u8
 
 #EXTINF:-1 tvg-id="TVGAL.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1200px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="INTERNACIONAL" tvg-name="TVG", TV Galicia
 https://europa-crtvg.flumotion.com/playlist.m3u8
@@ -120,7 +141,7 @@ https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
 https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/2097px-Telecinco.svg.png" group-title="INTERNACIONAL", TELECINCO España
-http://gratis.shortgod.com/noratonespppp/tves.php?c=1136
+https://directos.mitele.es/orilinear17/live/linear17/playlist/playlist.isml/playlist-audio101_spa=128000-video=3500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mexicoescultura.com/galerias/espacios/principal/canalonce.png" group-title="INTERNACIONAL", CANAL ONCE MX
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
@@ -180,7 +201,7 @@ https://edge3.prepro.cvattv.com.ar/live/vod/HBO_Extreme/SA_Live_WebVTT_FTA/HBO_E
 http://200.41.79.165:8000/play/a0ht/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Paramount_Network_%28Gradient%29.svg/revision/latest/scale-to-width-down/200?cb=20191226173409" group-title="CINE", PARAMOUNT
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/1852
+https://edge1.prepro.cvattv.com.ar/live/vod/Paramount/SA_Live_WebVTT_FTA/Paramount.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/31/Film_%26_Arts.svg/revision/latest/scale-to-width-down/300?cb=20191030181426" group-title="CINE", FILM & ARTS
 http://74.208.182.72:25461/justplay240/vCIaD0v2Gp/1001
