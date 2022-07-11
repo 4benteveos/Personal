@@ -141,7 +141,7 @@ https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
 https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/2097px-Telecinco.svg.png" group-title="INTERNACIONAL", TELECINCO España
-https://directos.mitele.es/orilinear17/live/linear17/playlist/playlist.isml/playlist-audio101_spa=128000-video=3500000.m3u8
+http://74.208.182.72:25461/justplay240/vCIaD0v2Gp/195
 
 #EXTINF:-1 tvg-logo="https://www.mexicoescultura.com/galerias/espacios/principal/canalonce.png" group-title="INTERNACIONAL", CANAL ONCE MX
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
