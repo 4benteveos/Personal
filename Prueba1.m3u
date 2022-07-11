@@ -517,30 +517,30 @@ http://190.83.119.67:8000/play/a0v6/index.m3u8
 http://74.208.182.72:25461/justplay240/vCIaD0v2Gp/177
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/LaLiga_por_Movistar_Plus%2B.svg/revision/latest/scale-to-width-down/266?cb=20220123152625&path-prefix=es" group-title="DEPORTES", La Liga Movistar+
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3061
+http://74.208.182.72:25461/justplay240/vCIaD0v2Gp/177
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/Movistar_Deportes.svg/revision/latest/scale-to-width-down/250?cb=20180910204157" group-title="DEPORTES", Movistar Deportes
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3064
+http://74.208.182.72:25461/justplay240/vCIaD0v2Gp/175
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest/scale-to-width-down/250?cb=20210102195101&path-prefix=es" group-title="DEPORTES", ESPN
-http://181.176.148.142:8000/play/a02d
+http://74.208.182.72:25461/justplay240/vCIaD0v2Gp/166
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/ESPN2_2006.svg/revision/latest/scale-to-width-down/300?cb=20200105155601&path-prefix=es" group-title="DEPORTES", ESPN 2
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/31814
+http://74.208.182.72:25461/justplay240/vCIaD0v2Gp/358
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Espn3.png/revision/latest/scale-to-width-down/300?cb=20151012185318&path-prefix=es" group-title="DEPORTES", ESPN 3
-http://gratis.shortgod.com/noratonespppp/tv3.php?c=26443
+http://74.208.182.72:25461/justplay240/vCIaD0v2Gp/349
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/ESPN_4.svg/revision/latest/scale-to-width-down/350?cb=20211129170304&path-prefix=es" group-title="DEPORTES", ESPN 4
-http://181.176.148.142:8000/play/a02g
+http://74.208.182.72:25461/justplay240/vCIaD0v2Gp/611
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/ESPN_Extra_2015.png/revision/latest/scale-to-width-down/400?cb=20200726021701&path-prefix=es" group-title="DEPORTES", ESPN EXTRA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/750px-ESPN_Extra_Logo_2022.webp.png" group-title="DEPORTES", ESPN EXTRA
 http://74.208.182.72:25461/justplay240/vCIaD0v2Gp/186
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/387px-DAZN_1_Logo.svg.png?20210827134204" group-title="DEPORTES", DAZN 1
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/107099
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/DAZN_F1.svg/revision/latest/scale-to-width-down/250?cb=20220119163405" group-title="DEPORTES", DAZN F1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png" group-title="DEPORTES", F1
 http://74.208.182.72:25461/justplay240/vCIaD0v2Gp/625
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/VTV_Plus_2021.png/revision/latest/scale-to-width-down/275?cb=20210605021216&path-prefix=es" group-title="DEPORTES", VTV Plus
@@ -571,10 +571,10 @@ http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/163
 http://gratis.shortgod.com/noratonespppp/tv3.php?c=26464
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="DEPORTES", WIN Sports
-http://moontools.me:8080/live/Degalvis78/KbeNUk4K2T/1131114.ts
+http://74.208.182.72:25461/justplay240/vCIaD0v2Gp/45
 
 #EXTINF:-1 tvg-logo="https://www.cualeselprecio.com/wp-content/uploads/2020/12/1200px-Win_Sports_logo.svg.png" group-title="DEPORTES", WIN Sports+
-http://moontools.me:8080/live/Degalvis78/KbeNUk4K2T/1127715.ts
+http://74.208.182.72:25461/justplay240/vCIaD0v2Gp/46
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png" group-title="DEPORTES", UFC Fight Pass
 http://gratis.shortgod.com/noratonespppp/tv3.php?c=26460
