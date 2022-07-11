@@ -729,3 +729,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d85
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/65/a1/7b/65a17b3dec822869b016a6c2d6205fb6.png" group-title="INFANTIL", PEPPA PIG
 https://pstrem.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=hl_nACnH42w
+
+#EXTINF:-1 tvg-logo="https://marcosdavidh.files.wordpress.com/2013/04/tom-y-jerry-logo.png" group-title="INFANTIL", TOM & JERRY
+https://pstrem.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=PX2wegQtnBQ
