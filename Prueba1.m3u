@@ -465,9 +465,9 @@ https://edge3.prepro.cvattv.com.ar/live/vod/NatGeoHD/SA_Live_WebVTT_FTA/NatGeoHD
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-National-Geographic.png" group-title="CULTURA", NatGeo HD
 http://spliktv-edge2.wedrly.xyz/live/vod/NatGeoHD/SA_Live_WebVTT_FTA/NatGeoHD.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/discovery-logo-F9B62F9429-seeklogo.com.png" group-title="CULTURA", Discovery Channel 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Discovery_%282019_D%29.png/revision/latest?cb=20190925134725&path-prefix=es" group-title="CULTURA", Discovery Channel 
 https://edge3.prepro.cvattv.com.ar/live/vod/DiscoveryHD/SA_Live_WebVTT_FTA/DiscoveryHD.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/discovery-logo-F9B62F9429-seeklogo.com.png" group-title="CULTURA", Discovery Channel HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Discovery_%282019_D%29.png/revision/latest?cb=20190925134725&path-prefix=es" group-title="CULTURA", Discovery Channel HD
 http://74.208.182.72:25461/justplay240/vCIaD0v2Gp/37
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/2560px-2015_Discovery_theater_HD_logo.svg.png" group-title="CULTURA", Discovery Theater 
@@ -507,7 +507,7 @@ http://74.208.182.72:25461/justplay240/vCIaD0v2Gp/522
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/ClaroSports.png/revision/latest/scale-to-width-down/300?cb=20140409052254" group-title="DEPORTES", CLARO SPORTS
 https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES", DTV Sports -RESPALDO-
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_03/large.large.logo_DTVSports2018.png.e81f8dc38ed8ebadbbb6518e40f4ac4e.png.578b14e21d8782bf7b5f915b778bcb1b.png" group-title="DEPORTES", DTV Sports -RESPALDO-
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2022/05/beIN-Sports-en-Espanol.png" group-title="DEPORTES", BEIN SPORTS Ñ 
