@@ -727,5 +727,5 @@ https://pstrem.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/wat
 #EXTINF:-1 tvg-logo="https://marcosdavidh.files.wordpress.com/2013/04/tom-y-jerry-logo.png" group-title="INFANTIL", TOM & JERRY
 https://pstrem.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=PX2wegQtnBQ
 
-#EXTINF:-1 tvg-logo="https://www.pngmart.com/files/17/Futurama-Logo-PNG-Image.png" group-title="INFANTIL", FUTURAMA MOXFIX
-https://video-weaver.atl01.hls.ttvnw.net/v1/playlist/CpwESJ0hOxo5S1pErEVx698eDDx7rbu2LICbrZR6neN-lxrPIiB6oBp-ry97NxvE6eBocWHDsB_HkjqbYFlrZCBzC3zdhKNERk79ZXDxcxsNByN_hFMt98bIgGMJ0uJhgUqxJ3xm1mehk1t4g54S9feDd4CT9kqXGdW6qmXB6CNEVzoAVB4btMauxn2MzjpBwPT9K9nzS1bwcb1p-4nGksPqamXNEpQ2CqFzGq8goXGNrXZ2wIlDBmzFcN7ikmpYNwjDUUmVM610R6Fo-ru9rQje8W_z5KHXn6LFQb7tTaM-I85qKHdEEypBRgEG4VUKWu1vAjevT6xN1fMqdNTnh5_4CGzeigpflEjvikf79UXj8NNnyfW8HCfH9Z75eRU48CGWqMHVbqc0KoW1fk3ib0ZEb03ZHk-I3MGW-A-Gnfjeee3JxbkWe5NtEXL5TKEZDhoIRyQVeY3Z6zK7JtGFQXqQlQfvr6d5qiX4FpQIyfZWmfnu5ou9KrmnHUyNihfuW3zP8vvFf6cTPBhkQLTlg8bd2m-e28mgarRyafGbAbx1Z3puku2_ggIDYUQbdYStChh3u2plOWJgLvxhLtua58s0tZ46HxwXe5hcozoCJXV9vOCam6zBX8AN0VNhsCW_N5HhAB8hNsq23Pjm1xfydeEG_Xkaoua5wLmXbBEn900WElFZMEi4cWV5ks_BldmYiSrflRpPJBg4M871EFBHGgzP3xZK8K0SiEpPHHQgASoJZXUtd2VzdC0yMJUE.m3u8
+#EXTINF:-1 tvg-logo="https://www.pngmart.com/files/17/Futurama-Logo-PNG-Image.png" group-title="INFANTIL", FUTURAMA
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/40859
