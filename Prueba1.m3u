@@ -600,8 +600,8 @@ https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 #EXTINF:-1 tvg-logo="https://images.vexels.com/media/users/3/198032/isolated/preview/b2814d420ae111921cceea3c11766403-jugador-de-ftbol-plano.png" group-title="DEPORTES", EVENTOS 1
 http://74.208.182.72:25461/justplay240/vCIaD0v2Gp/1088
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/606/606441.png" group-title="DEPORTES", EVENTOS 2
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/132133
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/606/606441.png" group-title="DEPORTES", EVENTOS CA Femenina
+http://74.208.182.72:25461/justplay240/vCIaD0v2Gp/165
 
 
 
