@@ -204,6 +204,8 @@ http://clubtv.link/24jun/2727j/lista3.php?c=149&f=.m3u8
 http://190.83.119.67:8000/play/a0qb/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HPXHSQp/europa.png" group-title="CINE", EUROPA EUROPA SD
 http://clubtv.link/24jun/2727j/lista1.php?c=a0b5&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HPXHSQp/europa.png" group-title="CINE", EUROPA EUROPA (L5)
+http://magmas5.com:8000/live/malotv/gratis/146594.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/1280px-A%26E-Network-Logo.svg.png" group-title="CINE", A&E
 https://edge1.prepro.cvattv.com.ar/live/vod/AEHD/SA_Live_WebVTT_FTA/AEHD.m3u8
@@ -213,6 +215,8 @@ http://45.226.67.3:58001/play/a01l/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Eurochannel_%282015%29.svg/revision/latest/scale-to-width-down/250?cb=20210514180237&path-prefix=es" group-title="CINE", Eurochannel HD
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png/revision/latest/scale-to-width-down/310?cb=20210512164553&path-prefix=es" group-title="CINE", GOLDEN PLUS
+http://74.208.182.72:25461/justplay240/vCIaD0v2Gp/266
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T0jMb06/warner.png" group-title="CINE", WARNER
 http://74.208.182.72:25461/justplay240/vCIaD0v2Gp/66
@@ -248,7 +252,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62167144ab20
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1159&livestream=1&live=1&app_bundle=com.plexapp.desktop&did=859b265b-2016-5ff0-a94d-a1645f13a4c9&app_domain=app.plex.tv&app_name=plex&h=1080&w=1920&custom4=plex&gdpr=0&device_make=Windows&device_model=Opera&coppa=1&us_privacy=1---&custom_6=RS-rc8EwU2iK9Z9AJzEz&custom_7=6182c0c0f4e62961d9c2ccf1&is_lat=0
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/320px-Canal_DHE_logo.svg.png" group-title="CINE", DHE
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/1838
+http://181.176.148.142:8000/play/a027
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Universal_Cinema.svg/revision/latest/scale-to-width-down/250?cb=20220311031932" group-title="CINE", UNIVERSAL CINEMA
 http://74.208.182.72:25461/justplay240/vCIaD0v2Gp/1077
@@ -725,3 +729,18 @@ https://pstrem.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/wat
 
 #EXTINF:-1 tvg-logo="https://www.pngmart.com/files/17/Futurama-Logo-PNG-Image.png" group-title="INFANTIL", FUTURAMA
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/40859
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-93L7M5ltSDA/TjtYizV9bvI/AAAAAAAAARM/618e9_Rykqo/s1600/Coraje2.png" group-title="INFANTIL", CORAJE EL PERRO COBARDE (L5)
+http://magmas5.com:8000/live/malotv/gratis/129333.m3u8
+
+#EXTINF:-1 tvg-logo="https://marcas-logos.net/wp-content/uploads/2021/09/Looney-Tunes-Logo-1985.png" group-title="INFANTIL", LOONEY TOONES (L5)
+http://magmas5.com:8000/live/malotv/gratis/129338.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/78/f0/de/78f0dee5cbae782f77bca53aef75d08d.png" group-title="INFANTIL", LA PANTERA ROSA (L5)
+http://magmas5.com:8000/live/malotv/gratis/129347.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/ETGMWihWoAMua9b.png" group-title="INFANTIL", ED, EDD y EDDY (L5)
+http://magmas5.com:8000/live/malotv/gratis/145793.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/Scooby_Doo-logo-40A703ABCA-seeklogo.com.png" group-title="INFANTIL", SCOOBY-DOO (L5)
+http://magmas5.com:8000/live/malotv/gratis/3385.m3u8
