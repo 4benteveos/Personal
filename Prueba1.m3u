@@ -198,14 +198,10 @@ http://200.41.79.165:8000/play/a0ht/index.m3u8
 https://edge1.prepro.cvattv.com.ar/live/vod/Paramount/SA_Live_WebVTT_FTA/Paramount.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/31/Film_%26_Arts.svg/revision/latest/scale-to-width-down/300?cb=20191030181426" group-title="CINE", FILM & ARTS
-http://74.208.182.72:25461/justplay240/vCIaD0v2Gp/1001
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/31/Film_%26_Arts.svg/revision/latest/scale-to-width-down/300?cb=20191030181426" group-title="CINE", FILM & ARTS (Opc.2)
-http://190.83.119.67:8000/play/a0q6/index.m3u8
+http://clubtv.link/24jun/2727j/lista3.php?c=149&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HPXHSQp/europa.png" group-title="CINE", EUROPA EUROPA
 http://190.83.119.67:8000/play/a0qb/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HPXHSQp/europa.png" group-title="CINE", EUROPA EUROPA Opc. 2
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/1002
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HPXHSQp/europa.png" group-title="CINE", EUROPA EUROPA SD
 http://clubtv.link/24jun/2727j/lista1.php?c=a0b5&f=.m3u8
 
