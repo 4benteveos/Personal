@@ -268,7 +268,7 @@ http://74.208.182.72:25461/justplay240/vCIaD0v2Gp/1079
 #EXTINF:-1 tvg-logo="https://images.vexels.com/media/users/3/153232/isolated/preview/c3bcb676107e330558ccc68f8e1cf7d5-icono-plano-del-reproductor-de-peliculas.png" group-title="CINE", MOVIES CLUB
 http://181.176.148.142:8000/play/a02s
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/121.-_RTRO.webp/320px-121.-_RTRO.webp.png" group-title="CINE", RETRO 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvRTj8KY/121-RTRO-webp-modified.png" group-title="CINE", RETRO 
 http://181.176.148.142:8000/play/a02x
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="CINE", SONY
@@ -467,9 +467,9 @@ https://edge3.prepro.cvattv.com.ar/live/vod/NatGeoHD/SA_Live_WebVTT_FTA/NatGeoHD
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-National-Geographic.png" group-title="CULTURA", NatGeo HD
 http://spliktv-edge2.wedrly.xyz/live/vod/NatGeoHD/SA_Live_WebVTT_FTA/NatGeoHD.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Discovery_%282019_D%29.png/revision/latest?cb=20190925134725&path-prefix=es" group-title="CULTURA", Discovery Channel 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rF4dV41Y/Disco.png" group-title="CULTURA", Discovery Channel 
 https://edge3.prepro.cvattv.com.ar/live/vod/DiscoveryHD/SA_Live_WebVTT_FTA/DiscoveryHD.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Discovery_%282019_D%29.png/revision/latest?cb=20190925134725&path-prefix=es" group-title="CULTURA", Discovery Channel HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rF4dV41Y/Disco.png" group-title="CULTURA", Discovery Channel HD
 http://74.208.182.72:25461/justplay240/vCIaD0v2Gp/37
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/2560px-2015_Discovery_theater_HD_logo.svg.png" group-title="CULTURA", Discovery Theater 
