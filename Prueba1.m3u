@@ -299,7 +299,7 @@ https://tls-cl.cdnz.cl/planetatv2/ngrp:live_all//playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6587750_preview.png" group-title="CINE", MOVIES MOTION
 http://181.176.148.142:8000/play/a02r
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdYmtttG/imageonline-co-transparentimage.png" group-title="CINE", OLD CITY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hjBtxHFc/OLD-CITU-modified.png" group-title="CINE", OLD CITY
 http://181.176.148.142:8000/play/a02u
 
 #EXTINF:-1 channel-id="pluto-60cc807324d60a0007708dc8" tvg-id="60cc807324d60a0007708dc8" tvg-chno="150" tvg-logo="https://images.pluto.tv/channels/60cc807324d60a0007708dc8/colorLogoPNG.png" group-title="CINE",Pluto TV Indies
