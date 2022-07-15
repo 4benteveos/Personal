@@ -1,19 +1,18 @@
 #EXTM3U 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Canal4_uy.png" group-title="URUGUAY", CANAL 4
-http://quality-restream.com:8080/Unplugged83/F75DCxx397DMKop5388mM/169382
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/2055405
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Canal4_uy.png" group-title="URUGUAY", CANAL 4 AD
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/102360
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Canal1020142.png/revision/latest?cb=20220202050541&path-prefix=es" group-title="URUGUAY", CANAL 10 
-http://quality-restream.com:8080/Unplugged83/F75DCxx397DMKop5388mM/8660
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/2055383
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Canal1020142.png/revision/latest?cb=20220202050541&path-prefix=es" group-title="URUGUAY", CANAL 10 opc.2
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24670
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/L/la-tele-telemundo-canal-12-uruguay-logo-CFCB6A5FEB-seeklogo.com.png" group-title="URUGUAY", LA TELE
 http://190.210.221.119/Processor3_11_chunklist_b1300000.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/L/la-tele-telemundo-canal-12-uruguay-logo-CFCB6A5FEB-seeklogo.com.png" group-title="URUGUAY", LA TELE AD
-
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/2055394
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/UCLLatam.png/revision/latest/scale-to-width-down/250?cb=20210308024753&path-prefix=es" group-title="URUGUAY", UCL TV
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
@@ -31,16 +30,18 @@ https://stmv1.srvif.com/canal77/canal77/playlist.m3u8
 https://stmv.video.gmpro.top/tvcharrua/tvcharrua/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TVCiudad_logo_2020.png" group-title="URUGUAY", TV CIUDAD
-http://s846397078.mialojamiento.es/w3jy/mp.php/https://vxlive.cdn.antel.net.uy/auth_livesignal_474,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfNDc0JTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2NTcwNDYxMzkmcmFuZG9tPXEyTEhKSHU2NHAmYy1pcD04Mi4xNjUuODEuOTgsNmViYTY2NjBhYTE1YjI3YTc5YThiNmVkY2VhM2YwNDhkZGQxYTUzYTA3Yzg1MDc5ZmEyNjUxNjM4MzdmNzkzNQ==/vxfmt=hls/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_03/small.sketch-1581799055317.png.fd6698d137165f5386ca6fbde6536d36.png" group-title="URUGUAY", EVENTOS
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/1595
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/2055390
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Canal_5_Uruguay_2021.png/revision/latest/scale-to-width-down/100?cb=20210725005410&path-prefix=es" group-title="URUGUAY", CANAL 5
 http://190.210.221.119/Processor3_2_chunklist_b1300000.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/VTV_Logo_2021.png/revision/latest/scale-to-width-down/275?cb=20210429025515&path-prefix=es" group-title="URUGUAY", VTV 
 http://shortgod.com/19/tv1.php?c=708&f=.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/VTV_Logo_2021.png/revision/latest/scale-to-width-down/275?cb=20210429025515&path-prefix=es" group-title="URUGUAY", VTV |Opc.2
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/2055385
 
 
 
@@ -51,7 +52,7 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/LaSexta_2016.svg/revision/latest/scale-to-width-down/150?cb=20160411194138" group-title="INTERNACIONAL", La SEXTA España
-http://quality-restream.com:8080/Unplugged83/F75DCxx397DMKop5388mM/1152
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/2100559
 
 #EXTINF:-1 tvg-id="C5N.ar" tvg-country="AR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/C5N_2018.svg/revision/latest/scale-to-width-down/252?cb=20210526223002&path-prefix=es" group-title="INTERNACIONAL", C5N Bs.As.
 https://pstrem.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=jF3jb9JDBr0
@@ -69,10 +70,10 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANC
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Antena_3_2017.svg/revision/latest/scale-to-width-down/200?cb=20200307025520&path-prefix=es" group-title="INTERNACIONAL", ANTENA 3 España
-http://51.222.25.50:25461/n3wbull/bulln3w/46
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/2100550
 
 #EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_circular_500_-1_d4a5.png" group-title="INTERNACIONAL", CUATRO España
-http://quality-restream.com:8080/Unplugged83/F75DCxx397DMKop5388mM/1163
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/2100553
 
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-country="AR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Nueve2017.png/revision/latest/scale-to-width-down/150?cb=20210526032354&path-prefix=es" group-title="INTERNACIONAL", CANAL 9 Bs. A.s
 https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/0df6d88d-304a-4d15-9cf8-eab1bc9b5e45/3.m3u8
@@ -99,7 +100,7 @@ https://siloh-latam-aka.plutotv.net/lilo/production/Chilevision/master.m3u8?Play
 http://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
 
 #EXTINF:-1 tvg-logo="https://tercoachingeuropa.com/wp-content/uploads/2016/11/Cnn1.png" group-title="INTERNACIONAL", CNN en español
-http://51.222.25.50:25461/n3wbull/bulln3w/67
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/155162
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png" group-title="INTERNACIONAL", ATV Perú
 https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
@@ -108,9 +109,9 @@ https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
 https://cdnh75.iblups.com/hls/RMuwrdk7M9.m3u8
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Cubavisi%C3%B3n-Internacional-en-vivo-Online.png" group-title="INTERNACIONAL", CUBAVISIÓN
-http://51.222.25.50:25461/n3wbull/bulln3w/1321
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/14523
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Cubavisi%C3%B3n-Internacional-en-vivo-Online.png" group-title="INTERNACIONAL", CUBAVISIÓN Internacional
-http://51.222.25.50:25461/n3wbull/bulln3w/1322
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/14524
 
 #EXTINF:-1 tvg-logo="https://www.radiotelevisionmarti.com/Content/responsive/OCB/es-CU/img/logo.png" group-title="INTERNACIONAL", MARTÍ Cuba
 https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist.m3u8
@@ -119,7 +120,7 @@ https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist.m3u8
 http://200.41.79.165:8000/play/a006/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/900px-Logo_TVE-Internacional.svg.png" group-title="INTERNACIONAL", TVE
-http://quality-restream.com:8080/Unplugged83/F75DCxx397DMKop5388mM/1151
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/2100541
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/1024px-EcuadorTV_logo.png" group-title="INTERNACIONAL", ECUADOR TV 
 http://45.71.185.142:8500/play/a026
@@ -140,7 +141,7 @@ https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
 https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/2097px-Telecinco.svg.png" group-title="INTERNACIONAL", TELECINCO España
-http://quality-restream.com:8080/Unplugged83/F75DCxx397DMKop5388mM/1133
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/2100556
 
 #EXTINF:-1 tvg-logo="https://www.mexicoescultura.com/galerias/espacios/principal/canalonce.png" group-title="INTERNACIONAL", CANAL ONCE MX
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
@@ -149,10 +150,10 @@ https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/VTV_Venezuela_2017_vector.png/revision/latest/scale-to-width-down/250?cb=20211003003059&path-prefix=es" group-title="INTERNACIONAL", VTV Venezuela
-
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/2106076
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/04/TVES-Venezuela-en-vivo-Online.png" group-title="INTERNACIONAL", TVES Venezuela
-http://quality-restream.com:8080/Unplugged83/F75DCxx397DMKop5388mM/148641
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/2106070
 
 #EXTINF:-1 tvg-logo="https://diegourcola.com//wp-content/uploads/BBC.png" group-title="INTERNACIONAL", BBC
 https://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/playlist.m3u8
@@ -169,31 +170,34 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/HBO.svg/revision/latest/scale-to-width-down/200?cb=20201126030141" group-title="CINE", HBO
 https://edge3.prepro.cvattv.com.ar/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/HBO.svg/revision/latest/scale-to-width-down/200?cb=20201126030141" group-title="CINE", HBO |Opc.2
-http://51.222.25.50:25461/n3wbull/bulln3w/3145
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/154113
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/HBO_2_2014.svg/revision/latest/scale-to-width-down/300?cb=20210113014820" group-title="CINE", HBO 2
 https://edge3.prepro.cvattv.com.ar/live/vod/HBO_2/SA_Live_WebVTT_FTA/HBO_2.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/HBO_2_2014.svg/revision/latest/scale-to-width-down/300?cb=20210113014820" group-title="CINE", HBO 2 |Opc.2
-http://51.222.25.50:25461/n3wbull/bulln3w/3146
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/155165
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/Logohboplus2019.svg/revision/latest/scale-to-width-down/300?cb=20190408002018" group-title="CINE", HBO PLUS
-http://51.222.25.50:25461/n3wbull/bulln3w/3151
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/154115
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/HBO_Family.svg/revision/latest/scale-to-width-down/250?cb=20100321192403" group-title="CINE", HBO FAMILY
-http://51.222.25.50:25461/n3wbull/bulln3w/3147
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/155166
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/HBO_Pop_%282020%29.svg/revision/latest/scale-to-width-down/200?cb=20200508220707" group-title="CINE", HBO POP
 https://edge1.prepro.cvattv.com.ar/live/live/Max_UP_HD/SA_Live_WebVTT_FTA/Max_UP_HD.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/HBO_Pop_%282020%29.svg/revision/latest/scale-to-width-down/200?cb=20200508220707" group-title="CINE", HBO POP |Opc.2
-http://51.222.25.50:25461/n3wbull/bulln3w/3149
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/155168
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/HBO_Mundi_%282020%29.svg/revision/latest/scale-to-width-down/200?cb=20200508220536" group-title="CINE", HBO MUNDI
-http://51.222.25.50:25461/n3wbull/bulln3w/3148
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/155167
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="CINE", HBO SIGNATURE
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/155170
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/HBO_Xtreme_%282020%29.svg/revision/latest/scale-to-width-down/200?cb=20200508220352" group-title="CINE", HBO Extreme
 https://edge3.prepro.cvattv.com.ar/live/vod/HBO_Extreme/SA_Live_WebVTT_FTA/HBO_Extreme.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/HBO_Xtreme_%282020%29.svg/revision/latest/scale-to-width-down/200?cb=20200508220352" group-title="CINE", HBO Extreme |Ops.2
-http://51.222.25.50:25461/n3wbull/bulln3w/3152
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/157156
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/I-Sat_2010.svg/revision/latest/scale-to-width-down/250?cb=20151205150732" group-title="CINE", I-SAT |Opc.2
 http://quality-restream.com:8080/Unplugged83/F75DCxx397DMKop5388mM/285146
@@ -222,19 +226,19 @@ http://45.226.67.3:58001/play/a01l/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Eurochannel_%282015%29.svg/revision/latest/scale-to-width-down/250?cb=20210514180237&path-prefix=es" group-title="CINE", Eurochannel HD
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Golden_LA_%282020%29.png/1200px-Golden_LA_%282020%29.png" group-title="CINE", GOLDEN
-http://51.222.25.50:25461/n3wbull/bulln3w/757
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Golden_Edge_Logo_2020.png/640px-Golden_Edge_Logo_2020.png" group-title="CINE", GOLDEN EDGE
-http://51.222.25.50:25461/n3wbull/bulln3w/116
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/10859
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Golden_Premier_logo_2020.png/revision/latest?cb=20201202010915&path-prefix=es" group-title="CINE", GOLDEN PREMIER
-http://51.222.25.50:25461/n3wbull/bulln3w/756
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/200946
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png/revision/latest/scale-to-width-down/310?cb=20210512164553&path-prefix=es" group-title="CINE", GOLDEN PLUS
-http://51.222.25.50:25461/n3wbull/bulln3w/117
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/154112
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T0jMb06/warner.png" group-title="CINE", WARNER
-http://51.222.25.50:25461/n3wbull/bulln3w/178
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/148810
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png" group-title="CINE", RAKUTEN COMEDIA    
 https://b1e945c80353459a8dca16651625ad2e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenComedyMovies/playlist.m3u8?ads.wurl_channel%3D428%26ads.wurl_name%3DRakutenComedyMovies%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0%26ads.consent%3D%7BTC_STRING%7D
@@ -267,18 +271,18 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62167144ab20
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1159&livestream=1&live=1&app_bundle=com.plexapp.desktop&did=859b265b-2016-5ff0-a94d-a1645f13a4c9&app_domain=app.plex.tv&app_name=plex&h=1080&w=1920&custom4=plex&gdpr=0&device_make=Windows&device_model=Opera&coppa=1&us_privacy=1---&custom_6=RS-rc8EwU2iK9Z9AJzEz&custom_7=6182c0c0f4e62961d9c2ccf1&is_lat=0
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/320px-Canal_DHE_logo.svg.png" group-title="CINE", DHE
-http://181.176.148.142:8000/play/a027
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/153478
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/320px-Canal_DHE_logo.svg.png" group-title="CINE", DHE |OPC2
 http://shortgod.com/19/tv1.php?c=844&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Universal_Cinema.svg/revision/latest/scale-to-width-down/250?cb=20220311031932" group-title="CINE", UNIVERSAL CINEMA
-http://51.222.25.50:25461/n3wbull/bulln3w/3144
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/2081448
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Universal_Comedy.svg/revision/latest/scale-to-width-down/250?cb=20220311032038" group-title="CINE", UNIVERSAL COMEDY
-http://168.232.168.242:8089/play/a06d/index.m3u8
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/2081444
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Universal_Premiere.svg/revision/latest/scale-to-width-down/250?cb=20220311031855" group-title="CINE", UNIVERSAL PREMIER
-http://51.222.25.50:25461/n3wbull/bulln3w/103
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/2081446
 
 #EXTINF:-1 tvg-logo="https://images.vexels.com/media/users/3/153232/isolated/preview/c3bcb676107e330558ccc68f8e1cf7d5-icono-plano-del-reproductor-de-peliculas.png" group-title="CINE", MOVIES CLUB
 http://181.176.148.142:8000/play/a02s
@@ -287,7 +291,7 @@ http://181.176.148.142:8000/play/a02s
 http://181.176.148.142:8000/play/a02x
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="CINE", SONY
-http://51.222.25.50:25461/n3wbull/bulln3w/143
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/197327
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nW3oOJqNFACe6hVQJpD5YRboVxgtqJM1RUvQBgKD8F-wm-VnMctbFSVXKOANev3-etc" group-title="CINE", BUTACA TV
 https://veranda-butacatv-2-mx.samsung.wurl.tv/playlist.m3u8
@@ -378,7 +382,7 @@ http://181.176.148.142:8000/play/a02y
 http://190.83.119.67:8000/play/a0qc/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/SundanceTVlogo.png" group-title="CINE", SUNDANCE TV
-http://quality-restream.com:8080/Unplugged83/F75DCxx397DMKop5388mM/2757
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/2100618
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png" group-title="CINE", Space
 https://edge3.prepro.cvattv.com.ar/live/vod/SpaceHD/SA_Live_WebVTT_FTA/SpaceHD.m3u8
@@ -387,7 +391,7 @@ https://edge3.prepro.cvattv.com.ar/live/vod/SpaceHD/SA_Live_WebVTT_FTA/SpaceHD.m
 https://edge3.prepro.cvattv.com.ar/live/vod/TNTHD/SA_Live_WebVTT_FTA/TNTHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="CINE", TNT Series
-http://51.222.25.50:25461/n3wbull/bulln3w/157
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/10578
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="CINE", TCM
 https://edge3.prepro.cvattv.com.ar/live/vod/TCM/SA_Live_WebVTT_FTA/TCM.m3u8
@@ -399,13 +403,13 @@ https://edge3.prepro.cvattv.com.ar/live/vod/TBS/SA_Live_WebVTT_FTA/TBS.m3u8
 http://edge1.stg.cvattv.com.ar/live/live2/CinecanalHD/SA_Live_fta/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/2560px-Logo_Studio_Universal.svg.png" group-title="CINE", Studio Universal
-http://51.222.25.50:25461/n3wbull/bulln3w/147
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/155174
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1280px-FX_International_logo.svg.png" group-title="CINE", FX
 https://edge3.prepro.cvattv.com.ar/live/vod/FXHD/SA_Live_WebVTT_FTA/FXHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://mundoejecutivo.com.mx/wp-content/uploads/2021/02/star.png" group-title="CINE", Star Channel
-http://51.222.25.50:25461/n3wbull/bulln3w/3475
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/148723
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Universal_Channel_Brasil.svg/1280px-Universal_Channel_Brasil.svg.png" group-title="CINE", Universal
 http://138.186.20.68:8000/play/a027
@@ -414,20 +418,20 @@ http://138.186.20.68:8000/play/a027
 https://edge3.prepro.cvattv.com.ar/live/vod/AMCHD/SA_Live_WebVTT_FTA/AMCHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="CINE", CINEMAX
-http://51.222.25.50:25461/n3wbull/bulln3w/66
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/154086
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png/revision/latest/scale-to-width-down/175?cb=20211213232008&path-prefix=es" group-title="CULTURA", HISTORY MX
-http://51.222.25.50:25461/n3wbull/bulln3w/123
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png/revision/latest/scale-to-width-down/175?cb=20211213232008&path-prefix=es" group-title="CULTURA", HISTORY |OPC2
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/192976
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png/revision/latest/scale-to-width-down/175?cb=20211213232008&path-prefix=es" group-title="CULTURA", HISTORY AR
 http://shortgod.com/19/tv1.php?c=642&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1200px-History2_logo_%282022%29.svg.png" group-title="CULTURA", HISTORY 2 MX 
-http://51.222.25.50:25461/n3wbull/bulln3w/122
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/154075
 
 #EXTINF:-1 channel-id="pluto-5dd85eac039bba0009e86d1d" tvg-id="5dd85eac039bba0009e86d1d" tvg-chno="271" tvg-logo="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/colorLogoPNG.png" group-title="CULTURA",Pluto TV Naturaleza
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -471,16 +475,16 @@ http://spliktv-edge2.wedrly.xyz/live/vod/NatGeoHD/SA_Live_WebVTT_FTA/NatGeoHD.m3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nVC0nn3w/Discovery.png" group-title="CULTURA", Discovery Channel 
 https://edge3.prepro.cvattv.com.ar/live/vod/DiscoveryHD/SA_Live_WebVTT_FTA/DiscoveryHD.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nVC0nn3w/Discovery.png" group-title="CULTURA", Discovery Channel HD
-http://51.222.25.50:25461/n3wbull/bulln3w/3132
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/183443
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/2560px-2015_Discovery_theater_HD_logo.svg.png" group-title="CULTURA", Discovery Theater 
-http://51.222.25.50:25461/n3wbull/bulln3w/3137
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/148706
 
 #EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/discoveryworld.png" group-title="CULTURA", Discovery World
-http://51.222.25.50:25461/n3wbull/bulln3w/81
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/148708
 
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo-500x283.png" group-title="CULTURA", ANIMAL PLANET
-http://51.222.25.50:25461/n3wbull/bulln3w/3131
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/147960
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo-500x283.png" group-title="CULTURA", ANIMAL PLANET HD 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Tlc_logo_discovery.svg/964px-Tlc_logo_discovery.svg.png" group-title="CULTURA", TLC
@@ -490,7 +494,7 @@ https://edge1.prepro.cvattv.com.ar/live/vod/TLC/SA_Live_WebVTT_FTA/TLC.m3u8
 https://edge1.prepro.cvattv.com.ar/live/vod/DiscoveryHomeHealthHD/SA_Live_WebVTT_FTA/DiscoveryHomeHealthHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="CULTURA", Discovery Turbo
-http://51.222.25.50:25461/n3wbull/bulln3w/3130
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/148707
 
 #EXTINF:-1 tvg-id="TecTV.ar" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Tec-TV-en-vivo-Online.png" group-title="CULTURA", TEC
 https://g2.mc-slo.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/gcba_video3-100042_720p.m3u8
@@ -502,7 +506,7 @@ https://g2.mc-slo.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/gcba
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/NBA_TV_2017.svg/revision/latest/scale-to-width-down/200?cb=20210715160314" group-title="DEPORTES", NBA TV
-http://51.222.25.50:25461/n3wbull/bulln3w/312
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/10654
 
 #EXTINF:-1 tvg-logo="https://www.mydish.com/filestream.ashx?ID=25593" group-title="DEPORTES", NBA Pass
 http://quality-restream.com:8080/Unplugged83/F75DCxx397DMKop5388mM/198974
@@ -519,35 +523,35 @@ http://190.83.119.67:8000/play/a0v6/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/BeinSportsLaLiga.png/revision/latest/scale-to-width-down/220?cb=20161025122032" group-title="DEPORTES", BEIN SPORTS La Liga
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/LaLiga_por_Movistar_Plus%2B.svg/revision/latest/scale-to-width-down/266?cb=20220123152625&path-prefix=es" group-title="DEPORTES", La Liga Movistar+
-http://51.222.25.50:25461/n3wbull/bulln3w/3321
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/2560px-LaLiga.svg.png" group-title="DEPORTES", La Liga
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/197233
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/Movistar_Deportes.svg/revision/latest/scale-to-width-down/250?cb=20180910204157" group-title="DEPORTES", Movistar Deportes
-http://51.222.25.50:25461/n3wbull/bulln3w/464
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/223873
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest/scale-to-width-down/250?cb=20210102195101&path-prefix=es" group-title="DEPORTES", ESPN
-http://51.222.25.50:25461/n3wbull/bulln3w/3034
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/ESPN2_2006.svg/revision/latest/scale-to-width-down/300?cb=20200105155601&path-prefix=es" group-title="DEPORTES", ESPN 2
-http://51.222.25.50:25461/n3wbull/bulln3w/3035
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/181332
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Espn3.png/revision/latest/scale-to-width-down/300?cb=20151012185318&path-prefix=es" group-title="DEPORTES", ESPN 3
-http://51.222.25.50:25461/n3wbull/bulln3w/3036
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/181349
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/ESPN_4.svg/revision/latest/scale-to-width-down/350?cb=20211129170304&path-prefix=es" group-title="DEPORTES", ESPN 4
-http://51.222.25.50:25461/n3wbull/bulln3w/3037
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/750px-ESPN_Extra_Logo_2022.webp.png" group-title="DEPORTES", ESPN EXTRA
-http://51.222.25.50:25461/n3wbull/bulln3w/3518
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/387px-DAZN_1_Logo.svg.png?20210827134204" group-title="DEPORTES", DAZN 1
-http://51.222.25.50:25461/n3wbull/bulln3w/3322
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/223949
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png" group-title="DEPORTES", F1
-http://51.222.25.50:25461/n3wbull/bulln3w/3326
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/223952
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/VTV_Plus_2021.png/revision/latest/scale-to-width-down/275?cb=20210605021216&path-prefix=es" group-title="DEPORTES", VTV Plus
-http://51.222.25.50:25461/n3wbull/bulln3w/1313
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/2055406
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/VTV_Plus_2021.png/revision/latest/scale-to-width-down/275?cb=20210605021216&path-prefix=es" group-title="DEPORTES", VTV Plus |Opc.2
 http://shortgod.com/19/tv5.php?c=409
 
@@ -555,34 +559,34 @@ http://shortgod.com/19/tv5.php?c=409
 http://shortgod.com/19/tv1.php?c=708&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/TNT_Sports_2021.png/revision/latest/scale-to-width-down/350?cb=20210117160858&path-prefix=es" group-title="DEPORTES", TNT Sports 
-
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/17316
 
 #EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2021/10/red-bull-tv.png" group-title="DEPORTES", REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/DirecTV_Sports_2018.svg/revision/latest/scale-to-width-down/250?cb=20200706223451&path-prefix=es" group-title="DEPORTES", DIRECTV Sports
-http://51.222.25.50:25461/n3wbull/bulln3w/3281
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/202157
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/revision/latest/scale-to-width-down/288?cb=20191025185617" group-title="DEPORTES", DIRECTV Sports 2
-http://51.222.25.50:25461/n3wbull/bulln3w/1048
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/2123474
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/revision/latest/scale-to-width-down/240?cb=20191025185801" group-title="DEPORTES", DIRECTV Sports+
-http://51.222.25.50:25461/n3wbull/bulln3w/1046
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/203186
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Eurosport_1_Logo_2015.png" group-title="DEPORTES", EUROSPORTS 1
-http://51.222.25.50:25461/n3wbull/bulln3w/3480
+
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/Eurosport_2-logo-069CDF80FA-seeklogo.com.png" group-title="DEPORTES", EUROSPRTS 2
-http://51.222.25.50:25461/n3wbull/bulln3w/3481
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/158482
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="DEPORTES", WIN Sports
-http://51.222.25.50:25461/n3wbull/bulln3w/179
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/176587
 
 #EXTINF:-1 tvg-logo="https://www.cualeselprecio.com/wp-content/uploads/2020/12/1200px-Win_Sports_logo.svg.png" group-title="DEPORTES", WIN Sports+
-http://51.222.25.50:25461/n3wbull/bulln3w/984
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/155248
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png" group-title="DEPORTES", UFC Fight Pass
-http://51.222.25.50:25461/n3wbull/bulln3w/379
+
 
 #EXTINF:-1 tvg-logo="https://images.vectorhq.com/images/previews/74b/nfl-logo-psd-467086.png" group-title="DEPORTES", NFL TV 
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,NFL.m3u8
@@ -616,10 +620,10 @@ https://z7nqm6s4adt32ga.p21.rt3.io/rtp/239.1.1.11:40120/canal12
 http://51.222.25.50:25461/n3wbull/bulln3w/752
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_quiero_m.png" group-title="MUSICA", QUIERO
-
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/2098843
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RQH8BtH/logo.png" group-title="MUSICA", MUCH MUSIC
-
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/2090356
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png" group-title="MUSICA", HTV
 
@@ -749,4 +753,7 @@ http://magmas5.com:8000/live/malotv/gratis/145793.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/Scooby_Doo-logo-40A703ABCA-seeklogo.com.png" group-title="INFANTIL", SCOOBY-DOO (L5)
 http://magmas5.com:8000/live/malotv/gratis/3385.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/313-3139189_coyote-y-correcaminos-dibujos-del-correcaminos-y-el.png" group-title="INFANTIL", EL COYOTE Y EL CORRECAMINOS
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/2090952
 
