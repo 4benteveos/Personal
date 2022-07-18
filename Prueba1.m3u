@@ -1,13 +1,13 @@
 #EXTM3U 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Canal4_uy.png" group-title="URUGUAY", CANAL 4
 http://quality-restream.com:8080/Unplugged83/F75DCxx397DMKop5388mM/169382
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Canal4_uy.png" group-title="URUGUAY", CANAL 4 |OPC2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Canal4_uy.png" group-title="URUGUAY", CANAL 4 |OPCTT1
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/1610
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Canal1020142.png/revision/latest?cb=20220202050541&path-prefix=es" group-title="URUGUAY", CANAL 10 
 http://quality-restream.com:8080/Unplugged83/F75DCxx397DMKop5388mM/8660
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Canal1020142.png/revision/latest?cb=20220202050541&path-prefix=es" group-title="URUGUAY", CANAL 10 |OPC2
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/1607
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Canal1020142.png/revision/latest?cb=20220202050541&path-prefix=es" group-title="URUGUAY", CANAL 10 |OPCTT2
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24670
 
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/L/la-tele-telemundo-canal-12-uruguay-logo-CFCB6A5FEB-seeklogo.com.png" group-title="URUGUAY", LA TELE
@@ -43,8 +43,8 @@ http://190.210.221.119/Processor3_2_chunklist_b1300000.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/VTV_Logo_2021.png/revision/latest/scale-to-width-down/275?cb=20210429025515&path-prefix=es" group-title="URUGUAY", VTV |OPC.SG
 http://shortgod.com/19/tv1.php?c=708&f=.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/VTV_Logo_2021.png/revision/latest/scale-to-width-down/275?cb=20210429025515&path-prefix=es" group-title="URUGUAY", VTV 
-http://quality-restream.com:8080/Unplugged83/F75DCxx397DMKop5388mM/8659
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/VTV_Logo_2021.png/revision/latest/scale-to-width-down/275?cb=20210429025515&path-prefix=es" group-title="URUGUAY", VTV |OPCTT2
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233887
 
 
 
@@ -561,7 +561,7 @@ http://quality-restream.com:8080/Unplugged83/F75DCxx397DMKop5388mM/8659
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/VTV_Plus_2021.png/revision/latest/scale-to-width-down/275?cb=20210605021216&path-prefix=es" group-title="DEPORTES", VTV Plus |Opc.SG
 http://quality-restream.com:8080/Unplugged83/F75DCxx397DMKop5388mM/8659
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/VTV_Logo_2021.png/revision/latest/scale-to-width-down/275?cb=20210429025515&path-prefix=es" group-title="DEPORTES", VTV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/VTV_Logo_2021.png/revision/latest/scale-to-width-down/275?cb=20210429025515&path-prefix=es" group-title="DEPORTES", VTV |OPCTT1
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24023
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/TNT_Sports_2021.png/revision/latest/scale-to-width-down/350?cb=20210117160858&path-prefix=es" group-title="DEPORTES", TNT Sports 
