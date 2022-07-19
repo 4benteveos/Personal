@@ -7,7 +7,7 @@ http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/1610
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Canal1020142.png/revision/latest?cb=20220202050541&path-prefix=es" group-title="URUGUAY", CANAL 10 | OPC.HD
 http://viperos.net:8080/BorisAriel/Restream1234/24670
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Canal1020142.png/revision/latest?cb=20220202050541&path-prefix=es" group-title="URUGUAY", CANAL 10 |OPC.3
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24670
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Canal1020142.png/revision/latest?cb=20220202050541&path-prefix=es" group-title="URUGUAY", CANAL 10 
 http://iptvtree.net:8080/faucontv/3455cdc6fc/8660
 
@@ -50,13 +50,13 @@ http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233887
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="INTERNACIONAL", ES| 24H
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="INTERNACIONAL", ES | 24H
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
-#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Euronews_2016_Stacked.svg/revision/latest/scale-to-width-down/150?cb=20210623155442&path-prefix=es" group-title="INTERNACIONAL", LA| Euronews
+#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Euronews_2016_Stacked.svg/revision/latest/scale-to-width-down/150?cb=20210623155442&path-prefix=es" group-title="INTERNACIONAL", LA | Euronews
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/LaSexta_2016.svg/revision/latest/scale-to-width-down/150?cb=20160411194138" group-title="INTERNACIONAL", ES| La SEXTA
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/LaSexta_2016.svg/revision/latest/scale-to-width-down/150?cb=20160411194138" group-title="INTERNACIONAL", ES | La SEXTA
 http://l3d.us:25461/daleplayD/PN2WghCVNvMk/2100559
 
 #EXTINF:-1 tvg-id="C5N.ar" tvg-country="AR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/C5N_2018.svg/revision/latest/scale-to-width-down/252?cb=20210526223002&path-prefix=es" group-title="INTERNACIONAL", AR| C5N
@@ -148,7 +148,7 @@ https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
 #EXTINF:-1 tvg-id="ETB2.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/ETB2_Spain.svg/1280px-ETB2_Spain.svg.png" group-title="INTERNACIONAL" tvg-name="ETB 2", ES| EITB 2 Euskalerria
 https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/2097px-Telecinco.svg.png" group-title="INTERNACIONAL", ES| TELECINCO |España
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/2097px-Telecinco.svg.png" group-title="INTERNACIONAL", ES| TELECINCO
 http://l3d.us:25461/daleplayD/PN2WghCVNvMk/2100556
 
 #EXTINF:-1 tvg-logo="https://www.mexicoescultura.com/galerias/espacios/principal/canalonce.png" group-title="INTERNACIONAL", MX| CANAL ONCE 
@@ -645,7 +645,8 @@ https://z7nqm6s4adt32ga.p21.rt3.io/rtp/239.1.1.11:40120/canal12
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/606/606441.png" group-title="DEPORTES", EVENTOS Copa América Femenina
 
-
+#EXTINF:-1 tvg-logo="https://images.vexels.com/media/users/3/211416/isolated/preview/d7d59103077b4c1079482312e13da41e-mujer-deporte-pictograma-ciclismo-plano.png" group-title="DEPORTES", EVENTOS Ciclismo
+http://viperos.net:8080/BorisAriel/Restream1234/24639
 
 
 
