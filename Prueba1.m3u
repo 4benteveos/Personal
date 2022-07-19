@@ -1,8 +1,8 @@
 #EXTM3U 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Canal4_uy.png" group-title="URUGUAY", CANAL 4
 http://iptvtree.net:8080/faucontv/3455cdc6fc/169382
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Canal4_uy.png" group-title="URUGUAY", CANAL 4 |OPCTT1
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/1610
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Canal4_uy.png" group-title="URUGUAY", CANAL 4 |OPC.HD
+http://viperos.net:8080/BorisAriel/Restream1234/102360
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Canal1020142.png/revision/latest?cb=20220202050541&path-prefix=es" group-title="URUGUAY", CANAL 10 | OPC.HD
 http://viperos.net:8080/BorisAriel/Restream1234/24670
@@ -50,7 +50,7 @@ http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233887
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="INTERNACIONAL", ES; 24H
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="INTERNACIONAL", ES\ 24H
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
 #EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Euronews_2016_Stacked.svg/revision/latest/scale-to-width-down/150?cb=20210623155442&path-prefix=es" group-title="INTERNACIONAL", LA; Euronews
@@ -59,16 +59,16 @@ https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/LaSexta_2016.svg/revision/latest/scale-to-width-down/150?cb=20160411194138" group-title="INTERNACIONAL", ES; La SEXTA
 http://l3d.us:25461/daleplayD/PN2WghCVNvMk/2100559
 
-#EXTINF:-1 tvg-id="C5N.ar" tvg-country="AR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/C5N_2018.svg/revision/latest/scale-to-width-down/252?cb=20210526223002&path-prefix=es" group-title="INTERNACIONAL", AR| C5N
+#EXTINF:-1 tvg-id="C5N.ar" tvg-country="AR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/C5N_2018.svg/revision/latest/scale-to-width-down/252?cb=20210526223002&path-prefix=es" group-title="INTERNACIONAL", AR; C5N
 https://pstrem.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=jF3jb9JDBr0
 
-#EXTINF:-1 tvg-id="A24.ar" tvg-country="AR" tvg-logo="https://1.bp.blogspot.com/-DlQDYNOlyNw/X0Q1JOpHe3I/AAAAAAAA6Jk/WkwbRbCiSiQ7oEUVEpLIx2UFYmM3zs3iACLcBGAsYHQ/s0/a24-logo2019.png" group-title="INTERNACIONAL", AR|  A24
+#EXTINF:-1 tvg-id="A24.ar" tvg-country="AR" tvg-logo="https://1.bp.blogspot.com/-DlQDYNOlyNw/X0Q1JOpHe3I/AAAAAAAA6Jk/WkwbRbCiSiQ7oEUVEpLIx2UFYmM3zs3iACLcBGAsYHQ/s0/a24-logo2019.png" group-title="INTERNACIONAL", AR\  A24
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/Cronica-TV-en-vivo-Online.png" group-title="INTERNACIONAL", AR| CRÓNICA
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/Cronica-TV-en-vivo-Online.png" group-title="INTERNACIONAL", (AR) CRÓNICA
 http://l3d.us:25461/daleplayD/PN2WghCVNvMk/210848
 
-#EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Canal_13_2016.svg/revision/latest/scale-to-width-down/200?cb=20200305011850&path-prefix=es" group-title="INTERNACIONAL", AR| EL 13
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Canal_13_2016.svg/revision/latest/scale-to-width-down/200?cb=20200305011850&path-prefix=es" group-title="INTERNACIONAL", (AR) EL 13
 http://viperos.net:8080/BorisAriel/Restream1234/266
 
 #EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/FRANCE_24_ESPA%C3%91OL_2018.png/revision/latest/scale-to-width-down/113?cb=20210513022734&path-prefix=es" group-title="INTERNACIONAL", LA| FRANCE 24 ESPAÑOL
