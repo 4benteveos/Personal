@@ -4,10 +4,8 @@ http://viperos.net:8080/BorisAriel/Restream1234/1610
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Canal4_uy.png" group-title="URUGUAY", CANAL 4 |OPC.HD
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Canal1020142.png/revision/latest?cb=20220202050541&path-prefix=es" group-title="URUGUAY", CANAL 10 | OPC.HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Canal1020142.png/revision/latest?cb=20220202050541&path-prefix=es" group-title="URUGUAY", CANAL 10 | OPC.2
 http://viperos.net:8080/BorisAriel/Restream1234/24670
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Canal1020142.png/revision/latest?cb=20220202050541&path-prefix=es" group-title="URUGUAY", CANAL 10 |OPC.3
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Canal1020142.png/revision/latest?cb=20220202050541&path-prefix=es" group-title="URUGUAY", CANAL 10 
 http://iptvtree.net:8080/faucontv/3455cdc6fc/8660
 
@@ -43,9 +41,9 @@ http://iptvtree.net:8080/faucontv/3455cdc6fc/295806
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Canal_5_Uruguay_2021.png/revision/latest/scale-to-width-down/100?cb=20210725005410&path-prefix=es" group-title="URUGUAY", CANAL 5
 http://190.210.221.119/Processor3_2_chunklist_b1300000.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/VTV_Logo_2021.png/revision/latest/scale-to-width-down/275?cb=20210429025515&path-prefix=es" group-title="URUGUAY", VTV 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/VTV_Logo_2021.png/revision/latest/scale-to-width-down/275?cb=20210429025515&path-prefix=es" group-title="URUGUAY", VTV Plus
 http://viperos.net:8080/BorisAriel/Restream1234/74130
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/VTV_Logo_2021.png/revision/latest/scale-to-width-down/275?cb=20210429025515&path-prefix=es" group-title="URUGUAY", VTV |OPCTT2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/VTV_Logo_2021.png/revision/latest/scale-to-width-down/275?cb=20210429025515&path-prefix=es" group-title="URUGUAY", VTV |TITAN
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233887
 
 
@@ -154,7 +152,7 @@ http://l3d.us:25461/daleplayD/PN2WghCVNvMk/2100556
 #EXTINF:-1 tvg-logo="https://www.mexicoescultura.com/galerias/espacios/principal/canalonce.png" group-title="INTERNACIONAL", (MX) CANAL ONCE 
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1200px-TeleSUR-Logo.svg.png" group-title="INTERNACIONAL", (AL) TELESUR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1200px-TeleSUR-Logo.svg.png" group-title="INTERNACIONAL", (LA) TELESUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/VTV_Venezuela_2017_vector.png/revision/latest/scale-to-width-down/250?cb=20211003003059&path-prefix=es" group-title="INTERNACIONAL", (VE) VTV
@@ -178,42 +176,34 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/HBO.svg/revision/latest/scale-to-width-down/200?cb=20201126030141" group-title="CINE", HBO
 https://edge3.prepro.cvattv.com.ar/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/HBO.svg/revision/latest/scale-to-width-down/200?cb=20201126030141" group-title="CINE", HBO |OPC2
-http://heinentv.ddns.me:25461/Domin/Domin/3386
+http://viperos.net:8080/BorisAriel/Restream1234/9753
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/HBO_2_2014.svg/revision/latest/scale-to-width-down/300?cb=20210113014820" group-title="CINE", HBO 2
 https://edge3.prepro.cvattv.com.ar/live/vod/HBO_2/SA_Live_WebVTT_FTA/HBO_2.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/HBO_2_2014.svg/revision/latest/scale-to-width-down/300?cb=20210113014820" group-title="CINE", HBO 2 |OPC2
-http://heinentv.ddns.me:25461/Domin/Domin/3387
+http://viperos.net:8080/BorisAriel/Restream1234/1858
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/Logohboplus2019.svg/revision/latest/scale-to-width-down/300?cb=20190408002018" group-title="CINE", HBO PLUS
-http://heinentv.ddns.me:25461/Domin/Domin/3392
+http://viperos.net:8080/BorisAriel/Restream1234/26400
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/HBO_Family.svg/revision/latest/scale-to-width-down/250?cb=20100321192403" group-title="CINE", HBO FAMILY
-http://heinentv.ddns.me:25461/Domin/Domin/3388
+http://viperos.net:8080/BorisAriel/Restream1234/1857
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/HBO_Pop_%282020%29.svg/revision/latest/scale-to-width-down/200?cb=20200508220707" group-title="CINE", HBO POP
 https://edge1.prepro.cvattv.com.ar/live/live/Max_UP_HD/SA_Live_WebVTT_FTA/Max_UP_HD.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/HBO_Pop_%282020%29.svg/revision/latest/scale-to-width-down/200?cb=20200508220707" group-title="CINE", HBO POP |OPC2
-http://heinentv.ddns.me:25461/Domin/Domin/3392
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/HBO_Pop_%282020%29.svg/revision/latest/scale-to-width-down/200?cb=20200508220707" group-title="CINE", HBO POP |OPC3
 http://iptvtree.net:8080/faucontv/3455cdc6fc/3069
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/HBO_Mundi_%282020%29.svg/revision/latest/scale-to-width-down/200?cb=20200508220536" group-title="CINE", HBO MUNDI |OPC.TVFUNNY
-http://tvfunny.club:25461/Pelisplus/Seriesplus/1298
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/HBO_Mundi_%282020%29.svg/revision/latest/scale-to-width-down/200?cb=20200508220536" group-title="CINE", HBO MUNDI |OPC.IPTVT
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/HBO_Mundi_%282020%29.svg/revision/latest/scale-to-width-down/200?cb=20200508220536" group-title="CINE", HBO MUNDI (IPTVT)
 http://iptvtree.net:8080/faucontv/3455cdc6fc/226015
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/HBO_Mundi_%282020%29.svg/revision/latest/scale-to-width-down/200?cb=20200508220536" group-title="CINE", HBO MUNDI |OPC.VISPEROS
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/HBO_Mundi_%282020%29.svg/revision/latest/scale-to-width-down/200?cb=20200508220536" group-title="CINE", HBO MUNDI (VSP)
 http://viperos.net:8080/BorisAriel/Restream1234/1807
 
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="CINE", HBO SIGNATURE
-http://heinentv.ddns.me:25461/Domin/Domin/3389
+http://viperos.net:8080/BorisAriel/Restream1234/9755
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/HBO_Xtreme_%282020%29.svg/revision/latest/scale-to-width-down/200?cb=20200508220352" group-title="CINE", HBO Extreme
 https://edge3.prepro.cvattv.com.ar/live/vod/HBO_Extreme/SA_Live_WebVTT_FTA/HBO_Extreme.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/HBO_Xtreme_%282020%29.svg/revision/latest/scale-to-width-down/200?cb=20200508220352" group-title="CINE", HBO Extreme |OPC2
-http://tvfunny.club:25461/Pelisplus/Seriesplus/1295
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/I-Sat_2010.svg/revision/latest/scale-to-width-down/250?cb=20151205150732" group-title="CINE", I-SAT 
 http://iptvtree.net:8080/faucontv/3455cdc6fc/285146
@@ -225,7 +215,7 @@ http://quality-restream.com:8080/Unplugged83/F75DCxx397DMKop5388mM/285146
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Paramount_Network_%28Gradient%29.svg/revision/latest/scale-to-width-down/200?cb=20191226173409" group-title="CINE", PARAMOUNT
 https://edge1.prepro.cvattv.com.ar/live/vod/Paramount/SA_Live_WebVTT_FTA/Paramount.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Paramount_Network_%28Gradient%29.svg/revision/latest/scale-to-width-down/200?cb=20191226173409" group-title="CINE", PARAMOUNT |HD
-http://tvfunny.club:25461/Pelisplus/Seriesplus/9729
+http://viperos.net:8080/BorisAriel/Restream1234/1852
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/31/Film_%26_Arts.svg/revision/latest/scale-to-width-down/300?cb=20191030181426" group-title="CINE", FILM & ARTS |OPC2
 http://viperos.net:8080/BorisAriel/Restream1234/26935
@@ -251,16 +241,16 @@ http://45.226.67.3:58001/play/a01l/index.m3u8
 http://viperos.net:8080/BorisAriel/Restream1234/1867
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Golden_Edge_Logo_2020.png/640px-Golden_Edge_Logo_2020.png" group-title="CINE", GOLDEN EDGE
-http://tvfunny.club:25461/Pelisplus/Seriesplus/9732
+http://viperos.net:8080/BorisAriel/Restream1234/24126
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Golden_Premier_logo_2020.png/revision/latest?cb=20201202010915&path-prefix=es" group-title="CINE", GOLDEN PREMIER
 http://iptvtree.net:8080/faucontv/3455cdc6fc/3052
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png/revision/latest/scale-to-width-down/310?cb=20210512164553&path-prefix=es" group-title="CINE", GOLDEN PLUS
-http://tvfunny.club:25461/Pelisplus/Seriesplus/9731
+http://viperos.net:8080/BorisAriel/Restream1234/24127
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T0jMb06/warner.png" group-title="CINE", WARNER
-http://tvfunny.club:25461/Pelisplus/Seriesplus/9747
+http://viperos.net:8080/BorisAriel/Restream1234/26385
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png" group-title="CINE", RAKUTEN COMEDIA    
 https://b1e945c80353459a8dca16651625ad2e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenComedyMovies/playlist.m3u8?ads.wurl_channel%3D428%26ads.wurl_name%3DRakutenComedyMovies%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0%26ads.consent%3D%7BTC_STRING%7D
@@ -298,13 +288,13 @@ http://viperos.net:8080/BorisAriel/Restream1234/1838
 http://shortgod.com/19/tv1.php?c=844&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Universal_Cinema.svg/revision/latest/scale-to-width-down/250?cb=20220311031932" group-title="CINE", UNIVERSAL CINEMA
-http://tvfunny.club:25461/Pelisplus/Seriesplus/12945
+http://viperos.net:8080/BorisAriel/Restream1234/313693
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Universal_Comedy.svg/revision/latest/scale-to-width-down/250?cb=20220311032038" group-title="CINE", UNIVERSAL COMEDY
 http://tvfunny.club:25461/Pelisplus/Seriesplus/12944
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Universal_Premiere.svg/revision/latest/scale-to-width-down/250?cb=20220311031855" group-title="CINE", UNIVERSAL PREMIER
-http://tvfunny.club:25461/Pelisplus/Seriesplus/12941
+http://viperos.net:8080/BorisAriel/Restream1234/313685
 
 #EXTINF:-1 tvg-logo="https://images.vexels.com/media/users/3/153232/isolated/preview/c3bcb676107e330558ccc68f8e1cf7d5-icono-plano-del-reproductor-de-peliculas.png" group-title="CINE", MOVIES CLUB
 http://181.176.148.142:8000/play/a02s
@@ -313,7 +303,7 @@ http://181.176.148.142:8000/play/a02s
 http://181.176.148.142:8000/play/a02x
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="CINE", SONY
-http://tvfunny.club:25461/Pelisplus/Seriesplus/9728
+http://viperos.net:8080/BorisAriel/Restream1234/26404
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nW3oOJqNFACe6hVQJpD5YRboVxgtqJM1RUvQBgKD8F-wm-VnMctbFSVXKOANev3-etc" group-title="CINE", BUTACA TV
 https://veranda-butacatv-2-mx.samsung.wurl.tv/playlist.m3u8
@@ -415,7 +405,7 @@ https://edge3.prepro.cvattv.com.ar/live/vod/SpaceHD/SA_Live_WebVTT_FTA/SpaceHD.m
 https://edge3.prepro.cvattv.com.ar/live/vod/TNTHD/SA_Live_WebVTT_FTA/TNTHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="CINE", TNT Series
-http://tvfunny.club:25461/Pelisplus/Seriesplus/9715
+http://viperos.net:8080/BorisAriel/Restream1234/26409
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="CINE", TCM
 https://edge3.prepro.cvattv.com.ar/live/vod/TCM/SA_Live_WebVTT_FTA/TCM.m3u8
@@ -427,13 +417,13 @@ https://edge3.prepro.cvattv.com.ar/live/vod/TBS/SA_Live_WebVTT_FTA/TBS.m3u8
 http://edge1.stg.cvattv.com.ar/live/live2/CinecanalHD/SA_Live_fta/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/2560px-Logo_Studio_Universal.svg.png" group-title="CINE", Studio Universal
-http://tvfunny.club:25461/Pelisplus/Seriesplus/9723
+http://viperos.net:8080/BorisAriel/Restream1234/24122
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1280px-FX_International_logo.svg.png" group-title="CINE", FX
 https://edge3.prepro.cvattv.com.ar/live/vod/FXHD/SA_Live_WebVTT_FTA/FXHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://mundoejecutivo.com.mx/wp-content/uploads/2021/02/star.png" group-title="CINE", Star Channel
-http://tvfunny.club:25461/Pelisplus/Seriesplus/9702
+http://viperos.net:8080/BorisAriel/Restream1234/1841
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Universal_Channel_Brasil.svg/1280px-Universal_Channel_Brasil.svg.png" group-title="CINE", Universal
 http://138.186.20.68:8000/play/a027
@@ -442,24 +432,19 @@ http://138.186.20.68:8000/play/a027
 https://edge3.prepro.cvattv.com.ar/live/vod/AMCHD/SA_Live_WebVTT_FTA/AMCHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="CINE", CINEMAX
-http://tvfunny.club:25461/Pelisplus/Seriesplus/9749
+http://viperos.net:8080/BorisAriel/Restream1234/15128
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png/revision/latest/scale-to-width-down/175?cb=20211213232008&path-prefix=es" group-title="CULTURA", HISTORY |AR
-http://tvfunny.club:25461/Pelisplus/Seriesplus/1338
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png/revision/latest/scale-to-width-down/175?cb=20211213232008&path-prefix=es" group-title="CULTURA", HISTORY |MX
 http://viperos.net:8080/BorisAriel/Restream1234/7091
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png/revision/latest/scale-to-width-down/175?cb=20211213232008&path-prefix=es" group-title="CULTURA", HISTORY |MX
-http://l3d.us:25461/daleplayD/PN2WghCVNvMk/148711
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png/revision/latest/scale-to-width-down/175?cb=20211213232008&path-prefix=es" group-title="CULTURA", HISTORY |AR OPC2
-http://iptvtree.net:8080/faucontv/3455cdc6fc/49293
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png/revision/latest/scale-to-width-down/175?cb=20211213232008&path-prefix=es" group-title="CULTURA", HISTORY |AR
+http://viperos.net:8080/BorisAriel/Restream1234/26395
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1200px-History2_logo_%282022%29.svg.png" group-title="CULTURA", HISTORY 2 |MX 
-http://tvfunny.club:25461/Pelisplus/Seriesplus/1336
+http://viperos.net:8080/BorisAriel/Restream1234/15183
 
 #EXTINF:-1 channel-id="pluto-5dd85eac039bba0009e86d1d" tvg-id="5dd85eac039bba0009e86d1d" tvg-chno="271" tvg-logo="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/colorLogoPNG.png" group-title="CULTURA",Pluto TV Naturaleza
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -502,17 +487,17 @@ http://spliktv-edge2.wedrly.xyz/live/vod/NatGeoHD/SA_Live_WebVTT_FTA/NatGeoHD.m3
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nVC0nn3w/Discovery.png" group-title="CULTURA", Discovery Channel 
 https://edge3.prepro.cvattv.com.ar/live/vod/DiscoveryHD/SA_Live_WebVTT_FTA/DiscoveryHD.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nVC0nn3w/Discovery.png" group-title="CULTURA", Discovery Channel |OPS2
-http://tvfunny.club:25461/Pelisplus/Seriesplus/1325
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nVC0nn3w/Discovery.png" group-title="CULTURA", Discovery Channel |OPC2
+http://viperos.net:8080/BorisAriel/Restream1234/7089
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/2560px-2015_Discovery_theater_HD_logo.svg.png" group-title="CULTURA", Discovery Theater 
-http://tvfunny.club:25461/Pelisplus/Seriesplus/1332
+http://viperos.net:8080/BorisAriel/Restream1234/4571
 
 #EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/discoveryworld.png" group-title="CULTURA", Discovery World
-http://tvfunny.club:25461/Pelisplus/Seriesplus/1331
+http://viperos.net:8080/BorisAriel/Restream1234/4572
 
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo-500x283.png" group-title="CULTURA", ANIMAL PLANET
-http://tvfunny.club:25461/Pelisplus/Seriesplus/1323
+http://viperos.net:8080/BorisAriel/Restream1234/233953
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo-500x283.png" group-title="CULTURA", ANIMAL PLANET HD 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Tlc_logo_discovery.svg/964px-Tlc_logo_discovery.svg.png" group-title="CULTURA", TLC
@@ -522,7 +507,7 @@ https://edge1.prepro.cvattv.com.ar/live/vod/TLC/SA_Live_WebVTT_FTA/TLC.m3u8
 https://edge1.prepro.cvattv.com.ar/live/vod/DiscoveryHomeHealthHD/SA_Live_WebVTT_FTA/DiscoveryHomeHealthHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="CULTURA", Discovery Turbo
-http://tvfunny.club:25461/Pelisplus/Seriesplus/1330
+http://viperos.net:8080/BorisAriel/Restream1234/15100
 
 #EXTINF:-1 tvg-id="TecTV.ar" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Tec-TV-en-vivo-Online.png" group-title="CULTURA", TEC
 https://g2.mc-slo.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/gcba_video3-100042_720p.m3u8
@@ -591,7 +576,7 @@ http://iptvtree.net:8080/faucontv/3455cdc6fc/8659
 http://viperos.net:8080/BorisAriel/Restream1234/74130
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/TNT_Sports_2021.png/revision/latest/scale-to-width-down/350?cb=20210117160858&path-prefix=es" group-title="DEPORTES", TNT Sports 
-http://l3d.us:25461/daleplayD/PN2WghCVNvMk/17316
+http://viperos.net:8080/BorisAriel/Restream1234/26530
 
 #EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2021/10/red-bull-tv.png" group-title="DEPORTES", REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
@@ -614,10 +599,10 @@ http://iptvtree.net:8080/faucontv/3455cdc6fc/1160
 http://iptvtree.net:8080/faucontv/3455cdc6fc/16454
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="DEPORTES", WIN Sports
-http://l3d.us:25461/daleplayD/PN2WghCVNvMk/176587
+http://viperos.net:8080/BorisAriel/Restream1234/11130
 
 #EXTINF:-1 tvg-logo="https://www.cualeselprecio.com/wp-content/uploads/2020/12/1200px-Win_Sports_logo.svg.png" group-title="DEPORTES", WIN Sports+
-http://l3d.us:25461/daleplayD/PN2WghCVNvMk/155248
+http://viperos.net:8080/BorisAriel/Restream1234/371105
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png" group-title="DEPORTES", UFC Fight Pass
 
@@ -790,5 +775,4 @@ http://magmas5.com:8000/live/malotv/gratis/145793.m3u8
 http://magmas5.com:8000/live/malotv/gratis/3385.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/313-3139189_coyote-y-correcaminos-dibujos-del-correcaminos-y-el.png" group-title="INFANTIL", EL COYOTE Y EL CORRECAMINOS
-http://l3d.us:25461/daleplayD/PN2WghCVNvMk/2090952
 
