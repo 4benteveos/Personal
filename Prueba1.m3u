@@ -5,9 +5,9 @@ http://viperos.net:8080/BorisAriel/Restream1234/1610
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Canal1020142.png/revision/latest?cb=20220202050541&path-prefix=es" group-title="URUGUAY", CANAL 10 | OPC.2
-http://viperos.net:8080/BorisAriel/Restream1234/24670
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Canal1020142.png/revision/latest?cb=20220202050541&path-prefix=es" group-title="URUGUAY", CANAL 10 
-http://iptvtree.net:8080/faucontv/3455cdc6fc/8660
+http://viperos.net:8080/BorisAriel/Restream1234/24670
 
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/L/la-tele-telemundo-canal-12-uruguay-logo-CFCB6A5FEB-seeklogo.com.png" group-title="URUGUAY", LA TELE
@@ -36,15 +36,16 @@ https://stmv.video.gmpro.top/tvcharrua/tvcharrua/playlist.m3u8
 http://iptvtree.net:8080/faucontv/3455cdc6fc/290351
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_03/small.sketch-1581799055317.png.fd6698d137165f5386ca6fbde6536d36.png" group-title="URUGUAY", EVENTOS
-http://iptvtree.net:8080/faucontv/3455cdc6fc/295806
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Canal_5_Uruguay_2021.png/revision/latest/scale-to-width-down/100?cb=20210725005410&path-prefix=es" group-title="URUGUAY", CANAL 5
 http://190.210.221.119/Processor3_2_chunklist_b1300000.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/VTV_Logo_2021.png/revision/latest/scale-to-width-down/275?cb=20210429025515&path-prefix=es" group-title="URUGUAY", VTV Plus
 http://viperos.net:8080/BorisAriel/Restream1234/74130
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/VTV_Logo_2021.png/revision/latest/scale-to-width-down/275?cb=20210429025515&path-prefix=es" group-title="URUGUAY", VTV | VISP
+http://viperos.net:8080/BorisAriel/Restream1234/233887
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/VTV_Logo_2021.png/revision/latest/scale-to-width-down/275?cb=20210429025515&path-prefix=es" group-title="URUGUAY", VTV |TITAN
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233887
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/VTV_Logo_2021.png/revision/latest/scale-to-width-down/275?cb=20210429025515&path-prefix=es" group-title="URUGUAY", VTV |593App
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/409
 
@@ -57,7 +58,7 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/LaSexta_2016.svg/revision/latest/scale-to-width-down/150?cb=20160411194138" group-title="INTERNACIONAL", (ES) La SEXTA
-http://l3d.us:25461/daleplayD/PN2WghCVNvMk/2100559
+http://viperos.net:8080/BorisAriel/Restream1234/105
 
 #EXTINF:-1 tvg-id="C5N.ar" tvg-country="AR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/C5N_2018.svg/revision/latest/scale-to-width-down/252?cb=20210526223002&path-prefix=es" group-title="INTERNACIONAL", (AR) C5N
 https://pstrem.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=jF3jb9JDBr0
@@ -66,7 +67,7 @@ https://pstrem.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/wat
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/Cronica-TV-en-vivo-Online.png" group-title="INTERNACIONAL", (AR) CRÓNICA
-http://l3d.us:25461/daleplayD/PN2WghCVNvMk/210848
+http://viperos.net:8080/BorisAriel/Restream1234/274
 
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Canal_13_2016.svg/revision/latest/scale-to-width-down/200?cb=20200305011850&path-prefix=es" group-title="INTERNACIONAL", (AR) EL 13
 http://viperos.net:8080/BorisAriel/Restream1234/266
@@ -78,10 +79,10 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANC
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Antena_3_2017.svg/revision/latest/scale-to-width-down/200?cb=20200307025520&path-prefix=es" group-title="INTERNACIONAL", (ES) ANTENA 3
-http://l3d.us:25461/daleplayD/PN2WghCVNvMk/2100550
+http://viperos.net:8080/BorisAriel/Restream1234/24434
 
 #EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_circular_500_-1_d4a5.png" group-title="INTERNACIONAL", (ES) CUATRO
-http://l3d.us:25461/daleplayD/PN2WghCVNvMk/2100553
+http://viperos.net:8080/BorisAriel/Restream1234/144
 
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-country="AR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Nueve2017.png/revision/latest/scale-to-width-down/150?cb=20210526032354&path-prefix=es" group-title="INTERNACIONAL", (AR) EL NUEVE
 https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/0df6d88d-304a-4d15-9cf8-eab1bc9b5e45/3.m3u8
@@ -117,9 +118,9 @@ https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
 https://cdnh75.iblups.com/hls/RMuwrdk7M9.m3u8
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Cubavisi%C3%B3n-Internacional-en-vivo-Online.png" group-title="INTERNACIONAL", (CU) CUBAVISIÓN
-http://l3d.us:25461/daleplayD/PN2WghCVNvMk/14523
+http://viperos.net:8080/BorisAriel/Restream1234/32069
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Cubavisi%C3%B3n-Internacional-en-vivo-Online.png" group-title="INTERNACIONAL", (CU) CUBAVISIÓN Internacional
-http://l3d.us:25461/daleplayD/PN2WghCVNvMk/14524
+http://viperos.net:8080/BorisAriel/Restream1234/32067
 
 #EXTINF:-1 tvg-logo="https://www.radiotelevisionmarti.com/Content/responsive/OCB/es-CU/img/logo.png" group-title="INTERNACIONAL", (CU) MARTÍ 
 https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist.m3u8
@@ -128,7 +129,7 @@ https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist.m3u8
 http://200.41.79.165:8000/play/a006/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/900px-Logo_TVE-Internacional.svg.png" group-title="INTERNACIONAL", (ES) TVE
-http://l3d.us:25461/daleplayD/PN2WghCVNvMk/2100541
+http://viperos.net:8080/BorisAriel/Restream1234/27229
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/1024px-EcuadorTV_logo.png" group-title="INTERNACIONAL", (EC) ECUADOR TV 
 http://45.71.185.142:8500/play/a026
@@ -149,7 +150,7 @@ https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
 https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/2097px-Telecinco.svg.png" group-title="INTERNACIONAL", (ES) TELECINCO
-http://l3d.us:25461/daleplayD/PN2WghCVNvMk/2100556
+http://viperos.net:8080/BorisAriel/Restream1234/77
 
 #EXTINF:-1 tvg-logo="https://www.mexicoescultura.com/galerias/espacios/principal/canalonce.png" group-title="INTERNACIONAL", (MX) CANAL ONCE 
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
@@ -158,10 +159,10 @@ https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/VTV_Venezuela_2017_vector.png/revision/latest/scale-to-width-down/250?cb=20211003003059&path-prefix=es" group-title="INTERNACIONAL", (VE) VTV
-http://l3d.us:25461/daleplayD/PN2WghCVNvMk/2106076
+http://viperos.net:8080/BorisAriel/Restream1234/389
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/04/TVES-Venezuela-en-vivo-Online.png" group-title="INTERNACIONAL", (VE) TVES
-http://l3d.us:25461/daleplayD/PN2WghCVNvMk/2106070
+http://viperos.net:8080/BorisAriel/Restream1234/102400
 
 #EXTINF:-1 tvg-logo="https://diegourcola.com//wp-content/uploads/BBC.png" group-title="INTERNACIONAL", (US) BBC
 https://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/playlist.m3u8
@@ -194,10 +195,10 @@ http://viperos.net:8080/BorisAriel/Restream1234/1857
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/HBO_Pop_%282020%29.svg/revision/latest/scale-to-width-down/200?cb=20200508220707" group-title="CINE", HBO POP
 https://edge1.prepro.cvattv.com.ar/live/live/Max_UP_HD/SA_Live_WebVTT_FTA/Max_UP_HD.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/HBO_Pop_%282020%29.svg/revision/latest/scale-to-width-down/200?cb=20200508220707" group-title="CINE", HBO POP |OPC3
-http://iptvtree.net:8080/faucontv/3455cdc6fc/3069
+http://viperos.net:8080/BorisAriel/Restream1234/1860
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/HBO_Mundi_%282020%29.svg/revision/latest/scale-to-width-down/200?cb=20200508220536" group-title="CINE", HBO MUNDI (IPTVT)
-http://iptvtree.net:8080/faucontv/3455cdc6fc/226015
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/HBO_Mundi_%282020%29.svg/revision/latest/scale-to-width-down/200?cb=20200508220536" group-title="CINE", HBO MUNDI (VSP)
 http://viperos.net:8080/BorisAriel/Restream1234/1807
 
@@ -208,10 +209,8 @@ http://viperos.net:8080/BorisAriel/Restream1234/9755
 https://edge3.prepro.cvattv.com.ar/live/vod/HBO_Extreme/SA_Live_WebVTT_FTA/HBO_Extreme.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/I-Sat_2010.svg/revision/latest/scale-to-width-down/250?cb=20151205150732" group-title="CINE", I-SAT 
-http://iptvtree.net:8080/faucontv/3455cdc6fc/285146
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/I-Sat_2010.svg/revision/latest/scale-to-width-down/250?cb=20151205150732" group-title="CINE", I-SAT |Opc.2
 http://viperos.net:8080/BorisAriel/Restream1234/24135
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/I-Sat_2010.svg/revision/latest/scale-to-width-down/250?cb=20151205150732" group-title="CINE", I-SAT |Opc.3
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/I-Sat_2010.svg/revision/latest/scale-to-width-down/250?cb=20151205150732" group-title="CINE", I-SAT |Opc.2
 http://quality-restream.com:8080/Unplugged83/F75DCxx397DMKop5388mM/285146
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Paramount_Network_%28Gradient%29.svg/revision/latest/scale-to-width-down/200?cb=20191226173409" group-title="CINE", PARAMOUNT
@@ -222,14 +221,12 @@ http://viperos.net:8080/BorisAriel/Restream1234/1852
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/31/Film_%26_Arts.svg/revision/latest/scale-to-width-down/300?cb=20191030181426" group-title="CINE", FILM & ARTS |OPC2
 http://viperos.net:8080/BorisAriel/Restream1234/26935
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/31/Film_%26_Arts.svg/revision/latest/scale-to-width-down/300?cb=20191030181426" group-title="CINE", FILM & ARTS
-http://iptvtree.net:8080/faucontv/3455cdc6fc/38678
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HPXHSQp/europa.png" group-title="CINE", EUROPA EUROPA
-http://iptvtree.net:8080/faucontv/3455cdc6fc/187030
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HPXHSQp/europa.png" group-title="CINE", EUROPA EUROPA |OPC3
-http://quality-restream.com:8080/Unplugged83/F75DCxx397DMKop5388mM/187030
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HPXHSQp/europa.png" group-title="CINE", EUROPA EUROPA |OPC2
 http://viperos.net:8080/BorisAriel/Restream1234/1002
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HPXHSQp/europa.png" group-title="CINE", EUROPA EUROPA |OPC2
+http://quality-restream.com:8080/Unplugged83/F75DCxx397DMKop5388mM/187030
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/1280px-A%26E-Network-Logo.svg.png" group-title="CINE", A&E
 https://edge1.prepro.cvattv.com.ar/live/vod/AEHD/SA_Live_WebVTT_FTA/AEHD.m3u8
@@ -293,7 +290,7 @@ http://shortgod.com/19/tv1.php?c=844&f=.m3u8
 http://viperos.net:8080/BorisAriel/Restream1234/313693
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Universal_Comedy.svg/revision/latest/scale-to-width-down/250?cb=20220311032038" group-title="CINE", UNIVERSAL COMEDY
-http://tvfunny.club:25461/Pelisplus/Seriesplus/12944
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Universal_Premiere.svg/revision/latest/scale-to-width-down/250?cb=20220311031855" group-title="CINE", UNIVERSAL PREMIER
 http://viperos.net:8080/BorisAriel/Restream1234/313685
@@ -398,7 +395,6 @@ http://190.83.119.67:8000/play/a0qc/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/SundanceTVlogo.png" group-title="CINE", SUNDANCE TV
 http://viperos.net:8080/BorisAriel/Restream1234/234754
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/SundanceTVlogo.png" group-title="CINE", SUNDANCE TV |OPC.2
-http://l3d.us:25461/daleplayD/PN2WghCVNvMk/2100618
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png" group-title="CINE", Space
 https://edge3.prepro.cvattv.com.ar/live/vod/SpaceHD/SA_Live_WebVTT_FTA/SpaceHD.m3u8
@@ -521,7 +517,7 @@ https://g2.mc-slo.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/gcba
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/NBA_TV_2017.svg/revision/latest/scale-to-width-down/200?cb=20210715160314" group-title="DEPORTES", NBA TV
-http://iptvtree.net:8080/faucontv/3455cdc6fc/762
+http://viperos.net:8080/BorisAriel/Restream1234/41444
 
 #EXTINF:-1 tvg-logo="https://www.mydish.com/filestream.ashx?ID=25593" group-title="DEPORTES", NBA Pass
 http://quality-restream.com:8080/Unplugged83/F75DCxx397DMKop5388mM/198974
@@ -538,13 +534,13 @@ http://190.83.119.67:8000/play/a0v6/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/2560px-LaLiga.svg.png" group-title="DEPORTES", La Liga
 http://51.222.25.50:25461/44pn3w/bull4pp/3321
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/2560px-LaLiga.svg.png" group-title="DEPORTES", La Liga |OPC2
-http://iptvtree.net:8080/faucontv/3455cdc6fc/1141
+http://viperos.net:8080/BorisAriel/Restream1234/250861
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/1280px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="DEPORTES", Liga de Campeones
-http://iptvtree.net:8080/faucontv/3455cdc6fc/2800
+http://viperos.net:8080/BorisAriel/Restream1234/250884
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/Movistar_Deportes.svg/revision/latest/scale-to-width-down/250?cb=20180910204157" group-title="DEPORTES", Movistar Deportes
-http://iptvtree.net:8080/faucontv/3455cdc6fc/227121
+http://viperos.net:8080/BorisAriel/Restream1234/250928
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest/scale-to-width-down/250?cb=20210102195101&path-prefix=es" group-title="DEPORTES", ESPN
 http://51.222.25.50:25461/44pn3w/bull4pp/3034
@@ -559,20 +555,19 @@ http://51.222.25.50:25461/44pn3w/bull4pp/3036
 http://51.222.25.50:25461/44pn3w/bull4pp/3037
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/750px-ESPN_Extra_Logo_2022.webp.png" group-title="DEPORTES", ESPN EXTRA
-http://iptvtree.net:8080/faucontv/3455cdc6fc/66298
+http://viperos.net:8080/BorisAriel/Restream1234/107160
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/387px-DAZN_1_Logo.svg.png?20210827134204" group-title="DEPORTES", DAZN 1
-http://l3d.us:25461/daleplayD/PN2WghCVNvMk/223949
+http://viperos.net:8080/BorisAriel/Restream1234/107099
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png" group-title="DEPORTES", F1
 http://51.222.25.50:25461/44pn3w/bull4pp/3326
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png" group-title="DEPORTES", F1 |OPC2
-http://iptvtree.net:8080/faucontv/3455cdc6fc/1672
+http://viperos.net:8080/BorisAriel/Restream1234/114524
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/VTV_Plus_2021.png/revision/latest/scale-to-width-down/275?cb=20210605021216&path-prefix=es" group-title="DEPORTES", VTV Plus |2
 http://viperos.net:8080/BorisAriel/Restream1234/24023
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/VTV_Plus_2021.png/revision/latest/scale-to-width-down/275?cb=20210605021216&path-prefix=es" group-title="DEPORTES", VTV Plus 
-http://iptvtree.net:8080/faucontv/3455cdc6fc/8659
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/VTV_Logo_2021.png/revision/latest/scale-to-width-down/275?cb=20210429025515&path-prefix=es" group-title="DEPORTES", VTV 
 http://viperos.net:8080/BorisAriel/Restream1234/74130
@@ -586,19 +581,18 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/DirecTV_Sports_2018.svg/revision/latest/scale-to-width-down/250?cb=20200706223451&path-prefix=es" group-title="DEPORTES", DIRECTV Sports
 http://viperos.net:8080/BorisAriel/Restream1234/132133
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/DirecTV_Sports_2018.svg/revision/latest/scale-to-width-down/250?cb=20200706223451&path-prefix=es" group-title="DEPORTES", DIRECTV Sports |CO
-http://iptvtree.net:8080/faucontv/3455cdc6fc/67721
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/revision/latest/scale-to-width-down/288?cb=20191025185617" group-title="DEPORTES", DIRECTV Sports 2
-http://iptvtree.net:8080/faucontv/3455cdc6fc/31645
+http://viperos.net:8080/BorisAriel/Restream1234/103064
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/revision/latest/scale-to-width-down/240?cb=20191025185801" group-title="DEPORTES", DIRECTV Sports+
-http://iptvtree.net:8080/faucontv/3455cdc6fc/295550
+http://viperos.net:8080/BorisAriel/Restream1234/103065
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Eurosport_1_Logo_2015.png" group-title="DEPORTES", EUROSPORT 1
-http://iptvtree.net:8080/faucontv/3455cdc6fc/1160
+http://viperos.net:8080/BorisAriel/Restream1234/163
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png" group-title="DEPORTES", EUROSPORT 2
-http://iptvtree.net:8080/faucontv/3455cdc6fc/16454
+http://viperos.net:8080/BorisAriel/Restream1234/223
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="DEPORTES", WIN Sports
 http://viperos.net:8080/BorisAriel/Restream1234/11130
@@ -642,7 +636,7 @@ http://viperos.net:8080/BorisAriel/Restream1234/24639
 http://51.222.25.50:25461/n3wbull/bulln3w/752
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_quiero_m.png" group-title="MUSICA", QUIERO
-http://l3d.us:25461/daleplayD/PN2WghCVNvMk/2098843
+http://viperos.net:8080/BorisAriel/Restream1234/25189
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RQH8BtH/logo.png" group-title="MUSICA", MUCH MUSIC
 http://l3d.us:25461/daleplayD/PN2WghCVNvMk/2090356
